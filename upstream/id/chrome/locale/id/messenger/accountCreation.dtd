@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Ganti Pengaturan">
 <!ENTITY changeSettings.accesskey        "G">
 
-<!ENTITY contactYourProvider.description "&brandShortName; dapat mengambil email Anda menggunakan konfigurasi yang telah disediakan. Akan tetapi, sebaiknya Anda menghubungi administrator sistem atau penyedia layanan email tentang sambungan yang tidak sesuai. Silakan lihat FAQ Icedove untuk informasi lebih lanjut.">
+<!ENTITY contactYourProvider.description "&brandShortName; dapat mengambil email Anda menggunakan konfigurasi yang telah disediakan. Akan tetapi, sebaiknya Anda menghubungi administrator sistem atau penyedia layanan email tentang sambungan yang tidak sesuai. Silakan lihat FAQ Guacharo untuk informasi lebih lanjut.">
 
 <!ENTITY insecureServer.tooltip.title    "Peringatan! Server ini tidak aman.">
 <!ENTITY insecureServer.tooltip.details  "Klik pada lingkaran untuk detail lebih lanjut.">

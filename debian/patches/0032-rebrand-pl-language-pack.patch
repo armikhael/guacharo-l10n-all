@@ -14,8 +14,8 @@ index 00a9c9b..0f42932 100644
 @@ -1,5 +1,5 @@
 -<!ENTITY brandShortName  "Thunderbird">
 -<!ENTITY brandFullName   "Mozilla Thunderbird">
-+<!ENTITY brandShortName  "Icedove">
-+<!ENTITY brandFullName   "Icedove">
++<!ENTITY brandShortName  "Guacharo">
++<!ENTITY brandFullName   "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  
 -<!ENTITY logoTrademark   "Mozilla Thunderbird oraz logotyp Thunderbird są znakami towarowymi Mozilla Foundation.">
@@ -28,7 +28,7 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 -- 

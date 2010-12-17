@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Ändra inställningarna">
 <!ENTITY changeSettings.accesskey        "Ä">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kan låta dig hämta e-post med de angivna inställningarna. Du bör dock kontakta din administratör eller e-postleverantör rörande denna olämpliga anslutning. Se Icedove FAQ för mer information.">
+<!ENTITY contactYourProvider.description "&brandShortName; kan låta dig hämta e-post med de angivna inställningarna. Du bör dock kontakta din administratör eller e-postleverantör rörande denna olämpliga anslutning. Se Guacharo FAQ för mer information.">
 
 <!ENTITY insecureServer.tooltip.title    "Varning! Det här är en osäker server.">
 <!ENTITY insecureServer.tooltip.details  "Klicka på cirkeln för fler detaljer.">

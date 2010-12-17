@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label "Změnit nastavení">
 <!ENTITY changeSettings.accesskey "m">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vám umožní pracovat s poštou dle zadaného nastavení, ale bylo by vhodné kontaktovat svého administrátora či poskytovatele pošty ohledně řádného připojení. Pro více informací vizte časté otázky aplikace Icedove.">
+<!ENTITY contactYourProvider.description "&brandShortName; vám umožní pracovat s poštou dle zadaného nastavení, ale bylo by vhodné kontaktovat svého administrátora či poskytovatele pošty ohledně řádného připojení. Pro více informací vizte časté otázky aplikace Guacharo.">
 
 <!ENTITY insecureServer.tooltip.title "Upozornění! Toto je nezabezpečený server.">
 <!ENTITY insecureServer.tooltip.details "Klepněte na kroužek pro více informací.">

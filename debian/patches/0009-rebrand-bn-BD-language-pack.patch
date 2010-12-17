@@ -17,8 +17,8 @@ index 6a73a30..120541a 100644
 -<!ENTITY vendorShortName "মোজিলা">
 -<!ENTITY logoTrademark "মোজিলা এবং থান্ডারবার্ড লোগো 
 -মোজিলা ফাউন্ডেশনের ট্রেডমার্ক।">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
 +<!ENTITY vendorShortName "Mozilla">
 +<!ENTITY logoTrademark " ">
 diff --git a/upstream/bn-BD/chrome/locale/bn-BD/branding/brand.properties b/upstream/bn-BD/chrome/locale/bn-BD/branding/brand.properties
@@ -29,7 +29,7 @@ index 9c08eed..44bf191 100644
 -brandShortName=থান্ডারবার্ড
 -brandFullName=মোজিলা থান্ডারবার্ড
 -vendorShortName=মোজিলা
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 -- 

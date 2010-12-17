@@ -49,7 +49,7 @@
 <!ENTITY createAccount.accesskey "u">
 <!ENTITY changeSettings.label "Cambiar configuración">
 <!ENTITY changeSettings.accesskey "b">
-<!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Icedove para más información.">
+<!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Guacharo para más información.">
 <!ENTITY insecureServer.tooltip.title "¡Advertencia! Este servidor es inseguro.">
 <!ENTITY insecureServer.tooltip.details "Pulse en el círculo para más detalles.">
 <!ENTITY insecureUnencrypted.description "Sus credenciales y correo se envían sin cifrar, por lo que su contraseña (y su mensaje) pueden ser leídos fácilmente por otras personas. &brandShortName; le permitirá acceder a su correo, pero debería contactar con su proveedor de correo electrónico para configurar el servidor con una conexión segura.">

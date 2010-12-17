@@ -69,7 +69,7 @@
 <!ENTITY changeSettings.label            "Modifica les opcions">
 <!ENTITY changeSettings.accesskey        "M">
 
-<!ENTITY contactYourProvider.description "El &brandShortName; us podrà donar accés al vostre correu amb les opcions que heu configurat. Tot i així, hauríeu de comentar a l'administrador o al proveïdor de correu que les connexions no estan bé així. Per a més informació consulteu les PMF del Icedove.">
+<!ENTITY contactYourProvider.description "El &brandShortName; us podrà donar accés al vostre correu amb les opcions que heu configurat. Tot i així, hauríeu de comentar a l'administrador o al proveïdor de correu que les connexions no estan bé així. Per a més informació consulteu les PMF del Guacharo.">
 
 <!ENTITY insecureServer.tooltip.title    "Atenció! Això és un servidor insegur.">
 <!ENTITY insecureServer.tooltip.details  "Per a més informació feu un clic al cercle.">

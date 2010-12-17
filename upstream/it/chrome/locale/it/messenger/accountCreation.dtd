@@ -49,7 +49,7 @@
 <!ENTITY createAccount.accesskey "C">
 <!ENTITY changeSettings.label "Cambia impostazioni">
 <!ENTITY changeSettings.accesskey "M">
-<!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Icedove per maggiori informazioni.">
+<!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Guacharo per maggiori informazioni.">
 <!ENTITY insecureServer.tooltip.title "Attenzione, questo è un server non sicuro.">
 <!ENTITY insecureServer.tooltip.details "Clic sul cerchio per maggiori informazioni.">
 <!ENTITY insecureUnencrypted.description "La posta e le informazioni di autenticazione vengono trasmesse senza cifratura, pertanto le password e i messaggi possono essere facilmente letti da altre persone. &brandShortName; consentirà la lettura della posta ma si consiglia di contattare il provider per configurare il server con un collegamento sicuro.">

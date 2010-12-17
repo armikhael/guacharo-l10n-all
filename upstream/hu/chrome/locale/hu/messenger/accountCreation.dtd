@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Beállítások módosítása">
 <!ENTITY changeSettings.accesskey        "B">
 
-<!ENTITY contactYourProvider.description "A &brandShortName; megengedi a levelezést ezzel a konfigurációval. Ennek ellenére kérjük, forduljon a rendszergazdájához vagy az e-mail szolgáltatójához, és hívja fel a figyelmét ezekre a helytelen kapcsolatokra. További részletekért lásd a Icedove FAQ dokumentumot.">
+<!ENTITY contactYourProvider.description "A &brandShortName; megengedi a levelezést ezzel a konfigurációval. Ennek ellenére kérjük, forduljon a rendszergazdájához vagy az e-mail szolgáltatójához, és hívja fel a figyelmét ezekre a helytelen kapcsolatokra. További részletekért lásd a Guacharo FAQ dokumentumot.">
 
 <!ENTITY insecureServer.tooltip.title    "Vigyázat! Ez a kiszolgáló nem biztonságos.">
 <!ENTITY insecureServer.tooltip.details  "A részletekért kattintson a körre.">

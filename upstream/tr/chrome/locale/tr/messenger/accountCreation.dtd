@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label "Ayarları değiştir">
 <!ENTITY changeSettings.accesskey "A">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Icedove FAQ for more information.">
+<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Guacharo FAQ for more information.">
 
 <!ENTITY insecureServer.tooltip.title "Uyarı! Güvenli sunucu değildir.">
 <!ENTITY insecureServer.tooltip.details "Ayrıntılar için çembere tıklayınız.">

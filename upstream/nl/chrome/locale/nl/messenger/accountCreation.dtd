@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Instellingen wijzigen">
 <!ENTITY changeSettings.accesskey        "I">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kan u toegang tot uw e-mail geven met de opgegeven configuratie. U zou echter contact kunnen opnemen met uw systeembeheerder of e-mailprovider vanwege deze onjuiste verbindingen. Zie de Icedove-FAQ voor meer informatie.">
+<!ENTITY contactYourProvider.description "&brandShortName; kan u toegang tot uw e-mail geven met de opgegeven configuratie. U zou echter contact kunnen opnemen met uw systeembeheerder of e-mailprovider vanwege deze onjuiste verbindingen. Zie de Guacharo-FAQ voor meer informatie.">
 
 <!ENTITY insecureServer.tooltip.title    "Waarschuwing! Dit is een niet-beveiligde server.">
 <!ENTITY insecureServer.tooltip.details  "Klik op de cirkel voor meer details.">

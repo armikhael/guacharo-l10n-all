@@ -19,8 +19,8 @@ index 48ec9e7..e1e28fc 100644
 -<!ENTITY  vendorShortName       "Mozilla Thunderbird">
 -<!ENTITY  logoTrademark         "Mozilla Thunderbird та логотипи Thunderbird
 -                                 є торговими марками фундації Mozilla.">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
 +<!ENTITY  vendorShortName       "Mozilla">
 +<!ENTITY  logoTrademark         " ">
 diff --git a/upstream/uk/chrome/locale/uk/branding/brand.properties b/upstream/uk/chrome/locale/uk/branding/brand.properties
@@ -31,8 +31,8 @@ index b31a75c..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/uk/chrome/locale/uk/messenger/accountCreation.dtd b/upstream/uk/chrome/locale/uk/messenger/accountCreation.dtd
 index e26b4cf..e9a0f93 100644
@@ -43,7 +43,7 @@ index e26b4cf..e9a0f93 100644
  <!ENTITY changeSettings.accesskey        "З">
  
 -<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
-+<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Icedove FAQ for more information.">
++<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Guacharo FAQ for more information.">
  
  <!ENTITY insecureServer.tooltip.title    "Увага! Це небезпечний сервер.">
  <!ENTITY insecureServer.tooltip.details  "Клацніть по кружечку щоб дізнатись подробиці.">
@@ -54,7 +54,7 @@ index 4e4e65b..ffd24fe 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title     "Учасники проекту &brandFullName;">
 -<!ENTITY brandMotto       "Thunderbirds Are Go!">
-+<!ENTITY brandMotto       "Icedove Are Go!">
++<!ENTITY brandMotto       "Guacharo Are Go!">
  <!ENTITY credit.thanks    "Спеціальна подяка">
  
  <!-- localization credits look like this: -->

@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Endre innstillinger">
 <!ENTITY changeSettings.accesskey        "E">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kan la deg laste ned e-post med de gitte konfigurasjonene. Men du bør kontakte systemansvarlig eller e-posttilbyderen om disse feilaktige tilkoblingene. Se Icedove FAQ for mer informasjon.">
+<!ENTITY contactYourProvider.description "&brandShortName; kan la deg laste ned e-post med de gitte konfigurasjonene. Men du bør kontakte systemansvarlig eller e-posttilbyderen om disse feilaktige tilkoblingene. Se Guacharo FAQ for mer informasjon.">
 
 <!ENTITY insecureServer.tooltip.title    "Advarsel! Dette er en usikker tjener.">
 <!ENTITY insecureServer.tooltip.details  "Trykk på sirkelen for mer informasjon.">

@@ -16,8 +16,8 @@ index a693a16..e1e28fc 100644
 @@ -1,4 +1,4 @@
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
  <!ENTITY  vendorShortName       "Mozilla">
 -<!ENTITY  logoTrademark         "Mozilla Thunderbird e logotipos Thunderbird são marcas comerciais da Mozilla Foundation.">
 +<!ENTITY  logoTrademark         " ">
@@ -28,8 +28,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/pt-BR/chrome/locale/pt-BR/messenger/accountCreation.dtd b/upstream/pt-BR/chrome/locale/pt-BR/messenger/accountCreation.dtd
 index bd86a1f..741d900 100644
@@ -40,7 +40,7 @@ index bd86a1f..741d900 100644
  <!ENTITY changeSettings.accesskey        "M">
  
 -<!ENTITY contactYourProvider.description "O &brandShortName; possibilitará o uso do seu email usando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de email a respeito da não conveniência destas conexões. Consulte o FAQ do Thunderbird para mais informações.">
-+<!ENTITY contactYourProvider.description "O &brandShortName; possibilitará o uso do seu email usando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de email a respeito da não conveniência destas conexões. Consulte o FAQ do Icedove para mais informações.">
++<!ENTITY contactYourProvider.description "O &brandShortName; possibilitará o uso do seu email usando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de email a respeito da não conveniência destas conexões. Consulte o FAQ do Guacharo para mais informações.">
  
  <!ENTITY insecureServer.tooltip.title    "Alerta! Este é um servidor inseguro.">
  <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes">
@@ -51,7 +51,7 @@ index 71fe207..29a0137 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title     "Créditos do &brandFullName;">
 -<!ENTITY brandMotto       "Thunderbirds Are Go!">
-+<!ENTITY brandMotto       "Icedove Are Go!">
++<!ENTITY brandMotto       "Guacharo Are Go!">
  <!ENTITY credit.thanks    "Agradecimentos especiais">
  
  <!-- localization credits look like this: -->

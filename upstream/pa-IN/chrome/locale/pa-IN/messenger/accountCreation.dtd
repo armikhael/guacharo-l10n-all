@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "ਸੈਟਿੰਗ ਬਦਲੋ">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Icedove FAQ for more information.">
+<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Guacharo FAQ for more information.">
 
 <!ENTITY insecureServer.tooltip.title    "ਚੇਤਾਵਨੀ! ਇਹ ਅਸੁਰੱਖਿਅਤ ਸਰਵਰ ਹੈ।">
 <!ENTITY insecureServer.tooltip.details  "ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਚੱਕਰ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।">

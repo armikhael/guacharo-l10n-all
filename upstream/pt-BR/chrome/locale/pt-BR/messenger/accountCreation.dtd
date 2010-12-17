@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Modificar configurações">
 <!ENTITY changeSettings.accesskey        "M">
 
-<!ENTITY contactYourProvider.description "O &brandShortName; possibilitará o uso do seu email usando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de email a respeito da não conveniência destas conexões. Consulte o FAQ do Icedove para mais informações.">
+<!ENTITY contactYourProvider.description "O &brandShortName; possibilitará o uso do seu email usando as configurações fornecidas. Entretanto, você deve contatar o seu administrador ou provedor de email a respeito da não conveniência destas conexões. Consulte o FAQ do Guacharo para mais informações.">
 
 <!ENTITY insecureServer.tooltip.title    "Alerta! Este é um servidor inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes">

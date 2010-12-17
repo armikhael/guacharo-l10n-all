@@ -18,8 +18,8 @@ index ddb2a35..90d6893 100644
 -<!ENTITY brandFullName "Mozilla Thunderbird">
 -<!ENTITY vendorShortName "Mozilla Thunderbird">
 -<!ENTITY logoTrademark "Mozilla Thunderbird e i loghi di Thunderbird sono marchi registrati di Mozilla Foundation.">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
 +<!ENTITY vendorShortName "Mozilla">
 +<!ENTITY logoTrademark " ">
 diff --git a/upstream/it/chrome/locale/it/branding/brand.properties b/upstream/it/chrome/locale/it/branding/brand.properties
@@ -30,8 +30,8 @@ index df6b6fe..8a22312 100644
 -brandShortName=Mozilla Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
  
 diff --git a/upstream/it/chrome/locale/it/messenger/accountCreation.dtd b/upstream/it/chrome/locale/it/messenger/accountCreation.dtd
@@ -43,7 +43,7 @@ index b4315a5..b82faaf 100644
  <!ENTITY changeSettings.label "Cambia impostazioni">
  <!ENTITY changeSettings.accesskey "M">
 -<!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Thunderbird per maggiori informazioni.">
-+<!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Icedove per maggiori informazioni.">
++<!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Guacharo per maggiori informazioni.">
  <!ENTITY insecureServer.tooltip.title "Attenzione, questo è un server non sicuro.">
  <!ENTITY insecureServer.tooltip.details "Clic sul cerchio per maggiori informazioni.">
  <!ENTITY insecureUnencrypted.description "La posta e le informazioni di autenticazione vengono trasmesse senza cifratura, pertanto le password e i messaggi possono essere facilmente letti da altre persone. &brandShortName; consentirà la lettura della posta ma si consiglia di contattare il provider per configurare il server con un collegamento sicuro.">
@@ -54,7 +54,7 @@ index 49be229..58b47fa 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title "Riconoscimenti &brandFullName;">
 -<!ENTITY brandMotto "Thunderbird si è alzato in volo!">
-+<!ENTITY brandMotto "Icedove si è alzato in volo!">
++<!ENTITY brandMotto "Guacharo si è alzato in volo!">
  <!ENTITY credit.thanks "Ringraziamenti a ">
  <!ENTITY credit.translation "<h3>Traduzione italiana:</h3>
  <ul><li>Roberto Principiano</li></ul>

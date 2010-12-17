@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Spremeni nastavitve">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vam lahko omogoči, da pridete s pomočjo navedenih nastavitev do svoje pošte. Morali pa se boste obrniti na svojega administratorja ali ponudnika poštnih storitev, kar se teh nepravilnih nastavitev tiče. Oglejte si pogostna vprašanja o Icedove, če potrebujete dodatne informacije.">
+<!ENTITY contactYourProvider.description "&brandShortName; vam lahko omogoči, da pridete s pomočjo navedenih nastavitev do svoje pošte. Morali pa se boste obrniti na svojega administratorja ali ponudnika poštnih storitev, kar se teh nepravilnih nastavitev tiče. Oglejte si pogostna vprašanja o Guacharo, če potrebujete dodatne informacije.">
 
 <!ENTITY insecureServer.tooltip.title    "Opozorilo! Ta strežnik ni varen.">
 <!ENTITY insecureServer.tooltip.details  "Kliknite na krog za podrobnosti.">

@@ -15,8 +15,8 @@ index 67ab9d4..e1e28fc 100644
 @@ -1,5 +1,4 @@
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
  <!ENTITY  vendorShortName       "Mozilla">
 -<!ENTITY  logoTrademark         "Mozilla Thunderbird and the Thunderbird logos
 -                                 are trademarks of the Mozilla Foundation.">
@@ -28,8 +28,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/sl/chrome/locale/sl/messenger/accountCreation.dtd b/upstream/sl/chrome/locale/sl/messenger/accountCreation.dtd
 index ad3cca1..201b61a 100644
@@ -40,7 +40,7 @@ index ad3cca1..201b61a 100644
  <!ENTITY changeSettings.accesskey        "S">
  
 -<!ENTITY contactYourProvider.description "&brandShortName; vam lahko omogoči, da pridete s pomočjo navedenih nastavitev do svoje pošte. Morali pa se boste obrniti na svojega administratorja ali ponudnika poštnih storitev, kar se teh nepravilnih nastavitev tiče. Oglejte si pogostna vprašanja o Thunderbirdu, če potrebujete dodatne informacije.">
-+<!ENTITY contactYourProvider.description "&brandShortName; vam lahko omogoči, da pridete s pomočjo navedenih nastavitev do svoje pošte. Morali pa se boste obrniti na svojega administratorja ali ponudnika poštnih storitev, kar se teh nepravilnih nastavitev tiče. Oglejte si pogostna vprašanja o Icedove, če potrebujete dodatne informacije.">
++<!ENTITY contactYourProvider.description "&brandShortName; vam lahko omogoči, da pridete s pomočjo navedenih nastavitev do svoje pošte. Morali pa se boste obrniti na svojega administratorja ali ponudnika poštnih storitev, kar se teh nepravilnih nastavitev tiče. Oglejte si pogostna vprašanja o Guacharo, če potrebujete dodatne informacije.">
  
  <!ENTITY insecureServer.tooltip.title    "Opozorilo! Ta strežnik ni varen.">
  <!ENTITY insecureServer.tooltip.details  "Kliknite na krog za podrobnosti.">

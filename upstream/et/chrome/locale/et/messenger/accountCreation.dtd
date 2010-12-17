@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label             "Redigeeri sätteid">
 <!ENTITY changeSettings.accesskey         "R">
 
-<!ENTITY contactYourProvider.description "&brandShortName; võimaldab sul kirjad hankida etteantud häälestusi kasutades. Siiski peaksid sa valede ühenduste puhul ühendust võtma oma administraatori või e-posti teenusepakkujaga. Täpsema info jaoks loe Icedove korduma kippuvaid küsimusi.">
+<!ENTITY contactYourProvider.description "&brandShortName; võimaldab sul kirjad hankida etteantud häälestusi kasutades. Siiski peaksid sa valede ühenduste puhul ühendust võtma oma administraatori või e-posti teenusepakkujaga. Täpsema info jaoks loe Guacharo korduma kippuvaid küsimusi.">
 
 <!ENTITY insecureServer.tooltip.title     "Hoiatus! See on ebaturvaline server.">
 <!ENTITY insecureServer.tooltip.details   "Täpsema info saamiseks klõpsa ringil.">

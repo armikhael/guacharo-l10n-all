@@ -16,8 +16,8 @@ index 733ea9e..120541a 100644
 @@ -1,4 +1,4 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
 -<!ENTITY logoTrademark "Mozilla Thunderbird y los logos de Thunderbird son marcas registradas de Mozilla Foundation.">
 +<!ENTITY logoTrademark " ">
@@ -29,8 +29,8 @@ index c27e6cb..44bf191 100644
 -brandShortName = Thunderbird
 -brandFullName = Mozilla Thunderbird
 -vendorShortName = Mozilla
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/es-ES/chrome/locale/es-ES/messenger/accountCreation.dtd b/upstream/es-ES/chrome/locale/es-ES/messenger/accountCreation.dtd
 index aebae88..72bd229 100644
@@ -41,7 +41,7 @@ index aebae88..72bd229 100644
  <!ENTITY changeSettings.label "Cambiar configuración">
  <!ENTITY changeSettings.accesskey "b">
 -<!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Thunderbird para más información.">
-+<!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Icedove para más información.">
++<!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Guacharo para más información.">
  <!ENTITY insecureServer.tooltip.title "¡Advertencia! Este servidor es inseguro.">
  <!ENTITY insecureServer.tooltip.details "Pulse en el círculo para más detalles.">
  <!ENTITY insecureUnencrypted.description "Sus credenciales y correo se envían sin cifrar, por lo que su contraseña (y su mensaje) pueden ser leídos fácilmente por otras personas. &brandShortName; le permitirá acceder a su correo, pero debería contactar con su proveedor de correo electrónico para configurar el servidor con una conexión segura.">
@@ -52,7 +52,7 @@ index b08752b..94e0b49 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title "Créditos de &brandFullName;">
 -<!ENTITY brandMotto "¡Los Thunderbirds despegan!">
-+<!ENTITY brandMotto "¡Los Icedove despegan!">
++<!ENTITY brandMotto "¡Los Guacharo despegan!">
  <!ENTITY credit.thanks "Agradecimiento especial a">
  <!ENTITY credit.translation "<h3>Traducción</h3>
  <ul><li>Proyecto NAVE</li></ul>">

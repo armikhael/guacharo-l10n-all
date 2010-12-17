@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Wizigje ynstellings">
 <!ENTITY changeSettings.accesskey        "W">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kin jo tastean om jo e-mail te krijen mei dizze konfiguraasjes. Mar, jo soene kontakt opnimme moatte mei de administrator of e-mailprovider oer dizze ferkearde ferbinings. Sjoch de Icedove FAQ foar mear ynformaasje.">
+<!ENTITY contactYourProvider.description "&brandShortName; kin jo tastean om jo e-mail te krijen mei dizze konfiguraasjes. Mar, jo soene kontakt opnimme moatte mei de administrator of e-mailprovider oer dizze ferkearde ferbinings. Sjoch de Guacharo FAQ foar mear ynformaasje.">
 
 <!ENTITY insecureServer.tooltip.title    "Warskôging! Dit is in ûnfeilige tsjinner.">
 <!ENTITY insecureServer.tooltip.details  "Klik sirkel foar mear details.">

@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "修改设置">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; 可以让您通过使用提供的配置信息来收取邮件。但是，对于这些不正确的连接，您应该联系您的管理员或者电子邮件提供商，更详细的信息请参见 Icedove 常见问题解答。">
+<!ENTITY contactYourProvider.description "&brandShortName; 可以让您通过使用提供的配置信息来收取邮件。但是，对于这些不正确的连接，您应该联系您的管理员或者电子邮件提供商，更详细的信息请参见 Guacharo 常见问题解答。">
 
 <!ENTITY insecureServer.tooltip.title    "警告！这是一个不安全的服务器.">
 <!ENTITY insecureServer.tooltip.details  "点击圆圈查看更多信息。">

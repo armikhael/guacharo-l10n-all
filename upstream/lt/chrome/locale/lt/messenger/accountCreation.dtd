@@ -98,7 +98,7 @@
 <!ENTITY changeSettings.label            "Keisti nuostatas">
 <!ENTITY changeSettings.accesskey        "n">
 
-<!ENTITY contactYourProvider.description "„&brandShortName;“ gali Jums leisti gauti paštą naudojant pateiktąsias nuostatas. Tačiau Jums derėtų susisiekti su sistemos administratoriumi ar el. pašto paslaugos teikėju dėl šių netinkamų nuostatų. Plačiau apie tai – „Icedove“ žinyne.">
+<!ENTITY contactYourProvider.description "„&brandShortName;“ gali Jums leisti gauti paštą naudojant pateiktąsias nuostatas. Tačiau Jums derėtų susisiekti su sistemos administratoriumi ar el. pašto paslaugos teikėju dėl šių netinkamų nuostatų. Plačiau apie tai – „Guacharo“ žinyne.">
 
 <!ENTITY insecureServer.tooltip.title    "Dėmesio! Šis serveris nesaugus.">
 <!ENTITY insecureServer.tooltip.details  "Spustelėkite apskritimą, jei norite sužinoti daugiau.">

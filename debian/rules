@@ -33,8 +33,8 @@ override_dh_auto_install:
 	for DIRECTORY in *; \
 	do \
 		LOCALE=`echo $${DIRECTORY} | sed --posix 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/'`; \
-		mkdir -p $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/chrome; \
-		install -m 644 $${DIRECTORY}/chrome/*.jar $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/chrome; \
+		mkdir -p $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/chrome; \
+		install -m 644 $${DIRECTORY}/chrome/*.jar $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/chrome; \
 	done;
 
 	# install.rdf
@@ -42,7 +42,7 @@ override_dh_auto_install:
 	for DIRECTORY in *; \
 	do \
 		LOCALE=`echo $${DIRECTORY} | sed --posix 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/'`; \
-		install -m 644 $${DIRECTORY}/install.rdf $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`; \
+		install -m 644 $${DIRECTORY}/install.rdf $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`; \
 	done;
 
 	# chrome.manifest
@@ -50,7 +50,7 @@ override_dh_auto_install:
 	for DIRECTORY in *; \
 	do \
 		LOCALE=`echo $${DIRECTORY} | sed --posix 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/'`; \
-		install -m 644 $${DIRECTORY}/chrome.manifest $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`; \
+		install -m 644 $${DIRECTORY}/chrome.manifest $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`; \
 	done;
 
 	# uninstall
@@ -58,11 +58,11 @@ override_dh_auto_install:
 	for DIRECTORY in *; \
 	do \
 		LOCALE=`echo $${DIRECTORY} | sed --posix 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/'`; \
-		mkdir -p $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/uninstall; \
+		mkdir -p $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/uninstall; \
 		cat $${DIRECTORY}/install.rdf | \
 			sed --posix '/<em:locale>/!d' | \
 			sed --posix "s/.*/register	global	locale	$${DIRECTORY}/" > \
-			$(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/uninstall/Uninstall; \
+			$(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions/`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`/uninstall/Uninstall; \
 	done;
 
 	# debian settings
@@ -70,6 +70,6 @@ override_dh_auto_install:
 	for DIRECTORY in *; \
 	do \
 		LOCALE=`echo $${DIRECTORY} | sed --posix 'y/ABCDEFGHIJKLMNOPQRSTUVWXYZ/abcdefghijklmnopqrstuvwxyz/'`; \
-		mkdir -p $(CURDIR)/debian/icedove-l10n-$${LOCALE}/var/lib/icedove/extensions.d; \
-		echo extension,`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'` > $(CURDIR)/debian/icedove-l10n-$${LOCALE}/var/lib/icedove/extensions.d/50$${DIRECTORY}-locale.ext; \
+		mkdir -p $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/var/lib/guacharo/extensions.d; \
+		echo extension,`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'` > $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/var/lib/guacharo/extensions.d/50$${DIRECTORY}-locale.ext; \
 	done;

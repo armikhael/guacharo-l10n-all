@@ -18,8 +18,8 @@ index 9f770f0..e1e28fc 100644
 -<!ENTITY  vendorShortName       "ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ">
 -<!ENTITY  logoTrademark         "Mozilla Thunderbird and the Thunderbird logos
 -                                 are trademarks of the Mozilla Foundation.">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
 +<!ENTITY  vendorShortName       "Mozilla">
 +<!ENTITY  logoTrademark         " ">
 diff --git a/upstream/pa-IN/chrome/locale/pa-IN/branding/brand.properties b/upstream/pa-IN/chrome/locale/pa-IN/branding/brand.properties
@@ -31,8 +31,8 @@ index 6013f83..44bf191 100644
 -brandFullName=ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ
 -vendorShortName=ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ
 \ No newline at end of file
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/pa-IN/chrome/locale/pa-IN/messenger/accountCreation.dtd b/upstream/pa-IN/chrome/locale/pa-IN/messenger/accountCreation.dtd
 index 1db821d..f884a03 100644
@@ -43,7 +43,7 @@ index 1db821d..f884a03 100644
  <!ENTITY changeSettings.accesskey        "S">
  
 -<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Thunderbird FAQ for more information.">
-+<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Icedove FAQ for more information.">
++<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Guacharo FAQ for more information.">
  
  <!ENTITY insecureServer.tooltip.title    "ਚੇਤਾਵਨੀ! ਇਹ ਅਸੁਰੱਖਿਅਤ ਸਰਵਰ ਹੈ।">
  <!ENTITY insecureServer.tooltip.details  "ਹੋਰ ਜਾਣਕਾਰੀ ਲਈ ਚੱਕਰ ਨੂੰ ਕਲਿੱਕ ਕਰੋ।">

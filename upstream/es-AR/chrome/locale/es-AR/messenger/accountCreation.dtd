@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Cambiar configuración">
 <!ENTITY changeSettings.accesskey        "m">
 
-<!ENTITY contactYourProvider.description "&brandShortName; le permite obtener su correo usando la configuarción provista. Sin embargo, debería contacta a su administrador o proveedor de correo acerca de estas conexiones improper. Vea las FAQ de Icedove para más información.">
+<!ENTITY contactYourProvider.description "&brandShortName; le permite obtener su correo usando la configuarción provista. Sin embargo, debería contacta a su administrador o proveedor de correo acerca de estas conexiones improper. Vea las FAQ de Guacharo para más información.">
 
 <!ENTITY insecureServer.tooltip.title    "¡Advertencia! Éste es un servidor inseguro.">
 <!ENTITY insecureServer.tooltip.details  "Click circle for more details.">

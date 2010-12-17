@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label "Промяна на настройките">
 <!ENTITY changeSettings.accesskey "н">
 
-<!ENTITY contactYourProvider.description "&brandShortName; ви дава възможност да получите ващата поща с помощта на дадените настройки. Въпреки това се свържете с вашия администратор или доставчик относно тези неправилни връзки. За повече информация вижте ЧЗВ на Icedove.">
+<!ENTITY contactYourProvider.description "&brandShortName; ви дава възможност да получите ващата поща с помощта на дадените настройки. Въпреки това се свържете с вашия администратор или доставчик относно тези неправилни връзки. За повече информация вижте ЧЗВ на Guacharo.">
 
 <!ENTITY insecureServer.tooltip.title "Внимание! Това е неосигурен сървър.">
 <!ENTITY insecureServer.tooltip.details "Щракнете на кръгчето за подробности.">

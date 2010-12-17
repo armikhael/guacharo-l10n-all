@@ -69,7 +69,7 @@
 <!ENTITY changeSettings.label            "Zmeniť nastavenia">
 <!ENTITY changeSettings.accesskey        "e">
 
-<!ENTITY contactYourProvider.description "&brandShortName; vám môže umožniť získať vaše e-mailové správy použitím poskytnutej konfigurácie. Avšak mali by ste kontaktovať vášho poskytovateľa e-mailovej schránky alebo správcu systému a požiadať ho o údaje k neplatným pripojeniam. Viac informácii nájdete na stránke Icedove - Často kladené otázky.">
+<!ENTITY contactYourProvider.description "&brandShortName; vám môže umožniť získať vaše e-mailové správy použitím poskytnutej konfigurácie. Avšak mali by ste kontaktovať vášho poskytovateľa e-mailovej schránky alebo správcu systému a požiadať ho o údaje k neplatným pripojeniam. Viac informácii nájdete na stránke Guacharo - Často kladené otázky.">
 
 <!ENTITY insecureServer.tooltip.title    "Upozornenie! Toto je nezabezpečený server.">
 <!ENTITY insecureServer.tooltip.details  "Viac informácií získate po kliknutí na krúžok.">

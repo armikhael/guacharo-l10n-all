@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Mudar definições">
 <!ENTITY changeSettings.accesskey        "u">
 
-<!ENTITY contactYourProvider.description "O &brandShortName; pode permitir que receba o seu correio com as configurações fornecidas. No entanto, deve contactar o seu administrador ou fornecedor de correio electrónico sobre estas ligações incorrectas. Para mais informação veja a FAQ do Icedove FAQ.">
+<!ENTITY contactYourProvider.description "O &brandShortName; pode permitir que receba o seu correio com as configurações fornecidas. No entanto, deve contactar o seu administrador ou fornecedor de correio electrónico sobre estas ligações incorrectas. Para mais informação veja a FAQ do Guacharo FAQ.">
 
 <!ENTITY insecureServer.tooltip.title    "Aviso! Este servidor não é seguro.">
 <!ENTITY insecureServer.tooltip.details  "Clique no círculo para mais detalhes.">

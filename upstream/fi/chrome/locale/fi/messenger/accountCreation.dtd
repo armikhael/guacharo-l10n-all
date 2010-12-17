@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Muokkaa asetuksia">
 <!ENTITY changeSettings.accesskey        "u">
 
-<!ENTITY contactYourProvider.description "&brandShortName; pystyy hakemaan postisi näillä asetuksilla. Sinun kuitenkin tulisi huomauttaa koneesi ylläpitäjälle tai sähköpostipalvelun tarjoajallesi näistä epämääräisistä yhteystavoista. Lue lisää aiheesta Icedove FAQ:sta.">
+<!ENTITY contactYourProvider.description "&brandShortName; pystyy hakemaan postisi näillä asetuksilla. Sinun kuitenkin tulisi huomauttaa koneesi ylläpitäjälle tai sähköpostipalvelun tarjoajallesi näistä epämääräisistä yhteystavoista. Lue lisää aiheesta Guacharo FAQ:sta.">
 
 <!ENTITY insecureServer.tooltip.title    "Varoitus! Tämä palvelin ei ole suojattu.">
 <!ENTITY insecureServer.tooltip.details  "Napsauta ympyrää lukeaksesi lisää.">

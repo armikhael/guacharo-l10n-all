@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label "Wysig instellings">
 <!ENTITY changeSettings.accesskey "i">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kan u in staat stel om u pos met die aangegewe opstelling te kry. U moet egter u administrateur of e-posverskaffer kontak oor hierdie foutiewe verbindings. Kyk die Icedove-kwelvrae vir meer inligting.">
+<!ENTITY contactYourProvider.description "&brandShortName; kan u in staat stel om u pos met die aangegewe opstelling te kry. U moet egter u administrateur of e-posverskaffer kontak oor hierdie foutiewe verbindings. Kyk die Guacharo-kwelvrae vir meer inligting.">
 
 <!ENTITY insecureServer.tooltip.title "Let wel! Dit is 'n onbeveiligde bediener.">
 <!ENTITY insecureServer.tooltip.details "Kliek sirkel vir meer besonderhede.">

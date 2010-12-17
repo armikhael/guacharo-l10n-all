@@ -17,8 +17,8 @@ index e5da830..6f4534c 100644
 @@ -1,5 +1,4 @@
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
  <!ENTITY  vendorShortName       "Mozilla">
 -<!ENTITY  logoTrademark         "Mozilla Thunderbird y los logos de Thunderbird
 -                                 son marcas comerciales de Mozilla Foundation.">
@@ -30,8 +30,8 @@ index e20eab8..09e6402 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/es-AR/chrome/locale/es-AR/messenger/accountCreation.dtd b/upstream/es-AR/chrome/locale/es-AR/messenger/accountCreation.dtd
 index 4d6c028..d134b18 100644
@@ -42,7 +42,7 @@ index 4d6c028..d134b18 100644
  <!ENTITY changeSettings.accesskey        "m">
  
 -<!ENTITY contactYourProvider.description "&brandShortName; le permite obtener su correo usando la configuarción provista. Sin embargo, debería contacta a su administrador o proveedor de correo acerca de estas conexiones improper. Vea las FAQ de Thunderbird para más información.">
-+<!ENTITY contactYourProvider.description "&brandShortName; le permite obtener su correo usando la configuarción provista. Sin embargo, debería contacta a su administrador o proveedor de correo acerca de estas conexiones improper. Vea las FAQ de Icedove para más información.">
++<!ENTITY contactYourProvider.description "&brandShortName; le permite obtener su correo usando la configuarción provista. Sin embargo, debería contacta a su administrador o proveedor de correo acerca de estas conexiones improper. Vea las FAQ de Guacharo para más información.">
  
  <!ENTITY insecureServer.tooltip.title    "¡Advertencia! Éste es un servidor inseguro.">
  <!ENTITY insecureServer.tooltip.details  "Click circle for more details.">
@@ -53,7 +53,7 @@ index 6a3ff0a..8db610d 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title     "&brandFullName; Credits">
 -<!ENTITY brandMotto       "Thunderbirds Are Go!">
-+<!ENTITY brandMotto       "Icedove Are Go!">
++<!ENTITY brandMotto       "Guacharo Are Go!">
  <!ENTITY credit.thanks    "Agradecimentos especiales a">
  
  <!-- localization credits look like this: -->
@@ -65,11 +65,11 @@ index 368b78f..5115821 100644
  <!ENTITY window.title "Sobre el correo basura">
  <!ENTITY window.width "450">
 -<!ENTITY info1a.label "Thunderbird detecta automáticamente los mensajes entrantes que parecen ser correo basura (o &quot;spam&quot;). Los mensajes que Thunderbird identifica así mostrarán un icono de basura">
-+<!ENTITY info1a.label "Icedove detecta automáticamente los mensajes entrantes que parecen ser correo basura (o &quot;spam&quot;). Los mensajes que Icedove identifica así mostrarán un icono de basura">
++<!ENTITY info1a.label "Guacharo detecta automáticamente los mensajes entrantes que parecen ser correo basura (o &quot;spam&quot;). Los mensajes que Guacharo identifica así mostrarán un icono de basura">
  <!ENTITY info1b.label ".">
 -<!ENTITY info2.label "Al principio, debe enseñar a Thunderbird a identificar el correo basura usando el botón Basura de la barra de herramientas para marcar o desmarcar mensajes como basura.">
 -<!ENTITY info3.label "Una vez que Thunderbird identifique correctamente el correo basura, puede usar los controles de correo basura para trasladar automáticamente el correo basura entrante a la carpeta de correo basura (Junk).">
-+<!ENTITY info2.label "Al principio, debe enseñar a Icedove a identificar el correo basura usando el botón Basura de la barra de herramientas para marcar o desmarcar mensajes como basura.">
-+<!ENTITY info3.label "Una vez que Icedove identifique correctamente el correo basura, puede usar los controles de correo basura para trasladar automáticamente el correo basura entrante a la carpeta de correo basura (Junk).">
++<!ENTITY info2.label "Al principio, debe enseñar a Guacharo a identificar el correo basura usando el botón Basura de la barra de herramientas para marcar o desmarcar mensajes como basura.">
++<!ENTITY info3.label "Una vez que Guacharo identifique correctamente el correo basura, puede usar los controles de correo basura para trasladar automáticamente el correo basura entrante a la carpeta de correo basura (Junk).">
  <!ENTITY info4.label "Para más información, pulse Ayuda.">
 -- 

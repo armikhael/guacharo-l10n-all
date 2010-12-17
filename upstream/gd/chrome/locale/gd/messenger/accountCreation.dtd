@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Atharraich roghainnean">
 <!ENTITY changeSettings.accesskey        "A">
 
-<!ENTITY contactYourProvider.description "'S urrainn do &brandShortName; cead a thoirt dhut am post agad fhaighinn leis na roghainnean a thagh thu. Ge-tà, bu chòir dhut fios a leigeil dhan rianadair agad no do sholaraiche a' phuist-dhealain agad a thaobh nan ceanglaichean neo-iomchaidh seo. Cuir sùil air na CÀBHA aig Icedove airson barrachd fiosrachaidh.">
+<!ENTITY contactYourProvider.description "'S urrainn do &brandShortName; cead a thoirt dhut am post agad fhaighinn leis na roghainnean a thagh thu. Ge-tà, bu chòir dhut fios a leigeil dhan rianadair agad no do sholaraiche a' phuist-dhealain agad a thaobh nan ceanglaichean neo-iomchaidh seo. Cuir sùil air na CÀBHA aig Guacharo airson barrachd fiosrachaidh.">
 
 <!ENTITY insecureServer.tooltip.title    "Rabhadh! 'S e frithealaiche neo-thèarainte a tha seo.">
 <!ENTITY insecureServer.tooltip.details  "Briog air a' chearcall airson barrachd fiosrachaidh.">

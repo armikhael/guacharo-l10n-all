@@ -75,7 +75,7 @@
 <!ENTITY changeSettings.label            "සැකසුම් වෙනස්කිරීම">
 <!ENTITY changeSettings.accesskey        "S">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Icedove FAQ for more information.">
+<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Guacharo FAQ for more information.">
 
 <!ENTITY insecureServer.tooltip.title    "අවවාදයයි! මෙය අනාරක්ෂිත සේවාදායකයකි.">
 <!ENTITY insecureServer.tooltip.details  "වැඩි විස්තර සඳහා වෘත්තය ත්ලිත් තරන්න.">

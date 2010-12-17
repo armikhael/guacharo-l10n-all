@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label "Athraigh Socruithe">
 <!ENTITY changeSettings.accesskey "S">
 
-<!ENTITY contactYourProvider.description "Is féidir le &brandShortName; do chuid ríomhphoist a fháil leis an gcumraíocht soláthraithe. Ba cheart duit le do riarthóir nó do sholáthraí ríomhphoist maidir leis na ceangail mhíchuí seo, áfach. Feic ceisteanna coitianta Icedove le haghaidh tuilleadh eolais.">
+<!ENTITY contactYourProvider.description "Is féidir le &brandShortName; do chuid ríomhphoist a fháil leis an gcumraíocht soláthraithe. Ba cheart duit le do riarthóir nó do sholáthraí ríomhphoist maidir leis na ceangail mhíchuí seo, áfach. Feic ceisteanna coitianta Guacharo le haghaidh tuilleadh eolais.">
 
 <!ENTITY insecureServer.tooltip.title "Rabhadh! Freastalaí neamhshlán é seo.">
 <!ENTITY insecureServer.tooltip.details "Cliceáil ar an gciorcal chun tuilleadh sonraí a fháil.">

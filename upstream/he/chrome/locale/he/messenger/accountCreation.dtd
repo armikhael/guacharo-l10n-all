@@ -71,7 +71,7 @@
 <!ENTITY changeSettings.label            "שנה הגדרות">
 <!ENTITY changeSettings.accesskey        "ש">
 
-<!ENTITY contactYourProvider.description "&brandShortName; יכול לאפשר לך לקבל את הדואר שלך עם ההגדרות שסופקו. למרות זאת, כדאי שתיצור קשר עם המנהל שלך או עם ספק שירות הדוא״ל בנוגע לחיבורים לא תקינים אלו. אנא גש ל־Icedove FAQ למידע נוסף.">
+<!ENTITY contactYourProvider.description "&brandShortName; יכול לאפשר לך לקבל את הדואר שלך עם ההגדרות שסופקו. למרות זאת, כדאי שתיצור קשר עם המנהל שלך או עם ספק שירות הדוא״ל בנוגע לחיבורים לא תקינים אלו. אנא גש ל־Guacharo FAQ למידע נוסף.">
 
 <!ENTITY insecureServer.tooltip.title    "זהירות! זהו שרת לא מאובטח.">
 <!ENTITY insecureServer.tooltip.details  "לחץ על העיגול לפרטים נוספים.">

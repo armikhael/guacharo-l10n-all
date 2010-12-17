@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Змінити настройки">
 <!ENTITY changeSettings.accesskey        "З">
 
-<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Icedove FAQ for more information.">
+<!ENTITY contactYourProvider.description "&brandShortName; can allow you to get to your mail using the provided configurations. However, you should contact your administrator or email provider regarding these improper connections. See the Guacharo FAQ for more information.">
 
 <!ENTITY insecureServer.tooltip.title    "Увага! Це небезпечний сервер.">
 <!ENTITY insecureServer.tooltip.details  "Клацніть по кружечку щоб дізнатись подробиці.">

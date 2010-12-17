@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label "Aldatu ezarpenak">
 <!ENTITY changeSettings.accesskey "z">
 
-<!ENTITY contactYourProvider.description "&brandShortName;(e)k dakartzan konfigurazioekin zure posta eskura dezakezu. Halere, konexio desegokiak horiek direla-eta, zure sistemaren kudeatzailearekin jarri behar zenuke harremanetan. Ikusi Icedove FAQa argibide gehiagorako.">
+<!ENTITY contactYourProvider.description "&brandShortName;(e)k dakartzan konfigurazioekin zure posta eskura dezakezu. Halere, konexio desegokiak horiek direla-eta, zure sistemaren kudeatzailearekin jarri behar zenuke harremanetan. Ikusi Guacharo FAQa argibide gehiagorako.">
 
 <!ENTITY insecureServer.tooltip.title "Abisua! Zerbitzari hau ez da segurua.">
 <!ENTITY insecureServer.tooltip.details "Egin klik zirkuluan xehetasun gehiagorako.">

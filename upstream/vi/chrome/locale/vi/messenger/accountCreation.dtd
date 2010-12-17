@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Thay đổi Thiết lập">
 <!ENTITY changeSettings.accesskey        "y">
 
-<!ENTITY contactYourProvider.description "&brandShortName; có thể cho phép bạn tải thư bằng cấu hình đã cung cấp. Tuy nhiên, bạn nên liên hệ quản trị viên hoặc nhà cung cấp thư điện tử về vấn đề kết nối không phù hợp này. Xem FAQ của Icedove để biết thêm thông tin.">
+<!ENTITY contactYourProvider.description "&brandShortName; có thể cho phép bạn tải thư bằng cấu hình đã cung cấp. Tuy nhiên, bạn nên liên hệ quản trị viên hoặc nhà cung cấp thư điện tử về vấn đề kết nối không phù hợp này. Xem FAQ của Guacharo để biết thêm thông tin.">
 
 <!ENTITY insecureServer.tooltip.title    "Cảnh báo! Đây là một máy chủ không bảo mật.">
 <!ENTITY insecureServer.tooltip.details  "Nhấn lên vòng tròn để biết thêm chi tiết.">

@@ -16,8 +16,8 @@ index f370d9e..cb079ce 100644
 @@ -1,6 +1,6 @@
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
  <!ENTITY  vendorShortName       "Mozilla">
 -<!ENTITY  logoTrademark         "Τα λογότυπα Mozilla Thunderbird και Thunderbird είναι κατοχυρωμένα στο Mozilla Foundation.">
 +<!ENTITY  logoTrademark         " ">
@@ -30,8 +30,8 @@ index 459e67a..8a22312 100644
 @@ -1,4 +1,4 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
  
 diff --git a/upstream/el/chrome/locale/el/messenger/accountCreation.dtd b/upstream/el/chrome/locale/el/messenger/accountCreation.dtd
@@ -43,7 +43,7 @@ index 78fbfe5..55af7aa 100644
  <!ENTITY changeSettings.label "Αλλαγή ρυθμίσεων">
  <!ENTITY changeSettings.accesskey "ρ">
 -<!ENTITY contactYourProvider.description "Ο &brandShortName; μπορεί να σας επιτρέψει να κάνετε λήψη της αλληλογραφίας σας με αυτές τις ρυθμίσεις. Όμως, θα πρέπει να επικοινωνήσετε με τον διαχειριστή του συστήματος σας ή με τον πάροχο της ηλεκτρονικής αλληλογραφίας σας για αυτές τις μη ασφαλείς ρυθμίσεις. Δείτε το Thunderbird FAQ για περισσότερες πληροφορίες.">
-+<!ENTITY contactYourProvider.description "Ο &brandShortName; μπορεί να σας επιτρέψει να κάνετε λήψη της αλληλογραφίας σας με αυτές τις ρυθμίσεις. Όμως, θα πρέπει να επικοινωνήσετε με τον διαχειριστή του συστήματος σας ή με τον πάροχο της ηλεκτρονικής αλληλογραφίας σας για αυτές τις μη ασφαλείς ρυθμίσεις. Δείτε το Icedove FAQ για περισσότερες πληροφορίες.">
++<!ENTITY contactYourProvider.description "Ο &brandShortName; μπορεί να σας επιτρέψει να κάνετε λήψη της αλληλογραφίας σας με αυτές τις ρυθμίσεις. Όμως, θα πρέπει να επικοινωνήσετε με τον διαχειριστή του συστήματος σας ή με τον πάροχο της ηλεκτρονικής αλληλογραφίας σας για αυτές τις μη ασφαλείς ρυθμίσεις. Δείτε το Guacharo FAQ για περισσότερες πληροφορίες.">
  <!ENTITY insecureServer.tooltip.title "Προειδοποίηση! Αυτός είναι ένας μη ασφαλής διακομιστής.">
  <!ENTITY insecureServer.tooltip.details "Κάντε κλικ στον κύκλο για περισσότερες λεπτομέρειες.">
  <!ENTITY insecureUnencrypted.description "Το μήνυμα σας και η πιστοποίηση σας στέλνονται χωρίς κρυπτογράφηση και έτσι είναι εύκολο να διαβαστούν από τρίτους. Ο &brandShortName; θα σας επιτρέψει να κάνετε λήψη της αλληλογραφίας σας, αλλά θα πρέπει να ρυθμίσετε τον διακομιστή σας  να χρησιμοποιεί ασφαλή σύνδεση.">
@@ -54,7 +54,7 @@ index d9ca413..a496984 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title "Μνεία &brandFullName;">
 -<!ENTITY brandMotto "Thunderbirds Are Go!">
-+<!ENTITY brandMotto "Icedove Are Go!">
++<!ENTITY brandMotto "Guacharo Are Go!">
  <!ENTITY credit.thanks "Ειδικές ευχαριστίες σε">
  <!ENTITY credit.translation "<h3>Ελληνική έκδοση</h3><ul><li>Κώστας Παπαδήμας</li><li>Ελληνική ομάδα του mozilla</li></ul>">
  <!ENTITY credit.memory "In Fond Memory Of">

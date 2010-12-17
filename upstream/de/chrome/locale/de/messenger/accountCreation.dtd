@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label            "Einstellungen ändern">
 <!ENTITY changeSettings.accesskey        "n">
 
-<!ENTITY contactYourProvider.description "&brandShortName; kann Ihre Nachrichten mit den gewählten Einstellungen abrufen. Sie sollten jedoch Ihren Administrator oder E-Mail-Provider wegen dieser mangelhaften Verbindungsmöglichkeit kontaktieren. Lesen Sie in der Icedove-FAQ für weitere Informationen.">
+<!ENTITY contactYourProvider.description "&brandShortName; kann Ihre Nachrichten mit den gewählten Einstellungen abrufen. Sie sollten jedoch Ihren Administrator oder E-Mail-Provider wegen dieser mangelhaften Verbindungsmöglichkeit kontaktieren. Lesen Sie in der Guacharo-FAQ für weitere Informationen.">
 
 <!ENTITY insecureServer.tooltip.title    "Warnung! Dies ist ein unsicherer Server.">
 <!ENTITY insecureServer.tooltip.details  "Klicken Sie auf den Kreis für weitere Details.">

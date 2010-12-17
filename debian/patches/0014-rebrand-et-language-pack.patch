@@ -16,8 +16,8 @@ index 64af460..e1e28fc 100644
 @@ -1,5 +1,4 @@
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
  <!ENTITY  vendorShortName       "Mozilla">
 -<!ENTITY  logoTrademark         "Mozilla Thunderbird ja Thunderbirdi logod
 -                                 on Mozilla Foundation'i kaubamärgid.">
@@ -30,8 +30,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/et/chrome/locale/et/messenger/accountCreation.dtd b/upstream/et/chrome/locale/et/messenger/accountCreation.dtd
 index b2deca8..497f055 100644
@@ -42,7 +42,7 @@ index b2deca8..497f055 100644
  <!ENTITY changeSettings.accesskey         "R">
  
 -<!ENTITY contactYourProvider.description "&brandShortName; võimaldab sul kirjad hankida etteantud häälestusi kasutades. Siiski peaksid sa valede ühenduste puhul ühendust võtma oma administraatori või e-posti teenusepakkujaga. Täpsema info jaoks loe Thunderbirdi korduma kippuvaid küsimusi.">
-+<!ENTITY contactYourProvider.description "&brandShortName; võimaldab sul kirjad hankida etteantud häälestusi kasutades. Siiski peaksid sa valede ühenduste puhul ühendust võtma oma administraatori või e-posti teenusepakkujaga. Täpsema info jaoks loe Icedove korduma kippuvaid küsimusi.">
++<!ENTITY contactYourProvider.description "&brandShortName; võimaldab sul kirjad hankida etteantud häälestusi kasutades. Siiski peaksid sa valede ühenduste puhul ühendust võtma oma administraatori või e-posti teenusepakkujaga. Täpsema info jaoks loe Guacharo korduma kippuvaid küsimusi.">
  
  <!ENTITY insecureServer.tooltip.title     "Hoiatus! See on ebaturvaline server.">
  <!ENTITY insecureServer.tooltip.details   "Täpsema info saamiseks klõpsa ringil.">
@@ -53,7 +53,7 @@ index 7c8d68b..508dcd2 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title          "&brandFullName;i teave">
 -<!ENTITY brandMotto            "Thunderbird on lahe!">
-+<!ENTITY brandMotto            "Icedove on lahe!">
++<!ENTITY brandMotto            "Guacharo on lahe!">
  <!ENTITY credit.thanks         "Erilised tänud">
  <!-- localization credits look like this: -->
  <!--

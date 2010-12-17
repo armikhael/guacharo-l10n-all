@@ -68,7 +68,7 @@
 <!ENTITY changeSettings.label		"設定変更">
 <!ENTITY changeSettings.accesskey	"S">
 
-<!ENTITY contactYourProvider.description	"提供された設定を使用して &brandShortName; であなたのメールを受信することができます。ただし、これらの接続が不適当でないか、サーバの管理者またはメールプロバイダと連絡をとってください。詳しい情報は Icedove FAQ をご覧ください。">
+<!ENTITY contactYourProvider.description	"提供された設定を使用して &brandShortName; であなたのメールを受信することができます。ただし、これらの接続が不適当でないか、サーバの管理者またはメールプロバイダと連絡をとってください。詳しい情報は Guacharo FAQ をご覧ください。">
 
 <!ENTITY insecureServer.tooltip.title		"警告！ このサーバは安全ではありません。">
 <!ENTITY insecureServer.tooltip.details		"詳細は丸印をクリックしてください。">

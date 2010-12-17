@@ -17,8 +17,8 @@ index c77926f..e1e28fc 100644
 -<!ENTITY  vendorShortName       "موزيلا">
 -<!ENTITY  logoTrademark         "موزيلا ثَنْدربِرد وشعارات ثَنْدربِرد 
 -                                 علامات تجارية لمؤسسة موزيلا.">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
 +<!ENTITY  vendorShortName       "Mozilla">
 +<!ENTITY  logoTrademark         " ">
 diff --git a/upstream/ar/chrome/locale/ar/branding/brand.properties b/upstream/ar/chrome/locale/ar/branding/brand.properties
@@ -29,7 +29,7 @@ index a7afa70..44bf191 100644
 -brandShortName=ثنْدَربِرد
 -brandFullName=موزيلا ثنْدَربِرد
 -vendorShortName=موزيلا
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 -- 

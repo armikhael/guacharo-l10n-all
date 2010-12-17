@@ -48,7 +48,7 @@
 <!ENTITY changeSettings.label            "Ndryshoni Rregullimet">
 <!ENTITY changeSettings.accesskey        "N">
 
-<!ENTITY contactYourProvider.description "&brandShortName;-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose mundësuesin e email-it. Për më tepër të dhëna, shihni FAQ për Icedove-in.">
+<!ENTITY contactYourProvider.description "&brandShortName;-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose mundësuesin e email-it. Për më tepër të dhëna, shihni FAQ për Guacharo-in.">
 
 <!ENTITY insecureServer.tooltip.title    "Kujdes! Ky është shërbyes i pasigurt.">
 <!ENTITY insecureServer.tooltip.details  "Për më tepër hollësi klikoni te rrethi.">

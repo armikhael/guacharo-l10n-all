@@ -19,8 +19,8 @@ index eb78545..e1e28fc 100644
 -<!ENTITY  vendorShortName       "Mozilla Thunderbird">
 -<!ENTITY  logoTrademark         "Stemat e Mozilla Thunderbird-it dhe Thunderbird-it
 -                                 janë shenja tregtare të Mozilla Foundation-it.">
-+<!ENTITY  brandShortName        "Icedove">
-+<!ENTITY  brandFullName         "Icedove">
++<!ENTITY  brandShortName        "Guacharo">
++<!ENTITY  brandFullName         "Guacharo">
 +<!ENTITY  vendorShortName       "Mozilla">
 +<!ENTITY  logoTrademark         " ">
 diff --git a/upstream/sq/chrome/locale/sq/branding/brand.properties b/upstream/sq/chrome/locale/sq/branding/brand.properties
@@ -31,8 +31,8 @@ index b31a75c..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/sq/chrome/locale/sq/messenger/accountCreation.dtd b/upstream/sq/chrome/locale/sq/messenger/accountCreation.dtd
 index d624be7..13a6555 100644
@@ -43,7 +43,7 @@ index d624be7..13a6555 100644
  <!ENTITY changeSettings.accesskey        "N">
  
 -<!ENTITY contactYourProvider.description "&brandShortName;-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose mundësuesin e email-it. Për më tepër të dhëna, shihni FAQ për Thunderbird-in.">
-+<!ENTITY contactYourProvider.description "&brandShortName;-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose mundësuesin e email-it. Për më tepër të dhëna, shihni FAQ për Icedove-in.">
++<!ENTITY contactYourProvider.description "&brandShortName;-i ju lejon të mbërrini te posta juaj duke përdorur formësime të gatshme. Sidoqoftë, lidhur me këto lidhje të pasakta, do të duhej të lidheshit me përgjegjësin ose mundësuesin e email-it. Për më tepër të dhëna, shihni FAQ për Guacharo-in.">
  
  <!ENTITY insecureServer.tooltip.title    "Kujdes! Ky është shërbyes i pasigurt.">
  <!ENTITY insecureServer.tooltip.details  "Për më tepër hollësi klikoni te rrethi.">
@@ -54,7 +54,7 @@ index ab3b7ee..22825c8 100644
 @@ -1,5 +1,5 @@
  <!ENTITY credit.title     "&brandFullName;-i u punua nga">
 -<!ENTITY brandMotto       "Thunderbirds Are Go!">
-+<!ENTITY brandMotto       "Icedove Are Go!">
++<!ENTITY brandMotto       "Guacharo Are Go!">
  <!ENTITY credit.thanks    "Falënderime të Veçanta Për">
  
  <!-- localization credits look like this: -->
