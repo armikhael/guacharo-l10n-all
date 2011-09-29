@@ -99,8 +99,8 @@ index 4a6fab0..54e0fb0 100644
 -<!ENTITY  brandShortName        "ثنْدَربِرد">
 -<!ENTITY  brandFullName         "موزيلا ثنْدَربِرد">
 -<!ENTITY  vendorShortName       "موزيلا">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1         "موزيلا ثَنْدربِرد وشعارات ثَنْدربِرد 
                                   علامات تجارية لمؤسسة موزيلا.">
@@ -112,8 +112,8 @@ index a7afa70..44bf191 100644
 -brandShortName=ثنْدَربِرد
 -brandFullName=موزيلا ثنْدَربِرد
 -vendorShortName=موزيلا
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/bg/chrome/bg/locale/bg/branding/brand.dtd b/upstream/bg/chrome/bg/locale/bg/branding/brand.dtd
 index 7a337ce..f168938 100644
@@ -122,8 +122,8 @@ index 7a337ce..f168938 100644
 @@ -1,4 +1,4 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird и логотата на Thunderbird са търговски марки на Mozilla Foundation.">
 diff --git a/upstream/bg/chrome/bg/locale/bg/branding/brand.properties b/upstream/bg/chrome/bg/locale/bg/branding/brand.properties
@@ -133,8 +133,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/br/chrome/br/locale/br/branding/brand.dtd b/upstream/br/chrome/br/locale/br/branding/brand.dtd
 index fa880bf..5bce6ad 100644
@@ -144,8 +144,8 @@ index fa880bf..5bce6ad 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird hag al logoioù Thunderbird zo merkoù marilhet gant Mozilla Foundation.">
 diff --git a/upstream/br/chrome/br/locale/br/branding/brand.properties b/upstream/br/chrome/br/locale/br/branding/brand.properties
@@ -155,8 +155,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/ca/chrome/ca/locale/ca/branding/brand.dtd b/upstream/ca/chrome/ca/locale/ca/branding/brand.dtd
 index 02bf526..7058fd4 100644
@@ -166,8 +166,8 @@ index 02bf526..7058fd4 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "El Mozilla Thunderbird i logotips del Thunderbird
                                   són marques registrades de la Mozilla Foundation.">
@@ -178,8 +178,8 @@ index 118e869..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird 
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/cs/chrome/cs/locale/cs/branding/brand.dtd b/upstream/cs/chrome/cs/locale/cs/branding/brand.dtd
 index c2584a3..c85edb0 100644
@@ -188,8 +188,8 @@ index c2584a3..c85edb0 100644
 @@ -1,5 +1,5 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird a logo Thunderbird jsou obchodní známky Mozilla Foundation.">
  
@@ -200,8 +200,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/da/chrome/da/locale/da/branding/brand.dtd b/upstream/da/chrome/da/locale/da/branding/brand.dtd
 index 8de44e3..5c3f75a 100644
@@ -211,8 +211,8 @@ index 8de44e3..5c3f75a 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird og Thunderbird-logoet er varemærker tilhørende Mozilla Foundation.">
 diff --git a/upstream/da/chrome/da/locale/da/branding/brand.properties b/upstream/da/chrome/da/locale/da/branding/brand.properties
@@ -222,8 +222,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/de/chrome/de/locale/de/branding/brand.dtd b/upstream/de/chrome/de/locale/de/branding/brand.dtd
 index 29980da..58f473c 100644
@@ -233,8 +233,8 @@ index 29980da..58f473c 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird und die Thunderbird-Logos sind Warenzeichen der Mozilla Foundation.">
 diff --git a/upstream/de/chrome/de/locale/de/branding/brand.properties b/upstream/de/chrome/de/locale/de/branding/brand.properties
@@ -245,8 +245,8 @@ index b31a75c..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/en-GB/chrome/en-GB/locale/en-GB/branding/brand.dtd b/upstream/en-GB/chrome/en-GB/locale/en-GB/branding/brand.dtd
 index 8e3dfb5..244de52 100644
@@ -256,8 +256,8 @@ index 8e3dfb5..244de52 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird and the Thunderbird logos
                                   are trademarks of the Mozilla Foundation.">
@@ -268,8 +268,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/es-AR/chrome/es-AR/locale/es-AR/branding/brand.dtd b/upstream/es-AR/chrome/es-AR/locale/es-AR/branding/brand.dtd
 index 859672f..c9dcd0d 100644
@@ -279,8 +279,8 @@ index 859672f..c9dcd0d 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird y los logos de Thunderbird
                                   son marcas comerciales de Mozilla Foundation.">
@@ -292,8 +292,8 @@ index e20eab8..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/es-ES/chrome/es-ES/locale/es-ES/branding/brand.dtd b/upstream/es-ES/chrome/es-ES/locale/es-ES/branding/brand.dtd
 index 7a5e361..e0d377a 100644
@@ -302,8 +302,8 @@ index 7a5e361..e0d377a 100644
 @@ -1,5 +1,5 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird y los logos de Thunderbird
                                   son marcas registradas de Mozilla Foundation.">
@@ -315,8 +315,8 @@ index c27e6cb..44bf191 100644
 -brandShortName = Thunderbird
 -brandFullName = Mozilla Thunderbird
 -vendorShortName = Mozilla
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/et/chrome/et/locale/et/branding/brand.dtd b/upstream/et/chrome/et/locale/et/branding/brand.dtd
 index cc8c472..c0ecb9f 100644
@@ -326,8 +326,8 @@ index cc8c472..c0ecb9f 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird ja Thunderbirdi logod
                                   on Mozilla Foundation'i kaubamärgid.">
@@ -339,8 +339,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/eu/chrome/eu/locale/eu/branding/brand.dtd b/upstream/eu/chrome/eu/locale/eu/branding/brand.dtd
 index fca2147..e7d6d7c 100644
@@ -350,8 +350,8 @@ index fca2147..e7d6d7c 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird eta Thunderbird logoak 
  Mozilla Fundazioaren marka erregistratuak dira.">
@@ -362,8 +362,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/fi/chrome/fi/locale/fi/branding/brand.dtd b/upstream/fi/chrome/fi/locale/fi/branding/brand.dtd
 index d42ec45..8ba470d 100644
@@ -373,8 +373,8 @@ index d42ec45..8ba470d 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird ja Thunderbirdin logo ovat
                                   Mozilla-säätiön tavaramerkkejä.">
@@ -385,8 +385,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/fr/chrome/fr/locale/fr/branding/brand.dtd b/upstream/fr/chrome/fr/locale/fr/branding/brand.dtd
 index 2d2eb4a..fe5c80e 100644
@@ -396,8 +396,8 @@ index 2d2eb4a..fe5c80e 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird et les logos Thunderbird
                                   sont des marques déposées de la Mozilla Foundation.">
@@ -408,8 +408,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/fy-NL/chrome/fy-NL/locale/fy-NL/branding/brand.dtd b/upstream/fy-NL/chrome/fy-NL/locale/fy-NL/branding/brand.dtd
 index 12c1752..75638fc 100644
@@ -419,8 +419,8 @@ index 12c1752..75638fc 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird en de Thunderbird-logo's
                                   binne hannelsmerken fan de Mozilla Foundation.">
@@ -431,8 +431,8 @@ index fd1a07a..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Mozilla Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/ga-IE/chrome/ga-IE/locale/ga-IE/branding/brand.dtd b/upstream/ga-IE/chrome/ga-IE/locale/ga-IE/branding/brand.dtd
 index ae4f2aa..5c2ec90 100644
@@ -441,8 +441,8 @@ index ae4f2aa..5c2ec90 100644
 @@ -1,5 +1,5 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Is trádmharcanna de chuid Fondúireacht Mozilla iad 
  Mozilla Thunderbird agus suaitheantais Thunderbird.">
@@ -453,8 +453,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/gd/chrome/gd/locale/gd/branding/brand.dtd b/upstream/gd/chrome/gd/locale/gd/branding/brand.dtd
 index fe7bfcf..3a1e238 100644
@@ -464,8 +464,8 @@ index fe7bfcf..3a1e238 100644
 -<!ENTITY brandShortName        "Thunderbird">
 -<!ENTITY brandFullName         "Mozilla Thunderbird">
 -<!ENTITY vendorShortName       "Mozilla">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
 +<!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1   "Tha Mozilla Thunderbird is suaicheantasan Thunderbird
                                  'nan comharran-malairt aig Fonndas Mozilla.">
@@ -476,8 +476,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/gl/chrome/gl/locale/gl/branding/brand.dtd b/upstream/gl/chrome/gl/locale/gl/branding/brand.dtd
 index 0898591..2b94450 100644
@@ -487,8 +487,8 @@ index 0898591..2b94450 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird e os logotipos de Thunderbird
                                   son marcas rexistradas da Fundación Mozilla (Mozilla Foundation).">
@@ -499,8 +499,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/he/chrome/he/locale/he/branding/brand.dtd b/upstream/he/chrome/he/locale/he/branding/brand.dtd
 index 1844776..41ded37 100644
@@ -510,8 +510,8 @@ index 1844776..41ded37 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird והלוגו של Thunderbird הם סימנים של Mozilla Foundation.">
 diff --git a/upstream/he/chrome/he/locale/he/branding/brand.properties b/upstream/he/chrome/he/locale/he/branding/brand.properties
@@ -521,8 +521,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/hu/chrome/hu/locale/hu/branding/brand.dtd b/upstream/hu/chrome/hu/locale/hu/branding/brand.dtd
 index 87fc644..d69536a 100644
@@ -532,8 +532,8 @@ index 87fc644..d69536a 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "A Mozilla Thunderbird és a
                                   Thunderbird logók a Mozilla Foundation védjegyei.  ">
@@ -544,8 +544,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/is/chrome/is/locale/is/branding/brand.dtd b/upstream/is/chrome/is/locale/is/branding/brand.dtd
 index 07b264a..9daedef 100644
@@ -554,8 +554,8 @@ index 07b264a..9daedef 100644
 @@ -1,5 +1,5 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird og Thunderbird nafnmerkið
                                   eru vörumerki Mozilla stofnunarinnar.">
@@ -566,8 +566,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/it/chrome/it/locale/it/branding/brand.dtd b/upstream/it/chrome/it/locale/it/branding/brand.dtd
 index b2f413d..9cbc8e9 100644
@@ -577,8 +577,8 @@ index b2f413d..9cbc8e9 100644
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
 -<!ENTITY vendorShortName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
 +<!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird e i loghi Thunderbird                                  sono marchi registrati della Mozilla Foundation.">
 diff --git a/upstream/it/chrome/it/locale/it/branding/brand.properties b/upstream/it/chrome/it/locale/it/branding/brand.properties
@@ -589,8 +589,8 @@ index 3014cf8..44bf191 100644
 -brandShortName = Mozilla Thunderbird
 -brandFullName = Mozilla Thunderbird
 -vendorShortName = Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/ja/chrome/ja/locale/ja/branding/brand.dtd b/upstream/ja/chrome/ja/locale/ja/branding/brand.dtd
 index 35b6603..5f35d67 100644
@@ -600,8 +600,8 @@ index 35b6603..5f35d67 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird および Thunderbird ロゴは 米国 Mozilla Foundation の米国およびその他の国における商標または登録商標です。">
 diff --git a/upstream/ja/chrome/ja/locale/ja/branding/brand.properties b/upstream/ja/chrome/ja/locale/ja/branding/brand.properties
@@ -612,8 +612,8 @@ index 6fbb426..44bf191 100644
 -brandShortName	= Thunderbird
 -brandFullName	= Mozilla Thunderbird
 -vendorShortName	= Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/ko/chrome/ko/locale/ko/branding/brand.dtd b/upstream/ko/chrome/ko/locale/ko/branding/brand.dtd
 index 5f760eb..6636ee5 100644
@@ -623,8 +623,8 @@ index 5f760eb..6636ee5 100644
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
 -<!ENTITY vendorShortName "Mozilla">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
 +<!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird와 Thunderbird 로고는 Mozilla Foundation의 등록 상표 입니다.">
 diff --git a/upstream/ko/chrome/ko/locale/ko/branding/brand.properties b/upstream/ko/chrome/ko/locale/ko/branding/brand.properties
@@ -635,8 +635,8 @@ index e20eab8..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/lt/chrome/lt/locale/lt/branding/brand.dtd b/upstream/lt/chrome/lt/locale/lt/branding/brand.dtd
 index 8ac6f47..7600998 100644
@@ -649,8 +649,8 @@ index 8ac6f47..7600998 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Vardas „Mozilla Thunderbird“ ir „Thunderbird“ logotipai yra bendrijos 
                                   „Mozilla Foundation“ prekės ženklai.">
@@ -661,8 +661,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/nb-NO/chrome/nb-NO/locale/nb-NO/branding/brand.dtd b/upstream/nb-NO/chrome/nb-NO/locale/nb-NO/branding/brand.dtd
 index 1f3c797..2d5734c 100644
@@ -672,8 +672,8 @@ index 1f3c797..2d5734c 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird og Thunderbird-logoene
                                   er varemerker som tilhører Mozilla Foundation.">
@@ -684,8 +684,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/nl/chrome/nl/locale/nl/branding/brand.dtd b/upstream/nl/chrome/nl/locale/nl/branding/brand.dtd
 index 8c033c4..d1303b4 100644
@@ -695,8 +695,8 @@ index 8c033c4..d1303b4 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird en de Thunderbird-logo’s 
                                   zijn handelsmerken van de Mozilla Foundation.">
@@ -707,8 +707,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/nn-NO/chrome/nn-NO/locale/nn-NO/branding/brand.dtd b/upstream/nn-NO/chrome/nn-NO/locale/nn-NO/branding/brand.dtd
 index 54a57c2..a30c617 100644
@@ -718,8 +718,8 @@ index 54a57c2..a30c617 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird og Thunderbird-logoane
                                   er varemerke som tilhøyrer Mozilla Foundation.">
@@ -730,8 +730,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/pa-IN/chrome/pa-IN/locale/pa-IN/branding/brand.dtd b/upstream/pa-IN/chrome/pa-IN/locale/pa-IN/branding/brand.dtd
 index 973a0d1..244de52 100644
@@ -741,8 +741,8 @@ index 973a0d1..244de52 100644
 -<!ENTITY  brandShortName        "ਥੰਡਰਬਰਡ">
 -<!ENTITY  brandFullName         "ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ">
 -<!ENTITY  vendorShortName       "ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird and the Thunderbird logos
                                   are trademarks of the Mozilla Foundation.">
@@ -755,8 +755,8 @@ index 6013f83..64b8aa1 100644
 -brandFullName=ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ
 -vendorShortName=ਮੋਜ਼ੀਲਾ ਥੰਡਰਬਰਡ
 \ No newline at end of file
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 \ No newline at end of file
 diff --git a/upstream/pl/chrome/pl/locale/pl/branding/brand.dtd b/upstream/pl/chrome/pl/locale/pl/branding/brand.dtd
@@ -766,8 +766,8 @@ index 48f7634..9c14f81 100644
 @@ -1,5 +1,5 @@
 -<!ENTITY brandShortName  "Thunderbird">
 -<!ENTITY brandFullName   "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird oraz logotyp Thunderbird są znakami towarowymi Mozilla Foundation.">
@@ -778,8 +778,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/pt-BR/chrome/pt-BR/locale/pt-BR/branding/brand.dtd b/upstream/pt-BR/chrome/pt-BR/locale/pt-BR/branding/brand.dtd
 index acfddf3..2dc1da1 100644
@@ -789,8 +789,8 @@ index acfddf3..2dc1da1 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird e logotipos Thunderbird são marcas comerciais da Mozilla Foundation.">
 diff --git a/upstream/pt-BR/chrome/pt-BR/locale/pt-BR/branding/brand.properties b/upstream/pt-BR/chrome/pt-BR/locale/pt-BR/branding/brand.properties
@@ -800,8 +800,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/pt-PT/chrome/pt-PT/locale/pt-PT/branding/brand.dtd b/upstream/pt-PT/chrome/pt-PT/locale/pt-PT/branding/brand.dtd
 index da5fcf7..e646cc3 100644
@@ -811,8 +811,8 @@ index da5fcf7..e646cc3 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1  "Mozilla Thunderbird e os logos Thunderbird
                                   são marcas registadas da Mozilla Foundation.">
@@ -825,8 +825,8 @@ index b31a75c..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/rm/chrome/rm/locale/rm/branding/brand.dtd b/upstream/rm/chrome/rm/locale/rm/branding/brand.dtd
 index 0fbb61f..38390e3 100644
@@ -836,8 +836,8 @@ index 0fbb61f..38390e3 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird ed ils logos da Thunderbird èn marcas commerzialas da la Mozilla Foundation.">
 diff --git a/upstream/rm/chrome/rm/locale/rm/branding/brand.properties b/upstream/rm/chrome/rm/locale/rm/branding/brand.properties
@@ -847,8 +847,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/ru/chrome/ru/locale/ru/branding/brand.dtd b/upstream/ru/chrome/ru/locale/ru/branding/brand.dtd
 index 4248eb8..a7d34e1 100644
@@ -857,8 +857,8 @@ index 4248eb8..a7d34e1 100644
 @@ -1,4 +1,4 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird и логотипы Thunderbird являются торговыми марками Mozilla Foundation.">
 diff --git a/upstream/ru/chrome/ru/locale/ru/branding/brand.properties b/upstream/ru/chrome/ru/locale/ru/branding/brand.properties
@@ -869,8 +869,8 @@ index c27e6cb..44bf191 100644
 -brandShortName = Thunderbird
 -brandFullName = Mozilla Thunderbird
 -vendorShortName = Mozilla
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/si/chrome/si/locale/si/branding/brand.dtd b/upstream/si/chrome/si/locale/si/branding/brand.dtd
 index 477172f..5f66461 100644
@@ -880,8 +880,8 @@ index 477172f..5f66461 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird and the Thunderbird logos
                                   are trademarks of the Mozilla Foundation.">
@@ -893,8 +893,8 @@ index e20eab8..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/sk/chrome/sk/locale/sk/branding/brand.dtd b/upstream/sk/chrome/sk/locale/sk/branding/brand.dtd
 index 03a4eca..f985686 100644
@@ -904,8 +904,8 @@ index 03a4eca..f985686 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird a logá Thunderbird sú ochranné známky patriace Mozilla Foundation.">
 diff --git a/upstream/sk/chrome/sk/locale/sk/branding/brand.properties b/upstream/sk/chrome/sk/locale/sk/branding/brand.properties
@@ -915,8 +915,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/sl/chrome/sl/locale/sl/branding/brand.dtd b/upstream/sl/chrome/sl/locale/sl/branding/brand.dtd
 index c6cb296..f8a12d9 100644
@@ -926,8 +926,8 @@ index c6cb296..f8a12d9 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   " ">
 diff --git a/upstream/sl/chrome/sl/locale/sl/branding/brand.properties b/upstream/sl/chrome/sl/locale/sl/branding/brand.properties
@@ -937,8 +937,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/sq/chrome/sq/locale/sq/branding/brand.dtd b/upstream/sq/chrome/sq/locale/sq/branding/brand.dtd
 index d975175..cc09eb2 100644
@@ -948,8 +948,8 @@ index d975175..cc09eb2 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird dhe stemat e Thunderbird-it
                                   janë shenja tregtare të Mozilla Foundation-it.">
@@ -961,8 +961,8 @@ index b31a75c..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/sv-SE/chrome/sv-SE/locale/sv-SE/branding/brand.dtd b/upstream/sv-SE/chrome/sv-SE/locale/sv-SE/branding/brand.dtd
 index 78d3640..e0d1696 100644
@@ -972,8 +972,8 @@ index 78d3640..e0d1696 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird och Thunderbird-logotyper
                                   är varumärken som tillhör Mozilla Foundation.">
@@ -984,8 +984,8 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 diff --git a/upstream/ta-LK/chrome/ta-LK/locale/ta-LK/branding/brand.dtd b/upstream/ta-LK/chrome/ta-LK/locale/ta-LK/branding/brand.dtd
 index 8e3dfb5..244de52 100644
@@ -995,8 +995,8 @@ index 8e3dfb5..244de52 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird and the Thunderbird logos
                                   are trademarks of the Mozilla Foundation.">
@@ -1008,8 +1008,8 @@ index e20eab8..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/tr/chrome/tr/locale/tr/branding/brand.dtd b/upstream/tr/chrome/tr/locale/tr/branding/brand.dtd
 index 6bd9043..ef61bd1 100644
@@ -1018,8 +1018,8 @@ index 6bd9043..ef61bd1 100644
 @@ -1,4 +1,4 @@
 -<!ENTITY brandShortName "Thunderbird">
 -<!ENTITY brandFullName "Mozilla Thunderbird">
-+<!ENTITY brandShortName "Icedove">
-+<!ENTITY brandFullName "Icedove">
++<!ENTITY brandShortName "Guacharo">
++<!ENTITY brandFullName "Guacharo">
  <!ENTITY vendorShortName "Mozilla">
  <!ENTITY trademarkInfo.part1 "Mozilla Thunderbird ve Thunderbird logoları Mozilla Vakfı'nın tescilli markalarıdır.">
 diff --git a/upstream/tr/chrome/tr/locale/tr/branding/brand.properties b/upstream/tr/chrome/tr/locale/tr/branding/brand.properties
@@ -1030,8 +1030,8 @@ index f56cedf..44bf191 100644
 -brandShortName=Mozilla Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/uk/chrome/uk/locale/uk/branding/brand.dtd b/upstream/uk/chrome/uk/locale/uk/branding/brand.dtd
 index e1963bb..f2832b4 100644
@@ -1041,8 +1041,8 @@ index e1963bb..f2832b4 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird та логотипи Thunderbird
                                   є торговими марками фундації Mozilla.">
@@ -1054,8 +1054,8 @@ index b31a75c..44bf191 100644
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
 -vendorShortName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
 +vendorShortName=Mozilla
 diff --git a/upstream/zh-TW/chrome/zh-TW/locale/zh-TW/branding/brand.dtd b/upstream/zh-TW/chrome/zh-TW/locale/zh-TW/branding/brand.dtd
 index 8662784..f9b7989 100644
@@ -1065,8 +1065,8 @@ index 8662784..f9b7989 100644
 -<!ENTITY  brandShortName        "Thunderbird">
 -<!ENTITY  brandFullName         "Mozilla Thunderbird">
 -<!ENTITY  vendorShortName       "Mozilla">
-+<!ENTITY  brandShortName "Icedove">
-+<!ENTITY  brandFullName "Icedove">
++<!ENTITY  brandShortName "Guacharo">
++<!ENTITY  brandFullName "Guacharo">
 +<!ENTITY  vendorShortName "Mozilla">
  <!ENTITY  trademarkInfo.part1   "Mozilla Thunderbird 字樣與 Thunderbird 標誌
                                   為 Mozilla 基金會之註冊商標。">
@@ -1077,7 +1077,7 @@ index 857d0c3..44bf191 100644
 @@ -1,3 +1,3 @@
 -brandShortName=Thunderbird
 -brandFullName=Mozilla Thunderbird
-+brandShortName=Icedove
-+brandFullName=Icedove
++brandShortName=Guacharo
++brandFullName=Guacharo
  vendorShortName=Mozilla
 -- 
