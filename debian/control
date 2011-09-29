@@ -1,13 +1,14 @@
 Source: guacharo-l10n
 Section: localization
 Priority: optional
-Maintainer: Christoph Goehre <chris@sigxcpu.org>
+Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
+Uploaders: Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>
 Build-Depends: debhelper (>= 7.0.50~)
 Build-Depends-Indep: unzip, zip, mozilla-devscripts
 Standards-Version: 3.9.2
-DM-Upload-Allowed: yes
-Vcs-Git: git://git.debian.org/pkg-mozilla/guacharo-l10n.git
-Vcs-Browser: http://git.debian.org/?p=pkg-mozilla/guacharo-l10n.git;a=summary
+Homepage: http://canaima.softwarelibre.gob.ve/
+Vcs-Git: git://gitorious.org/canaima-gnu-linux/guacharo-l10n.git
+Vcs-Browser: http://gitorious.org/canaima-gnu-linux/guacharo-l10n/trees/master
 
 Package: guacharo-l10n-all
 Architecture: all
@@ -166,7 +167,7 @@ Package: guacharo-l10n-es-es
 Architecture: all
 Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
 Recommends: myspell-es
-Description: Spanish (Spain) language package for Guacharo
+Description: Paquete de traducción al español para Guacharo
  Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.

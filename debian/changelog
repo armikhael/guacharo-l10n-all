@@ -1,3 +1,9 @@
+guacharo-l10n (5.0-2) stable; urgency=low
+
+  * Versión Inicial para Canaima GNU/Linux
+
+ -- Christoph Goehre <chris@sigxcpu.org>  Wed, 07 Sep 2011 21:46:26 +0200
+
 guacharo-l10n (1:5.0-1) experimental; urgency=low
 
   * New Upstream Version (Closes: #632038, #639567)
