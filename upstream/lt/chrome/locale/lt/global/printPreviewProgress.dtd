@@ -1,5 +1,0 @@
-<!--LOCALIZATION NOTE printPreviewProgress.dtd Main UI for Print Preview Progress Dialog -->
-<!ENTITY printWindow.title "Spaudinio peržiūra"> 
-<!ENTITY title   "Antraštė:"> 
-<!ENTITY preparing "Ruošiama…">
-<!ENTITY progress "Eiga:">

@@ -1,4 +1,0 @@
-<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title	"メッセージを送信しています">
-<!ENTITY status.label		"状態:">
-<!ENTITY progress.label		"進行状況:">

@@ -1,4 +1,0 @@
-<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Odosielanie správ">
-<!ENTITY status.label "Stav:">
-<!ENTITY progress.label "Priebeh:">

@@ -1,8 +1,0 @@
-<!ENTITY newMessageCmd2.key "N">
-<!ENTITY newMessageCmd.key "M">
-<!ENTITY newMessageCmd.label "Póstur">
-<!ENTITY newMessageCmd.accesskey "P">
-
- 
-<!ENTITY newContactCmd.label "Tengiliður í nafnaskrá…">
-<!ENTITY newContactCmd.accesskey "T">

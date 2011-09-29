@@ -1,4 +1,0 @@
-<!--LOCALIZATION NOTE sendprogress.dtd Main UI for Send Message Progress Dialog -->
-<!ENTITY sendWindow.title "Lähetetään viestejä"> 
-<!ENTITY status.label "Tila:">
-<!ENTITY progress.label "Edistyminen:">
