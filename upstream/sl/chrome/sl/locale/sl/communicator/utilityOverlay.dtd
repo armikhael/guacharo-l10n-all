@@ -8,7 +8,7 @@
 <!ENTITY newMenu.accesskey          "N">
 
 <!ENTITY editMenu.label          "Uredi">
-<!ENTITY editMenu.accesskey        "e">
+<!ENTITY editMenu.accesskey        "u">
 <!ENTITY undoCmd.label            "Razveljavi">
 <!ENTITY undoCmd.key            "Z">
 <!ENTITY undoCmd.accesskey          "Z">
