@@ -1,526 +1,605 @@
-Source: guacharo-l10n
+Source: icedove-l10n
 Section: localization
 Priority: optional
 Maintainer: Equipo de Desarrollo de Canaima GNU/Linux <desarrolladores@canaima.softwarelibre.gob.ve>
 Uploaders: Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>
-Build-Depends: debhelper (>= 7.0.50~)
 Build-Depends-Indep: unzip, zip, mozilla-devscripts
-Standards-Version: 3.9.2
+Standards-Version: 3.9.1
 Homepage: http://canaima.softwarelibre.gob.ve/
 Vcs-Git: git://gitorious.org/canaima-gnu-linux/guacharo-l10n.git
 Vcs-Browser: http://gitorious.org/canaima-gnu-linux/guacharo-l10n/trees/master
 
-Package: guacharo-l10n-all
+Package: icedove-l10n-all
 Architecture: all
 Depends:
  ${misc:Depends},
- guacharo-l10n-ar,
- guacharo-l10n-bg,
- guacharo-l10n-br,
- guacharo-l10n-ca,
- guacharo-l10n-cs,
- guacharo-l10n-da,
- guacharo-l10n-de,
- guacharo-l10n-en-gb,
- guacharo-l10n-es-ar,
- guacharo-l10n-es-es,
- guacharo-l10n-et,
- guacharo-l10n-eu,
- guacharo-l10n-fi,
- guacharo-l10n-fr,
- guacharo-l10n-fy-nl,
- guacharo-l10n-ga-ie,
- guacharo-l10n-gd,
- guacharo-l10n-gl,
- guacharo-l10n-he,
- guacharo-l10n-hu,
- guacharo-l10n-is,
- guacharo-l10n-it,
- guacharo-l10n-ja,
- guacharo-l10n-ko,
- guacharo-l10n-lt,
- guacharo-l10n-nb-no,
- guacharo-l10n-nl,
- guacharo-l10n-nn-no,
- guacharo-l10n-pa-in,
- guacharo-l10n-pl,
- guacharo-l10n-pt-br,
- guacharo-l10n-pt-pt,
- guacharo-l10n-rm,
- guacharo-l10n-ru,
- guacharo-l10n-si,
- guacharo-l10n-sk,
- guacharo-l10n-sl,
- guacharo-l10n-sq,
- guacharo-l10n-sv-se,
- guacharo-l10n-ta-lk,
- guacharo-l10n-tr,
- guacharo-l10n-uk,
- guacharo-l10n-zh-tw
-Description: All language packages for Guacharo (meta)
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+ icedove-l10n-ar,
+ icedove-l10n-be,
+ icedove-l10n-bg,
+ icedove-l10n-bn-bd,
+ icedove-l10n-br,
+ icedove-l10n-ca,
+ icedove-l10n-cs,
+ icedove-l10n-da,
+ icedove-l10n-de,
+ icedove-l10n-el,
+ icedove-l10n-en-gb,
+ icedove-l10n-es-ar,
+ icedove-l10n-es-es,
+ icedove-l10n-et,
+ icedove-l10n-eu,
+ icedove-l10n-fi,
+ icedove-l10n-fr,
+ icedove-l10n-fy-nl,
+ icedove-l10n-ga-ie,
+ icedove-l10n-gd,
+ icedove-l10n-gl,
+ icedove-l10n-he,
+ icedove-l10n-hu,
+ icedove-l10n-id,
+ icedove-l10n-is,
+ icedove-l10n-it,
+ icedove-l10n-ja,
+ icedove-l10n-ko,
+ icedove-l10n-lt,
+ icedove-l10n-nb-no,
+ icedove-l10n-nl,
+ icedove-l10n-nn-no,
+ icedove-l10n-pa-in,
+ icedove-l10n-pl,
+ icedove-l10n-pt-br,
+ icedove-l10n-pt-pt,
+ icedove-l10n-rm,
+ icedove-l10n-ro,
+ icedove-l10n-ru,
+ icedove-l10n-si,
+ icedove-l10n-sk,
+ icedove-l10n-sl,
+ icedove-l10n-sq,
+ icedove-l10n-sv-se,
+ icedove-l10n-ta-lk,
+ icedove-l10n-tr,
+ icedove-l10n-uk,
+ icedove-l10n-vi,
+ icedove-l10n-zh-cn,
+ icedove-l10n-zh-tw
+Description: All language packages for Icedove (meta)
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
  This package is a metapackage depending on all available localization of
- Guacharo.
+ Icedove.
 
-Package: guacharo-l10n-ar
+Package: icedove-l10n-ar
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: hunspell-ar
-Description: Arabic language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Arabic language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Arabic.
+ This package contains the localization of Icedove in Arabic.
 
-Package: guacharo-l10n-bg
+Package: icedove-l10n-be
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Belarusian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
+ The goal of Thunderbird is to produce a cross platform stand-alone mail
+ application using the XUL user interface language.
+ .
+ This package contains the localization of Icedove in Belarusian.
+
+Package: icedove-l10n-bg
+Architecture: all
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-bg
-Description: Bulgarian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Bulgarian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Bulgarian.
+ This package contains the localization of Icedove in Bulgarian.
 
-Package: guacharo-l10n-br
+Package: icedove-l10n-bn-bd
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Breton language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Bengali language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Breton.
+ This package contains the localization of Icedove in Bengali.
 
-Package: guacharo-l10n-ca
+Package: icedove-l10n-br
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Breton language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
+ The goal of Thunderbird is to produce a cross platform stand-alone mail
+ application using the XUL user interface language.
+ .
+ This package contains the localization of Icedove in Breton.
+
+Package: icedove-l10n-ca
+Architecture: all
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-ca
-Description: Catalan/Valencian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Catalan/Valencian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Catalan/Valencian.
+ This package contains the localization of Icedove in Catalan/Valencian.
 
-Package: guacharo-l10n-cs
+Package: icedove-l10n-cs
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-cs-cz
-Description: Czech language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Czech language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Czech.
+ This package contains the localization of Icedove in Czech.
 
-Package: guacharo-l10n-da
+Package: icedove-l10n-da
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-da | hunspell-da
-Description: Danish language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Danish language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Danish.
+ This package contains the localization of Icedove in Danish.
 
-Package: guacharo-l10n-de
+Package: icedove-l10n-de
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-de-de | myspell-de-at | myspell-de-ch | hunspell-de-de | hunspell-de-at | hunspell-de-ch
-Description: German language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: German language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in German.
+ This package contains the localization of Icedove in German.
 
-Package: guacharo-l10n-en-gb
+Package: icedove-l10n-el
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Recommends: myspell-el-gr
+Description: Greek language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
+ The goal of Thunderbird is to produce a cross platform stand-alone mail
+ application using the XUL user interface language.
+ .
+ This package contains the localization of Icedove in Greek.
+
+Package: icedove-l10n-en-gb
+Architecture: all
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-en-gb | myspell-en-us | hunspell-en-us
-Description: English (Great Britain) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: English (Great Britain) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in English (Great Britain).
+ This package contains the localization of Icedove in English (Great Britain).
 
-Package: guacharo-l10n-es-ar
+Package: icedove-l10n-es-ar
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-es
-Description: Spanish (Argentina) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Spanish (Argentina) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Spanish (Argentina).
+ This package contains the localization of Icedove in Spanish (Argentina).
 
-Package: guacharo-l10n-es-es
+Package: icedove-l10n-es-es
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-es
-Description: Paquete de traducción al español para Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Spanish (Spain) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Spanish (Spain).
+ This package contains the localization of Icedove in Spanish (Spain).
 
-Package: guacharo-l10n-et
+Package: icedove-l10n-et
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-et
-Description: Estonian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Estonian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Estonian.
+ This package contains the localization of Icedove in Estonian.
 
-Package: guacharo-l10n-eu
+Package: icedove-l10n-eu
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Basque language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Basque language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Basque.
+ This package contains the localization of Icedove in Basque.
 
-Package: guacharo-l10n-fi
+Package: icedove-l10n-fi
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-fi
-Description: Finnish language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Finnish language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Finnish.
+ This package contains the localization of Icedove in Finnish.
 
-Package: guacharo-l10n-fr
+Package: icedove-l10n-fr
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-fr | myspell-fr-gut | hunspell-fr
-Description: French language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: French language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in French.
+ This package contains the localization of Icedove in French.
 
-Package: guacharo-l10n-fy-nl
+Package: icedove-l10n-fy-nl
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Frisian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Frisian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Frisian.
+ This package contains the localization of Icedove in Frisian.
 
-Package: guacharo-l10n-ga-ie
+Package: icedove-l10n-ga-ie
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Irish (Ireland) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Irish (Ireland) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Irish (Ireland).
+ This package contains the localization of Icedove in Irish (Ireland).
 
-Package: guacharo-l10n-gd
+Package: icedove-l10n-gd
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-gd
-Description: Gaelic (Scottish) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Gaelic (Scottish) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Gaelic (Scottish).
+ This package contains the localization of Icedove in Gaelic (Scottish).
 
-Package: guacharo-l10n-gl
+Package: icedove-l10n-gl
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: hunspell-gl-es
-Description: Galician language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Galician language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Galician.
+ This package contains the localization of Icedove in Galician.
 
-Package: guacharo-l10n-he
+Package: icedove-l10n-he
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-he
-Description: Hebrew language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Hebrew language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Hebrew.
+ This package contains the localization of Icedove in Hebrew.
 
-Package: guacharo-l10n-hu
+Package: icedove-l10n-hu
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-hu | hunspell-hu
-Description: Hungarian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Hungarian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Hungarian.
+ This package contains the localization of Icedove in Hungarian.
 
-Package: guacharo-l10n-is
+Package: icedove-l10n-id
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Icelandic language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Indonesian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Icelandic.
+ This package contains the localization of Icedove in Indonesian.
 
-Package: guacharo-l10n-it
+Package: icedove-l10n-is
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Icelandic language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
+ The goal of Thunderbird is to produce a cross platform stand-alone mail
+ application using the XUL user interface language.
+ .
+ This package contains the localization of Icedove in Icelandic.
+
+Package: icedove-l10n-it
+Architecture: all
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-it
-Description: Italian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Italian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Italian.
+ This package contains the localization of Icedove in Italian.
 
-Package: guacharo-l10n-ja
+Package: icedove-l10n-ja
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Japanese language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Japanese language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Japanese.
+ This package contains the localization of Icedove in Japanese.
 
-Package: guacharo-l10n-ko
+Package: icedove-l10n-ko
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: hunspell-ko
-Description: Korean language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Korean language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Korean.
+ This package contains the localization of Icedove in Korean.
 
-Package: guacharo-l10n-lt
+Package: icedove-l10n-lt
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-lt
-Description: Lithuanian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Lithuanian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Lithuanian.
+ This package contains the localization of Icedove in Lithuanian.
 
-Package: guacharo-l10n-nb-no
+Package: icedove-l10n-nb-no
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-nb
-Description: Bokmaal (Norway) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Bokmaal (Norway) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Bokmaal (Norway).
+ This package contains the localization of Icedove in Bokmaal (Norway).
 
-Package: guacharo-l10n-nl
+Package: icedove-l10n-nl
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-nl
-Description: Dutch language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Dutch language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Dutch.
+ This package contains the localization of Icedove in Dutch.
 
-Package: guacharo-l10n-nn-no
+Package: icedove-l10n-nn-no
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-nn
-Description: Nynorsk (Norway) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Nynorsk (Norway) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Nynorsk (Norway).
+ This package contains the localization of Icedove in Nynorsk (Norway).
 
-Package: guacharo-l10n-pa-in
+Package: icedove-l10n-pa-in
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Punjabi (India) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Punjabi (India) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Punjabi (India).
+ This package contains the localization of Icedove in Punjabi (India).
 
-Package: guacharo-l10n-pl
+Package: icedove-l10n-pl
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-pl
-Description: Polish language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Polish language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Polish.
+ This package contains the localization of Icedove in Polish.
 
-Package: guacharo-l10n-pt-br
+Package: icedove-l10n-pt-br
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-pt-br | myspell-pt
-Description: Portuguese (Brazil) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Portuguese (Brazil) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Portuguese (Brazil).
+ This package contains the localization of Icedove in Portuguese (Brazil).
 
-Package: guacharo-l10n-pt-pt
+Package: icedove-l10n-pt-pt
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-pt-pt | myspell-pt
-Description: Portuguese (Portugal) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Portuguese (Portugal) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Portuguese (Portugal).
+ This package contains the localization of Icedove in Portuguese (Portugal).
 
-Package: guacharo-l10n-rm
+Package: icedove-l10n-rm
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Romansh language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Romansh language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Romansh.
+ This package contains the localization of Icedove in Romansh.
 
-Package: guacharo-l10n-ru
+Package: icedove-l10n-ro
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Recommends: hunspell-ro
+Description: Romania language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
+ The goal of Thunderbird is to produce a cross platform stand-alone mail
+ application using the XUL user interface language.
+ .
+ This package contains the localization of Icedove in Romania.
+
+Package: icedove-l10n-ru
+Architecture: all
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-ru
-Description: Russian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Russian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Russian.
+ This package contains the localization of Icedove in Russian.
 
-Package: guacharo-l10n-si
+Package: icedove-l10n-si
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Sinhala language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Sinhala language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Sinhala.
+ This package contains the localization of Icedove in Sinhala.
 
-Package: guacharo-l10n-sk
+Package: icedove-l10n-sk
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-sk
-Description: Slovak language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Slovak language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Slovak.
+ This package contains the localization of Icedove in Slovak.
 
-Package: guacharo-l10n-sl
+Package: icedove-l10n-sl
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-sl
-Description: Slovenian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Slovenian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Slovenian.
+ This package contains the localization of Icedove in Slovenian.
 
-Package: guacharo-l10n-sq
+Package: icedove-l10n-sq
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Albanian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Albanian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Albanian.
+ This package contains the localization of Icedove in Albanian.
 
-Package: guacharo-l10n-sv-se
+Package: icedove-l10n-sv-se
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
 Recommends: myspell-sv-se
-Description: Swedish (Sweden) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Description: Swedish (Sweden) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Swedish (Sweden).
+ This package contains the localization of Icedove in Swedish (Sweden).
 
-Package: guacharo-l10n-ta-lk
+Package: icedove-l10n-ta-lk
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Tamil language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Tamil language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Tamil.
+ This package contains the localization of Icedove in Tamil.
 
-Package: guacharo-l10n-tr
+Package: icedove-l10n-tr
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Turkish language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Turkish language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Turkish.
+ This package contains the localization of Icedove in Turkish.
 
-Package: guacharo-l10n-uk
+Package: icedove-l10n-uk
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Ukrainian language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Ukrainian language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Ukrainian.
+ This package contains the localization of Icedove in Ukrainian.
 
-Package: guacharo-l10n-zh-tw
+Package: icedove-l10n-vi
 Architecture: all
-Depends: ${misc:Depends}, guacharo (>= 5.0), guacharo (<= 5.1)
-Description: Chinese (Taiwan) language package for Guacharo
- Guacharo is an unbranded Thunderbird mail client suitable for free distribution.
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Recommends: hunspell-vi
+Description: Vietnamese language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
  The goal of Thunderbird is to produce a cross platform stand-alone mail
  application using the XUL user interface language.
  .
- This package contains the localization of Guacharo in Chinese (Taiwan).
+ This package contains the localization of Icedove in Vietnamese.
+
+Package: icedove-l10n-zh-cn
+Architecture: all
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Chinese (China) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
+ The goal of Thunderbird is to produce a cross platform stand-alone mail
+ application using the XUL user interface language.
+ .
+ This package contains the localization of Icedove in Chinese (China).
+
+Package: icedove-l10n-zh-tw
+Architecture: all
+Depends: ${misc:Depends}, icedove (>= 8.0~b4), icedove (<= 8.1)
+Description: Chinese (Taiwan) language package for Icedove
+ Icedove is an unbranded Thunderbird mail client suitable for free distribution.
+ The goal of Thunderbird is to produce a cross platform stand-alone mail
+ application using the XUL user interface language.
+ .
+ This package contains the localization of Icedove in Chinese (Taiwan).
 
