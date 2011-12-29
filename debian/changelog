@@ -1,11 +1,11 @@
-guacharo-l10n (8.0-1) stable; urgency=low
+guacharo-l10n (1:8.0-1) stable; urgency=low
 
   * [dd1cc44] Importando código de icedove-l10n 8.0
   * [4020070] Ejecutando script de conversión Icedove->Guacharo
 
  -- Luis Alejandro Martínez Faneyth <martinez.faneyth@gmail.com>  Thu, 22 Dec 2011 08:58:39 -0430
 
-guacharo-l10n (5.0-1) stable; urgency=low
+guacharo-l10n (1:5.0-1) stable; urgency=low
 
   * Versión Inicial para Canaima GNU/Linux.
 
