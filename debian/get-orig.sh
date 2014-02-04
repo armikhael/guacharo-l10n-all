@@ -13,29 +13,29 @@ if [ "$#" -lt 1 ]; then
     exit 1
 fi
 
-TMPDIR=`mktemp -d /tmp/icedove-l10n.XXXXXXXXXX`
+TMPDIR=`mktemp -d /tmp/guacharo-l10n.XXXXXXXXXX`
 CURDIR=`pwd`
 VERSION=$1
 
 if [ "$2" == "-gz" ]; then
     TAR_OPT="-zcf"
     TAR_EXT="tar.gz"
-    if [ -f $CURDIR/../icedove-l10n_$VERSION.orig.$TAR_EXT ]; then
-        echo "icedove-l10n_$VERSION.orig.$TAR_EXT exists, giving up..."
+    if [ -f $CURDIR/../guacharo-l10n_$VERSION.orig.$TAR_EXT ]; then
+        echo "guacharo-l10n_$VERSION.orig.$TAR_EXT exists, giving up..."
         exit 1
     fi
 else
     TAR_OPT="-Jcf"
     TAR_EXT="tar.xz"
-    if [ -f $CURDIR/../icedove-l10n_$VERSION.orig.$TAR_EXT ]; then
-        echo "icedove-l10n_$VERSION.orig.$TAR_EXT exists, giving up..."
+    if [ -f $CURDIR/../guacharo-l10n_$VERSION.orig.$TAR_EXT ]; then
+        echo "guacharo-l10n_$VERSION.orig.$TAR_EXT exists, giving up..."
         exit 1
     fi
 fi
 
-mkdir $TMPDIR/icedove-l10n-$VERSION
-mkdir $TMPDIR/icedove-l10n-$VERSION/upstream
-cd $TMPDIR/icedove-l10n-$VERSION
+mkdir $TMPDIR/guacharo-l10n-$VERSION
+mkdir $TMPDIR/guacharo-l10n-$VERSION/upstream
+cd $TMPDIR/guacharo-l10n-$VERSION
 
 # use wget mirror mode
 wget -m ftp://ftp.mozilla.org/pub/mozilla.org/thunderbird/releases/$VERSION/linux-i686/xpi
@@ -55,15 +55,15 @@ for XPI in `ls upstream`; do
         unzip -o -q -d chrome chrome/$JAR
         rm -f chrome/$JAR
     fi
-    cd $TMPDIR/icedove-l10n-$VERSION
+    cd $TMPDIR/guacharo-l10n-$VERSION
     rm upstream/$XPI
 done
 
-# en-US is integrated in icedove itself
-cd $TMPDIR/icedove-l10n-$VERSION
+# en-US is integrated in guacharo itself
+cd $TMPDIR/guacharo-l10n-$VERSION
 rm -rf upstream/en-US
 rm -rf ftp.mozilla.org
 cd ..
-tar $TAR_OPT icedove-l10n_$VERSION.orig.$TAR_EXT icedove-l10n-$VERSION
-cp icedove-l10n_$VERSION.orig.$TAR_EXT $CURDIR/..
-rm -rf $TMPDIR/icedove-l10n-$VERSION
+tar $TAR_OPT guacharo-l10n_$VERSION.orig.$TAR_EXT guacharo-l10n-$VERSION
+cp guacharo-l10n_$VERSION.orig.$TAR_EXT $CURDIR/..
+rm -rf $TMPDIR/guacharo-l10n-$VERSION
