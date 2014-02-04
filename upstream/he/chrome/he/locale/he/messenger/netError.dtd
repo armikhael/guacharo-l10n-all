@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
@@ -11,6 +15,7 @@
 # Reviewer(s):
 #
 # http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
@@ -60,6 +65,9 @@
 
 <!ENTITY netInterrupt.title "החיבור הופסק">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "תוקף המסמך פג">
+<!ENTITY notCached.longDesc "<p>המסמך המבוקש אינו זמין במטמון.</p><ul><li>כצעד מניעתי, &brandShortName; אינו מבקש שוב אוטומטית מידע רגיש.</li><li>יש ללחוץ על נסה שוב כדי לבקש מחדש את המסמך מהאתר.</li></ul>">
 
 <!ENTITY netOffline.title "מצב לא־מקוון">
 <!ENTITY netOffline.longDesc2 "
@@ -181,5 +189,4 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "XUL מרוחק">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>פנה אל בעלי האתר כדי ליידע אותם על הבעיה.</li></ul></p>">
-
 

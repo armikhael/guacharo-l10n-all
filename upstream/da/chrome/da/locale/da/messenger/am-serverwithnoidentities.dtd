@@ -1,11 +1,6 @@
-<!ENTITY accountTitle.label "Kontoindstillinger">
-<!ENTITY accountSettingsDesc.label "Det følgende er en speciel konto. Der er ingen identiteter knyttet til den.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label "Kontonavn:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Meddelelsesopbevaring">
-<!ENTITY emptyTrashOnExit.label "Tøm Papirkurv ved afslutning">
-<!ENTITY emptyTrashOnExit.accesskey "T">
-<!ENTITY localPath.label "Lokal mappe:">
-<!ENTITY localFolderPicker.label "Vælg lokal mappe">
-<!ENTITY browseFolder.label "Gennemse…">
-<!ENTITY browseFolder.accesskey "G">

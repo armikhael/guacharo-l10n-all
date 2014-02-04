@@ -1,11 +1,6 @@
-<!ENTITY accountTitle.label         "Konfiguracja konta">
-<!ENTITY accountSettingsDesc.label  "To jest specjalne konto, z którym nie są związane żadne dane identyfikacyjne.">
-<!ENTITY accountName.label          "Nazwa konta:">
-<!ENTITY accountName.accesskey      "N">
-<!ENTITY messageStorage.label       "Przechowywanie wiadomości">
-<!ENTITY emptyTrashOnExit.label     "Przy wyjściu z programu opróżniaj Kosz">
-<!ENTITY emptyTrashOnExit.accesskey "w">
-<!ENTITY localPath.label            "Katalog na lokalnym komputerze:">
-<!ENTITY localFolderPicker.label    "Wybierz katalog lokalny">
-<!ENTITY browseFolder.label         "Przeglądaj…">
-<!ENTITY browseFolder.accesskey     "P">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY accountName.label "Nazwa konta:">
+<!ENTITY accountName.accesskey "N">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from content/viewSource.xul -->
 <!-- LOCALIZATION NOTE (mainWindow.title) : DONT_TRANSLATE -->
 <!ENTITY mainWindow.title "&brandFullName;">
@@ -62,3 +66,8 @@
 <!ENTITY forwardCmd.accesskey "F">
 <!ENTITY goBackCmd.commandKey "[">
 <!ENTITY goForwardCmd.commandKey "]">
+
+<!ENTITY copyLinkCmd.label		"링크 주소 복사">
+<!ENTITY copyLinkCmd.accesskey		"L">
+<!ENTITY copyEmailCmd.label		"메일 주소 복사">
+<!ENTITY copyEmailCmd.accesskey		"E">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Вирізати">
 <!ENTITY cutCmd.accesskey "и">
 <!ENTITY copyCmd.label "Копіювати">
@@ -13,6 +17,8 @@
 
 <!ENTITY spellAddToDictionary.label "Додати в словник">
 <!ENTITY spellAddToDictionary.accesskey "о">
+<!ENTITY spellUndoAddToDictionary.label "Скасувати додавання в словник">
+<!ENTITY spellUndoAddToDictionary.accesskey "с">
 <!ENTITY spellCheckEnable.label "Перевіряти правопис">
 <!ENTITY spellCheckEnable.accesskey "П">
 <!ENTITY spellNoSuggestions.label "(припущень не знайдено)">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY systemIntegration.title "Integracja z systemem operacyjnym">
 <!ENTITY defaultClient.intro     "&brandShortName; ma być domyślnym klientem:">
 
@@ -5,7 +9,7 @@
 <!ENTITY newsgroups.label "grup dyskusyjnych">
 <!ENTITY feeds.label      "źródeł aktualności">
 
-<!ENTITY checkOnStartup.label     "Sprawdzaj to zawsze przy uruchamianiu programu &brandShortName;">
+<!ENTITY checkOnStartup.label     "Sprawdzaj te ustawienia zawsze podczas uruchamiania programu &brandShortName;">
 <!ENTITY checkOnStartup.accesskey "S">
 
 <!ENTITY searchIntegration.label     "Zezwalaj programowi &searchIntegration.engineName; na wyszukiwanie wiadomości">

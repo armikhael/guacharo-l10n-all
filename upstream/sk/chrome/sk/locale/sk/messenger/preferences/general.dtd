@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "Úvodná stránka &brandShortName;u">
 <!ENTITY enableStartPage.label            "Pri štarte &brandShortName;u zobraziť stránku v oblasti správy">
 <!ENTITY enableStartPage.accesskey        "z">
@@ -27,9 +31,3 @@
 <!ENTITY customsound.accesskey            "n">
 <!ENTITY browse.label                     "Prehľadávať…">
 <!ENTITY browse.accesskey                 "P">
-
-<!ENTITY addonsMgr.label                  "Doplnky">
-<!ENTITY manageAddonsDescWin.label        "Zmeniť nastavenia nainštalovaných doplnkov">
-<!ENTITY manageAddonsDescUnix2.label      "Zmeniť predvoľby nainštalovaných doplnkov">
-<!ENTITY manageAddons.label               "Spravovať doplnky…">
-<!ENTITY manageAddons.accesskey           "r">

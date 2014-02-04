@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- for SearchDialog.xul -->
 <!ENTITY searchHeading.label "Leita að póstum í:">
 <!ENTITY searchHeading.accesskey "L">
@@ -43,7 +47,7 @@
 <!ENTITY statusColumn.label "Staða">
 <!ENTITY sizeColumn.label "Stærð">
 <!ENTITY junkStatusColumn.label "Rusl staða">
-<!ENTITY unreadColumn.label "Ólesin">
+<!ENTITY unreadColumn.label "Ólesið">
 <!ENTITY totalColumn.label "Allt">
 <!ENTITY readColumn.label "Lesa">
 <!ENTITY receivedColumn.label "Móttekið">

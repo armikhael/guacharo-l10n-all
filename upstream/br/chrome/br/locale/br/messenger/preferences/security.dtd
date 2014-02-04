@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Lastez">
 <!ENTITY itemPhishing.label      "Postel c'hwibañ">
 <!ENTITY itemPasswords.label     "Gerioù-tremen">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "Merkañ evel bet lennet ar c'hemennadennoù despizet evel lastez">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Gweredekaat ar c'herzhlevr evit sil al lastez">
-<!ENTITY enableJunkLogging.accesskey "G">
+<!ENTITY enableAdaptiveJunkLogging.label "Gweredekaat ar c'herzhlevr evit sil azasaus al lastez">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "G">
 <!ENTITY openJunkLog.label "Diskwel ar c'herzhlevr">
 <!ENTITY openJunkLog.accesskey "s">
 <!ENTITY resetTrainingData.label "Adderaouekaat ar pleustriñ war ar roadennoù">
@@ -29,10 +33,10 @@
 <!ENTITY useDownloadedList.accesskey "u">
 
 <!-- Passwords -->
-<!ENTITY savedPasswords.intro           "Gallout a ra &brandShortName; derc'hel soñj eus ho kerioù-tremen evit holl ho kontoù.">
+<!ENTITY savedPasswords.intro           "Gallout a ra &brandShortName; derc'hel soñj eus ho kerioù-tremen evit ho holl kontoù.">
 <!ENTITY useMasterPassword.label        "Implijout ur ger-tremen mestr">
 <!ENTITY useMasterPassword.accesskey    "I">
-<!ENTITY masterPassword.intro           "Pa vez implijet anezhañ e tiwall ar ger-tremen mestr holl ho kerioù-tremen - met ret eo deoc'h e reiñ ur wech dre estez.">
+<!ENTITY masterPassword.intro           "Pa vez implijet anezhañ e tiwall ar ger-tremen mestr ho holl kerioù-tremen - met ret eo deoc'h e reiñ ur wech dre estez.">
 <!ENTITY changeMasterPassword.label     "Kemmañ ar ger-tremen mestr…">
 <!ENTITY changeMasterPassword.accesskey "K">
 <!ENTITY savedPasswords.label           "Gerioù-tremen enrollet…">
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "Diskwel an toupinoù…">
 <!ENTITY showCookies.accesskey          "s">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Lavarout d'al lec'hiennoù internet ne fell ket din bezañ heuliet">
+<!ENTITY doNotTrack.accesskey           "v">

@@ -5,7 +5,9 @@
 <!ENTITY itemCertificates.label "சான்றிதழ்கள்">
 
 <!-- General Settings -->
-
+<!ENTITY submitTelemetry.label         "Submit Performance Data">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "More information about Telemetry">
 <!ENTITY enableGlodaSearch.label       "Indexer மற்றும் அகிலத் தேடலை இயலுமைப்படுத்துக">
 <!ENTITY enableGlodaSearch.accesskey   "E">
 <!ENTITY systemIntegration.label       "அமைப்பு ஒருங்கிணைப்பு">
@@ -115,3 +117,16 @@ Entities below were automatically added by compare-locales,
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY mb.label "MB">
 <!ENTITY closeMsgOnMoveOrDelete.label "செய்தி சாளரத்தை மூடுக /நகர்த்தல் அல்லது அழித்தலுக்கான தத்தல்">
+
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">

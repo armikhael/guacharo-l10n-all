@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "郵件篩選條件">
 <!ENTITY nameColumn.label "篩選條件名稱">
 <!ENTITY activeColumn.label "啟用">
@@ -5,12 +9,18 @@
 <!ENTITY newButton.accesskey "N">
 <!ENTITY editButton.label "編輯…">
 <!ENTITY editButton.accesskey "E">
-<!ENTITY deleteButton.label "刪除項目">
+<!ENTITY deleteButton.label "刪除">
 <!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderTopButton "移到頂端">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "重新整理篩選條件，讓它最早執行">
 <!ENTITY reorderUpButton.label "上移">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "下移">
 <!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderBottomButton "移到底端">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "重新整理篩選條件，讓它最晚執行">
 <!ENTITY filterHeader.label "下列是會依序自動執行的篩選條件 (Filter)。">
 <!ENTITY filtersForPrefix.label "篩選帳號:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -27,3 +37,8 @@
 <!ENTITY helpButton.label "說明">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "用名稱搜尋篩選條件…">
+
+
+
+

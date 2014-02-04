@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Параметри облікових записів">
@@ -6,6 +10,8 @@
 <!ENTITY accountActionsButton.accesskey "Д">
 <!ENTITY addMailAccountButton.label "Додати поштовий запис…">
 <!ENTITY addMailAccountButton.accesskey "п">
+<!ENTITY addIMAccountButton.label "Додати чатовий запис…">
+<!ENTITY addIMAccountButton.accesskey "Ч">
 <!ENTITY addOtherAccountButton.label "Додати інший запис…">
 <!ENTITY addOtherAccountButton.accesskey "і">
 <!ENTITY setDefaultButton.label "За умовчанням">

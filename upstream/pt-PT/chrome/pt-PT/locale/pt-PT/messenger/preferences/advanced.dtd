@@ -1,13 +1,27 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label "Geral">
 <!ENTITY itemDisplay.label       "Leitura e apresentação">
-<!ENTITY itemUpdate.label "Actualização">
+<!ENTITY itemUpdate.label "Atualização">
 <!ENTITY itemNetworking.label "Rede e espaço em disco">
 <!ENTITY itemCertificates.label "Certificados">
 
 <!-- General Settings -->
 
-<!ENTITY enableGlodaSearch.label       "Activar pesquisa global e indexador">
+<!ENTITY submitTelemetry.label         "Submeter dados de desempenho">
+<!ENTITY submitTelemetry.accesskey     "P">
+<!ENTITY telemetryInfoLink.label       "Mais informação sobre Telemetria">
+<!ENTITY enableGlodaSearch.label       "Ativar pesquisa global e indexador">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Deslocamento">
+<!ENTITY useAutoScroll.label           "Usar auto deslocamento">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Usar deslocamento suave">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label          "Integração do Sistema">
 <!ENTITY alwaysCheckDefault.label      "Ao iniciar, verificar se o &brandShortName; é o programa de correio pré-definido">
 <!ENTITY alwaysCheckDefault.accesskey  "o">
@@ -24,7 +38,7 @@
 
 <!-- Display and Reading Settings -->
 <!ENTITY reading.caption               "Leitura">
-<!ENTITY display.caption               "Aprensentar">
+<!ENTITY display.caption               "Apresentar">
 <!ENTITY showCondensedAddresses.label "Mostrar apenas o nome para pessoas nos meus contactos">
 <!ENTITY showCondensedAddresses.accesskey "m">
 
@@ -49,20 +63,23 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "F">
 
 <!-- Update -->
-<!ENTITY autoCheck.label "Verificar automaticamente se há actualizações para:">
+<!ENTITY autoCheck.label "Verificar automaticamente se há atualizações para:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey "h">
 <!ENTITY enableAddonsUpdate.label "Extras instalados">
 <!ENTITY enableAddonsUpdate.accesskey "E">
-<!ENTITY whenUpdatesFound.label "Ao encontrar actualizações do &brandShortName;:">
+<!ENTITY whenUpdatesFound.label "Ao encontrar atualizações do &brandShortName;:">
 <!ENTITY modeAskMe.label "Perguntar-me o que fazer">
 <!ENTITY modeAskMe.accesskey "z">
-<!ENTITY modeAutomatic.label "Receber e instalar a actualização automaticamente">
+<!ENTITY modeAutomatic.label "Receber e instalar a atualização automaticamente">
 <!ENTITY modeAutomatic.accesskey "z">
-<!ENTITY modeAutoAddonWarn.label "Alertar caso desactive algum complemento">
+<!ENTITY modeAutoAddonWarn.label "Avisar-me caso desative algum dos meus extras">
 <!ENTITY modeAutoAddonWarn.accesskey "A">
-<!ENTITY showUpdates.label "Histórico de actualizações">
+<!ENTITY showUpdates.label "Mostrar histórico de atualizações">
 <!ENTITY showUpdates.accesskey "h">
+
+<!ENTITY useService.label                "Usar um serviço em segundo plano para instalar atualizações">
+<!ENTITY useService.accesskey            "b">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label "Definições...">
@@ -74,10 +91,10 @@
 <!ENTITY showOffline.label "Desligado...">
 <!ENTITY showOffline.accesskey "D">
 
-<!ENTITY Diskspace "Espaço em Disco">
-<!ENTITY offlineCompact.label "Compactar pastas se se puder libertar pelo menos">
-<!ENTITY offlineCompact.accesskey "c">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                   "Espaço em Disco">
+<!ENTITY offlineCompactFolders.label "Compactar pastas quando se puder libertar pelo menos">
+<!ENTITY offlineCompactFolders.accesskey "c">
+<!ENTITY offlineCompactFoldersMB.label "MB no total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -88,12 +105,12 @@
 <!ENTITY useCacheBefore.label            "Usar até">
 <!ENTITY useCacheBefore.accesskey        "U">
 <!ENTITY useCacheAfter.label             "MB de espaço para a cache">
-<!ENTITY clearCacheNow.label             "Limpar Agora">
+<!ENTITY clearCacheNow.label             "Limpar agora">
 <!ENTITY clearCacheNow.accesskey         "L">
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Quando um servidor pede o meu certificado pessoal:">
-<!ENTITY certs.auto                      "Seleccionar um automaticamente">
+<!ENTITY certs.auto                      "Selecionar um automaticamente">
 <!ENTITY certs.auto.accesskey            "m">
 <!ENTITY certs.ask                       "Perguntar-me de cada vez">
 <!ENTITY certs.ask.accesskey             "P">

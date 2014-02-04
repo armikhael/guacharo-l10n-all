@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY fontsAndEncodingsDialog.title "Písma a znaková sada">
 <!ENTITY window.width "39em">
 <!ENTITY window.macWidth "43em">
@@ -31,7 +35,7 @@
 <!ENTITY font.langGroup.baltic "Baltské jazyky">
 <!ENTITY font.langGroup.el "Řečtina">
 <!ENTITY font.langGroup.turkish "Turecká">
-<!ENTITY font.langGroup.unicode "Další jazyky">
+<!ENTITY font.langGroup.unicode1 "Unicode">
 <!ENTITY font.langGroup.user-def "Definovaná uživatelem">
 <!ENTITY font.langGroup.thai "Thajština">
 <!ENTITY font.langGroup.hebrew "Hebrejština">

@@ -91,7 +91,9 @@
 <!ENTITY viewMenu.label "ਵੇਖੋ"> 
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "ਟੂਲਬਾਰ"> 
-<!ENTITY viewToolbarsMenuNew.accesskey "T"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY menubarCmd.label "ਮੇਨੂ ਪੱਟੀ">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "ਕੰਪੋਜ਼ਿਸ਼ਨ ਟੂਲਬਾਰ">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "ਫਾਰਮੈਟ ਟੂਲਬਾਰ">
@@ -272,3 +274,17 @@
 <!-- Title for the address picker panel -->
 <!ENTITY addressesSidebarTitle.label "ਸੰਪਰਕ">
 
+
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloudCmd.accesskey "i">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY cancelUpload.label "Cancel Upload">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY convertCloud.label "Convert to…">
+<!ENTITY convertRegularAttachment.accesskey "A">
+<!ENTITY convertRegularAttachment.label "Regular Attachment">
+<!ENTITY renameAttachmentCmd.accesskey "e">
+<!ENTITY renameAttachmentCmd.label "Rename Attachment…">

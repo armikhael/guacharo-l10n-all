@@ -1,3 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- LOCALIZATION NOTE (quickFilterBar.qfbShowFilterBar.label):
+     The label  for the button on the tab bar that toggles the visibility of
+     the quick filter bar.
+     -->
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Flýtisía">
 <!-- LOCALIZATION NOTE (quickFilterBar.toggleBarVisibility.menu.label):
      The label to display for the "View... Toolbars..." menu item that controls
      whether the quick filter bar is visible.
@@ -30,7 +39,7 @@
      The label for the filter button that causes us to filter results to only
      include unread messages.
      -->
-<!ENTITY quickFilterBar.unread.label "Ólesinn">
+<!ENTITY quickFilterBar.unread.label "Ólesið">
 <!-- LOCALIZATION NOTE (quickFilterBar.unread.tooltip):
      The tooltip for the filter button that causes us to filter results to only
      include unread messages.

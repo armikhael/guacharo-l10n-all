@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY upgrade.style               "width: 120ch; height: 448px;">
 
 <!ENTITY checking.heading            "A' sgrùdadh nan tuilleadan agad">
@@ -29,7 +33,7 @@
 
 <!ENTITY action.disable.heading      "Thèid na tuilleadain a leanas a chur à comas:">
 <!ENTITY action.incompatible.heading "Tha na tuilleadain a leanas à comas ach cuirear an comas iad cho luath 's a bhios iad co-chòrdail:">
-<!ENTITY action.update.heading       "Thèid na tuilleadain a leanas ùrachadh :">
+<!ENTITY action.update.heading       "Thèid na tuilleadain a leanas ùrachadh:">
 <!ENTITY action.enable.heading       "Thèid na tuilleadain a leanas a chur an comas:">
 
 <!ENTITY update.heading              "Ag ùrachadh nan tuilleadan agad">

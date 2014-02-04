@@ -16,6 +16,9 @@
 <!ENTITY attachMenu.accesskey "v">
 <!ENTITY attachFileCmd.label "Filer …">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "N">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,11 +70,13 @@
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Tekstbryting">
-<!ENTITY editRewrapCmd.key "T">
 <!ENTITY editRewrapCmd.accesskey "T">
 <!ENTITY deleteCmd.label "Slett">
 <!ENTITY deleteCmd.accesskey "S">
+<!ENTITY editRewrapCmd.label "Tekstbryting">
+<!ENTITY editRewrapCmd.key "T">
+<!ENTITY renameAttachmentCmd.label "Endre namn på vedlegg …">
+<!ENTITY renameAttachmentCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "M"> 
@@ -90,8 +95,10 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Vis"> 
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Verktylinjer"> 
+<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "V"> 
+<!ENTITY menubarCmd.label "Menylinje">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Forfattarlinje">
 <!ENTITY showCompositionToolbarCmd.accesskey "F">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">
@@ -111,17 +118,17 @@
 <!-- Options Menu -->
 <!ENTITY optionsMenu.label "Innstillingar">
 <!ENTITY optionsMenu.accesskey "n">
-<!ENTITY checkSpellingCmd2.label "Kontroller staving …">
+<!ENTITY checkSpellingCmd2.label "Stavekontrollar …">
 <!ENTITY checkSpellingCmd2.key "p">
 <!ENTITY checkSpellingCmd2.key2 "VK_F7">
-<!ENTITY checkSpellingCmd2.accesskey "K">
-<!ENTITY enableInlineSpellChecker.label "Stavekontroll medan du skriv">
-<!ENTITY enableInlineSpellChecker.accesskey "t">
+<!ENTITY checkSpellingCmd2.accesskey "k">
+<!ENTITY enableInlineSpellChecker.label "Kontroller staving medan du skriv">
+<!ENTITY enableInlineSpellChecker.accesskey "o">
 <!ENTITY quoteCmd.label "Siter melding">
 <!ENTITY quoteCmd.accesskey "m">
 
 <!--LOCALIZATION NOTE attachVCard.label Don't translate the term 'vCard' -->
-<!ENTITY attachVCard.label "Legg ved personleg kort (vCard)">
+<!ENTITY attachVCard.label "Legg ved personleg adressekort (vCard)">
 <!ENTITY attachVCard.accesskey "L">
 
 <!ENTITY returnReceiptMenu.label "Kvittering tilbake">
@@ -156,7 +163,7 @@
 <!ENTITY fileHereMenu.label "Arkiver her">
 
 <!-- Tools Menu -->
-<!ENTITY tasksMenu.label "Verkty">
+<!ENTITY tasksMenu.label "Verktøy">
 <!ENTITY tasksMenu.accesskey "V">
 <!ENTITY messengerCmd.label "E-post og nyhendegrupper">
 <!ENTITY messengerCmd.accesskey "E">
@@ -164,7 +171,7 @@
 <!ENTITY addressBookCmd.label "Adressebok">
 <!ENTITY addressBookCmd.accesskey "A">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "Kontoinnstillingar …">
+<!ENTITY accountManagerCmd.label "Konto …">
 <!ENTITY accountManagerCmd.accesskey "K">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "Innstillingar …">
@@ -220,7 +227,7 @@
 <!-- Format Toolbar, imported from editorAppShell.xul -->
 <!ENTITY SmileButton.tooltip "Set inn smilefjes">
 <!ENTITY smiley1Cmd.label "Smil">
-<!ENTITY smiley2Cmd.label "Rynker panna">
+<!ENTITY smiley2Cmd.label "Rynkar panna">
 <!ENTITY smiley3Cmd.label "Blink">
 <!ENTITY smiley4Cmd.label "Tunga-ut">
 <!ENTITY smiley5Cmd.label "Ler">
@@ -259,12 +266,20 @@
 <!ENTITY delete.accesskey "S">
 <!ENTITY removeAttachment.label "Fjern vedlegg">
 <!ENTITY removeAttachment.accesskey "v">
-<!ENTITY renameAttachment.label "Endre navn …">
+<!ENTITY renameAttachment.label "Endre namn …">
 <!ENTITY renameAttachment.accesskey "E">
 <!ENTITY selectAll.label "Merk alt">
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Legg ved fil(er) …">
 <!ENTITY attachFile.accesskey "L">
+<!ENTITY attachCloud.label "Filelink …">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Konverter til …">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Avbryt opplasting">
+<!ENTITY cancelUpload.accesskey "v">
+<!ENTITY convertRegularAttachment.label "Vanleg vedlegg">
+<!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Legg ved nettside …">
 <!ENTITY attachPage.accesskey "L">
 

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Axenda de enderezos">
 
 <!-- File Menu -->
@@ -79,22 +83,30 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Barras de ferramentas">
 <!ENTITY viewToolbarsMenu.accesskey                     "t"> 
+<!ENTITY menubarCmd.label                               "Barra de menú">
+<!ENTITY menubarCmd.accesskey                           "m">
 <!ENTITY showAbToolbarCmd.label                         "Barra da axenda de enderezos">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Barra de estado">
 <!ENTITY showTaskbarCmd.accesskey                       "d">
 <!ENTITY customizeToolbar.label                         "Personalizar…">
 <!ENTITY customizeToolbar.accesskey                     "z">
-<!ENTITY showContactPane.label                          "Panel resumo do contacto">
-<!ENTITY showContactPane.accesskey                      "c">
+<!ENTITY layoutMenu.label                               "Deseño">
+<!ENTITY layoutMenu.accesskey                           "ñ">
+<!ENTITY showDirectoryPane.label                        "Panel de directorio">
+<!ENTITY showDirectoryPane.accesskey                    "d">
+<!ENTITY showContactPane2.label                         "Panel de contactos">
+<!ENTITY showContactPane2.accesskey                     "c">
 <!ENTITY menu_ShowNameAs.label                          "Mostrar nome como">
 <!ENTITY menu_ShowNameAs.accesskey                      "s"> 
-<!ENTITY firstLastCmd.label                             "Nome, apelido">
-<!ENTITY firstLastCmd.accesskey                         "e"> 
-<!ENTITY lastFirstCmd.label                             "Apelido, nome">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Nome e apelidos">
+<!ENTITY firstLastCmd2.accesskey                        "e"> 
+<!ENTITY lastFirstCmd.label                             "Apelidos, nome">
 <!ENTITY lastFirstCmd.accesskey                         "l">
-<!ENTITY displayNameCmd.label                           "Mostrar nome">
-<!ENTITY displayNameCmd.accesskey                       "M">
+<!ENTITY displayNameCmd.label                           "Texto de 'Mostrar'">
+<!ENTITY displayNameCmd.accesskey                       "T">
 <!ENTITY sortMenu.label                                 "Ordenar por">
 <!ENTITY sortMenu.accesskey                             "d">
 
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "e">
 <!ENTITY PrimaryEmail.label                             "Correo electrónico">
 <!ENTITY PrimaryEmail.accesskey                         "e">
-<!ENTITY ScreenName.label                               "Nome en pantalla">
-<!ENTITY ScreenName.accesskey                           "l">
+<!ENTITY ChatName.label                                 "Nome das conversas">
+<!ENTITY ChatName.accesskey                             "c">
 <!ENTITY Company.label                                  "Organización">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Alcume">
@@ -184,8 +196,9 @@
 <!-- Card Summary Pane -->
 <!-- Box Headings -->
 <!ENTITY contact.heading                                "Contacto">
-<!ENTITY home.heading                                   "Inicio">
+<!ENTITY home.heading                                   "Domicilio">
 <!ENTITY other.heading                                  "Outro">
+<!ENTITY chat.heading                                   "Conversas">
 <!ENTITY phone.heading                                  "Teléfono">
 <!ENTITY work.heading                                   "Traballo">
 <!-- Special Box Headings, for mailing lists -->

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "消息过滤器">
 <!ENTITY nameColumn.label "描述">
 <!ENTITY activeColumn.label "启用">
@@ -7,10 +11,16 @@
 <!ENTITY editButton.accesskey "E">
 <!ENTITY deleteButton.label "删除">
 <!ENTITY deleteButton.accesskey "t">
+<!ENTITY reorderTopButton "移动到顶端">
+<!ENTITY reorderTopButton.accessKey "o">
+<!ENTITY reorderTopButton.toolTip "重新排列过滤器以便它可以最先执行">
 <!ENTITY reorderUpButton.label "上移">
 <!ENTITY reorderUpButton.accesskey "U">
 <!ENTITY reorderDownButton.label "下移">
 <!ENTITY reorderDownButton.accesskey "D">
+<!ENTITY reorderBottomButton "移动到底部">
+<!ENTITY reorderBottomButton.accessKey "B">
+<!ENTITY reorderBottomButton.toolTip "重新排列过滤器以便它可以最后执行">
 <!ENTITY filterHeader.label "可用过滤器按如下显示的顺序运行。">
 <!ENTITY filtersForPrefix.label "此过滤器用于:">
 <!ENTITY filtersForPrefix.accesskey "F">
@@ -27,3 +37,7 @@
 <!ENTITY helpButton.label "帮助">
 <!ENTITY helpButton.accesskey "H">
 <!ENTITY closeCmd.key "W"> 
+<!ENTITY searchBox.emptyText "按名称搜索过滤器…">
+
+
+

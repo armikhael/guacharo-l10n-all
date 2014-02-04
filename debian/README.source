@@ -1,18 +1,8 @@
-guacharo-l10n for Debian - source package notes
+icedove-l10n for Debian - source package notes
 ----------------------------------------------
 
 The upstream tarball was generated as follows:
 
-mkdir ../guacharo-l10n-$VERSION
-cp -a debian ../guacharo-l10n-$VERSION
-cd ../guacharo-l10n-$VERSION
-mkdir upstream
 debian/get-orig.sh $VERSION
-# en-US is integrated in guacharo itself
-rm -rf upstream/en-US
-cd ..
-tar --exclude debian -zcf guacharo-l10n_$VERSION.orig.tar.gz guacharo-l10n-$VERSION
-rm -rf guacharo-l10n-$VERSION
-  
 
- -- Christoph Goehre <chris@sigxcpu.org>  Sat, 12 Mar 2011 17:49:53 +0100
+ -- Christoph Goehre <chris@sigxcpu.org>  Wed, 28 Mar 2012 18:56:55 +0200

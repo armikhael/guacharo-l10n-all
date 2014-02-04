@@ -1,10 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label "Основные">
 <!ENTITY itemDisplay.label "Чтение и отображение">
 <!ENTITY itemUpdate.label "Обновления">
 <!ENTITY itemNetworking.label "Сеть и дисковое пространство">
 <!ENTITY itemCertificates.label "Сертификаты">
+<!ENTITY submitTelemetry.label "Отправлять данные о производительности">
+<!ENTITY submitTelemetry.accesskey "я">
+<!ENTITY telemetryInfoLink.label "Подробнее о телеметрии">
 <!ENTITY enableGlodaSearch.label "Включить глобальный поиск и индексацию сообщений">
 <!ENTITY enableGlodaSearch.accesskey "и">
+<!ENTITY scrolling.label "Прокрутка">
+<!ENTITY useAutoScroll.label "Использовать автоматическую прокрутку">
+<!ENTITY useAutoScroll.accesskey "в">
+<!ENTITY useSmoothScrolling.label "Использовать плавную прокрутку">
+<!ENTITY useSmoothScrolling.accesskey "л">
 <!ENTITY systemIntegration.label "Интеграция с системой">
 <!ENTITY alwaysCheckDefault.label "Всегда проверять при запуске, является ли &brandShortName; почтовым клиентом по умолчанию">
 <!ENTITY alwaysCheckDefault.accesskey "п">
@@ -40,7 +52,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "к">
 <!ENTITY autoCheck.label "Автоматически проверять наличие обновлений для:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey "h">
+<!ENTITY enableAppUpdate.accesskey "d">
 <!ENTITY enableAddonsUpdate.label "Установленных дополнений">
 <!ENTITY enableAddonsUpdate.accesskey "о">
 <!ENTITY whenUpdatesFound.label "При обнаружении обновлений для &brandShortName;:">
@@ -52,6 +64,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey "е">
 <!ENTITY showUpdates.label "Показать журнал обновлений">
 <!ENTITY showUpdates.accesskey "ж">
+<!ENTITY useService.label "Использовать фоновую службу для установки обновлений">
+<!ENTITY useService.accesskey "ф">
 <!ENTITY showSettings.label "Настроить…">
 <!ENTITY showSettings.accesskey "с">
 <!ENTITY proxiesConfigure.label "Настройка параметров соединения &brandShortName; с Интернетом">
@@ -61,9 +75,9 @@
 <!ENTITY showOffline.label "Автономная работа…">
 <!ENTITY showOffline.accesskey "в">
 <!ENTITY Diskspace "Дисковое пространство">
-<!ENTITY offlineCompact.label "Сжимать папки, если при этом высвободится более">
-<!ENTITY offlineCompact.accesskey "м">
-<!ENTITY mb.label "МБ">
+<!ENTITY offlineCompactFolders.label "Сжимать все папки, если при этом высвободится всего более">
+<!ENTITY offlineCompactFolders.accesskey "м">
+<!ENTITY offlineCompactFoldersMB.label "МБ">
 <!ENTITY useCacheBefore.label "Использовать до">
 <!ENTITY useCacheBefore.accesskey "п">
 <!ENTITY useCacheAfter.label "МБ на диске для кэша">

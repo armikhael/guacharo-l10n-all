@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Navn:">
 <!ENTITY     props.value.label              "Innhold:">
 <!ENTITY     props.domain.label             "Tjener">
 <!ENTITY     props.path.label               "Sti:">
 <!ENTITY     props.secure.label             "Send til:">
 <!ENTITY     props.expires.label            "Utløper:">
-<!ENTITY     props.policy.label             "Valg:">
 
 <!ENTITY     button.allow.label             "Tillat">
 <!ENTITY     button.allow.accesskey         "T">
@@ -13,6 +16,6 @@
 <!ENTITY     button.deny.label              "Avslå">
 <!ENTITY     button.deny.accesskey          "A">
 
-<!ENTITY     dialog.title                   "Bekreft">
+<!ENTITY     dialog.title                   "Bekreft infokapsel">
 <!ENTITY     dialog.remember.label          "Bruk dette valget for alle infokapsler fra dette nettstedet">
 <!ENTITY     dialog.remember.accesskey      "B">

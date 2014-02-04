@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Cortar">
 <!ENTITY cutCmd.accesskey "o">
 <!ENTITY copyCmd.label "Copiar">
@@ -13,6 +17,8 @@
 
 <!ENTITY spellAddToDictionary.label "Engadir ao dicionario">
 <!ENTITY spellAddToDictionary.accesskey "n">
+<!ENTITY spellUndoAddToDictionary.label "Desfacer engadir ao diccionario">
+<!ENTITY spellUndoAddToDictionary.accesskey "g">
 <!ENTITY spellCheckEnable.label "Verificación ortográfica">
 <!ENTITY spellCheckEnable.accesskey "V">
 <!ENTITY spellNoSuggestions.label "(Non hai suxestións ortográficas)">

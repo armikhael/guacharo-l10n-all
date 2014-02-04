@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Спам">
 <!ENTITY itemPhishing.label      "Анти-фішинг">
 <!ENTITY itemPasswords.label     "Паролі">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "н">
 <!ENTITY markAsReadOnSpam.label "Відмітити такі листи прочитаними">
 <!ENTITY markAsReadOnSpam.accesskey "ч">
-<!ENTITY enableJunkLogging.label "Ввімкнути журнал спам-фільтру">
-<!ENTITY enableJunkLogging.accesskey "ж">
+<!ENTITY enableAdaptiveJunkLogging.label "Увімкнути журнал роботи адаптивного анти-спам фільтра">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "ж">
 <!ENTITY openJunkLog.label "Показати журнал">
 <!ENTITY openJunkLog.accesskey "к">
 <!ENTITY resetTrainingData.label "Скинути дані тренувань">
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "Показати куки…">
 <!ENTITY showCookies.accesskey          "о">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Казати сайтам що я не хочу щоб мене відслідковували">
+<!ENTITY doNotTrack.accesskey           "в">

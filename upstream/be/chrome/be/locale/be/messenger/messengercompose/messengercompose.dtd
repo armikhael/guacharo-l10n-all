@@ -13,6 +13,9 @@
 <!ENTITY attachMenu.accesskey "л">
 <!ENTITY attachFileCmd.label "Файл(ы)…">
 <!ENTITY attachFileCmd.accesskey "Ф">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Старонку Сеціва…">
 <!ENTITY attachPageCmd.accesskey "С">
 <!ENTITY attachVCardCmd.label "Асабістую картку (vCard)">
@@ -61,11 +64,13 @@
 <!ENTITY pasteCmd.accesskey "у">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Перазагінаць">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "г">
 <!ENTITY deleteCmd.label "Выдаліць">
 <!ENTITY deleteCmd.accesskey "д">
+<!ENTITY editRewrapCmd.label "Перазагінаць">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Перайменаваць далучэнне…">
+<!ENTITY renameAttachmentCmd.accesskey "й">
 <!ENTITY selectAllCmd.label "Вылучыць усё">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "у">
@@ -84,6 +89,8 @@
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenuNew.label "Паліцы прыладаў">
 <!ENTITY viewToolbarsMenuNew.accesskey "п">
+<!ENTITY menubarCmd.label "Паліца меню">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showCompositionToolbarCmd.label "Прыладапаліца ўкладання">
 <!ENTITY showCompositionToolbarCmd.accesskey "ў">
 <!ENTITY showFormattingBarCmd.label "Прыладапаліца фарматавання">
@@ -230,6 +237,14 @@
 <!ENTITY selectAll.accesskey "У">
 <!ENTITY attachFile.label "Далучыць файл(ы)…">
 <!ENTITY attachFile.accesskey "Ф">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Ператварыць у…">
+<!ENTITY convertCloud.accesskey "т">
+<!ENTITY cancelUpload.label "Скасаваць зацягванне">
+<!ENTITY cancelUpload.accesskey "к">
+<!ENTITY convertRegularAttachment.label "Звычайнае далучэнне">
+<!ENTITY convertRegularAttachment.accesskey "д">
 <!ENTITY attachPage.label "Далучыць старонку Сеціва…">
 <!ENTITY attachPage.accesskey "с">
 <!ENTITY spellAddDictionaries.label "Дадаць слоўнікі…">

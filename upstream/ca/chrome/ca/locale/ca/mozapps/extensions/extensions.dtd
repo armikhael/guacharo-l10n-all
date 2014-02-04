@@ -1,5 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addons.windowTitle                   "Gestor de complements">
+
 <!ENTITY search.placeholder                   "Cerca tots els complements">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "S'està carregant…">
 <!ENTITY listEmpty.installed.label            "No teniu instal·lat cap complement d'aquest tipus">
 <!ENTITY listEmpty.availableUpdates.label     "No s'ha trobat cap actualització">
@@ -103,7 +112,7 @@
      Displayed in the center of the Get Add-ons view, see bug 601143 for mockups. -->
 
 <!ENTITY discover.title                       "Què són els complements?">
-<!ENTITY discover.description2                "Els complements són aplicacions que us permeten personalitzar el &brandShortName; amb una funcionalitat o estil addicional. Proveu una barra lateral per estalviar temps, un notificador meteorològic o un tema perquè el Firefox sembli més personal.">
+<!ENTITY discover.description2                "Els complements són aplicacions que us permeten personalitzar el &brandShortName; amb una funcionalitat o estil addicional. Proveu una barra lateral per estalviar temps, un servei meteorològic o un tema perquè el &brandShortName; sembli més personal.">
 <!ENTITY discover.footer                      "Quan estigueu connectat a Internet, des d'aquesta subfinestra es mostraran alguns dels millors i més populars complements que podeu provar.">
 <!-- detail view -->
 

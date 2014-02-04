@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "Général">
 <!ENTITY itemDisplay.label       "Lecture et affichage">
 <!ENTITY itemUpdate.label        "Mise à jour">
@@ -6,8 +10,16 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label "Envoyer les rapports de performance">
+<!ENTITY submitTelemetry.accesskey "E">
+<!ENTITY telemetryInfoLink.label "Plus de détails sur la métrologie">
 <!ENTITY enableGlodaSearch.label "Activer la recherche et l'indexation globales">
 <!ENTITY enableGlodaSearch.accesskey "c">
+<!ENTITY scrolling.label "Défilement">
+<!ENTITY useAutoScroll.label "Automatique">
+<!ENTITY useAutoScroll.accesskey "u">
+<!ENTITY useSmoothScrolling.label "Doux">
+<!ENTITY useSmoothScrolling.accesskey "o">
 <!ENTITY systemIntegration.label "Intégration système">
 <!ENTITY alwaysCheckDefault.label "Toujours vérifier si &brandShortName; est le client de messagerie par défaut au démarrage :">
 <!ENTITY alwaysCheckDefault.accesskey "T">
@@ -64,6 +76,9 @@
 <!ENTITY showUpdates.label              "Afficher l'historique des mises à jour">
 <!ENTITY showUpdates.accesskey          "A">
 
+<!ENTITY useService.label                "Utiliser un service en arrière-plan pour installer les mises à jour">
+<!ENTITY useService.accesskey            "s">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Paramètres…">
 <!ENTITY showSettings.accesskey        "P">
@@ -74,10 +89,10 @@
 <!ENTITY showOffline.label             "Hors connexion…">
 <!ENTITY showOffline.accesskey         "H">
 
-<!ENTITY Diskspace "Espace disque">
-<!ENTITY offlineCompact.label "Compacter les dossiers quand cela économise au moins">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY mb.label "Mo">
+<!ENTITY Diskspace                       "Espace disque">
+<!ENTITY offlineCompactFolders.label     "Compacter les dossiers quand cela économise au moins">
+<!ENTITY offlineCompactFolders.accesskey "C">
+<!ENTITY offlineCompactFoldersMB.label   "Mo au total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title          "Krouiñ ur gont bostel">
 <!ENTITY name.label                      "Hoc'h anv :">
 <!ENTITY name.accesskey                  "n">
@@ -26,7 +30,7 @@
 <!ENTITY imap.label                      "IMAP">
 <!ENTITY pop3.label                       "POP3">
 <!ENTITY smtp.label                      "SMTP">
-<!ENTITY autodetect.label                "Dizoleiñ ent-emgefreek">
+<!ENTITY autodetect.label                "Dizoleiñ ent emgefreek">
 <!-- LOCALIZATION NOTE(noEncryption.label): Neither SSL/TLS nor STARTTLS.
      Transmission of emails in cleartext over the Internet. -->
 <!ENTITY noEncryption.label              "Tra ebet">
@@ -49,9 +53,10 @@
 <!ENTITY half-manual-test.accesskey      "A">
 <!ENTITY manual-edit.label               "Kefluniad dornel">
 <!ENTITY manual-edit.accesskey           "d">
+<!ENTITY switch-to-provisioner.label     "Kaout ur gont nevez">
+<!ENTITY switch-to-provisioner.accesskey "n">
 
-
-<!ENTITY warning.label                   "Diwallit!">
+<!ENTITY warning.label                   "Diwallit !">
 <!ENTITY incomingSettings.label          "Arventennoù an dafariad degemer:">
 <!ENTITY outgoingSettings.label          "Arventennoù an dafariad kas:">
 <!ENTITY technicaldetails.label          "Munudoù kalvezel">
@@ -60,11 +65,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Kompren a ran ar riskloù.">
 <!ENTITY confirmWarning.accesskey        "p">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Krouiñ ar gont">
-<!ENTITY createAccount.accesskey         "K">
+<!ENTITY doneAccount.label               "Graet">
+<!ENTITY doneAccount.accesskey           "G">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

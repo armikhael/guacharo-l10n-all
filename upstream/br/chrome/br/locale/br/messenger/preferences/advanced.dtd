@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "Hollek">
 <!ENTITY itemDisplay.label       "Lenn &amp; Skrammañ">
 <!ENTITY itemUpdate.label        "Hizivaat">
@@ -6,8 +10,18 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Treuzkas roadennoù a-fet digonusted">
+<!ENTITY submitTelemetry.accesskey     "T">
+<!ENTITY telemetryInfoLink.label       "Muioc'h a ditouroù a-zivout Telemetry">
 <!ENTITY enableGlodaSearch.label       "Gweredekaat ar c'hlask hag an ibiliañ hollek">
 <!ENTITY enableGlodaSearch.accesskey   "h">
+
+<!ENTITY scrolling.label               "Dibunañ">
+<!ENTITY useAutoScroll.label           "Arverañ an dibunañ emgefreek">
+<!ENTITY useAutoScroll.accesskey       "e">
+<!ENTITY useSmoothScrolling.label      "Arverañ an dibunañ flour">
+<!ENTITY useSmoothScrolling.accesskey  "f">
+
 <!ENTITY systemIntegration.label       "Enframmadur reizhiad">
 <!ENTITY alwaysCheckDefault.label      "Gwiriañ bepred, pa loc'h ar goulev, ma'z eo &brandShortName; ho posteler dre ziouer">
 <!ENTITY alwaysCheckDefault.accesskey  "z">
@@ -28,7 +42,7 @@
 <!ENTITY showCondensedAddresses.label  "Diskwel an anv evit an den eus ma c'harned chomlec'hioù nemetken">
 <!ENTITY showCondensedAddresses.accesskey "D">
 
-<!ENTITY autoMarkAsRead.label          "Merkañ ar c'hemennadennoù evel lennet ent-emgefreek">
+<!ENTITY autoMarkAsRead.label          "Merkañ ar c'hemennadennoù evel lennet ent emgefreek">
 <!ENTITY autoMarkAsRead.accesskey      "a">
 <!ENTITY markAsReadNoDelay.label       "Adalek ar skrammañ">
 <!ENTITY markAsReadNoDelay.accesskey   "s">
@@ -49,7 +63,7 @@
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "S">
 
 <!-- Update -->
-<!ENTITY autoCheck.label                "Klask an hizivadurioù ent-emgefreek evit :">
+<!ENTITY autoCheck.label                "Klask an hizivadurioù ent emgefreek evit :">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Askouezhioù bet staliet">
@@ -57,27 +71,30 @@
 <!ENTITY whenUpdatesFound.label         "Ur wech kavet hizivadurioù eus &brandShortName;,">
 <!ENTITY modeAskMe.label                "Goulenn ganin petra a fell din ober">
 <!ENTITY modeAskMe.accesskey            "a">
-<!ENTITY modeAutomatic.label            "Pellgargañ ent-emgefreek ha staliañ an hizivadur">
-<!ENTITY modeAutomatic.accesskey        "d">
+<!ENTITY modeAutomatic.label            "Pellgargañ ha staliañ ent emgefreek an hizivadur">
+<!ENTITY modeAutomatic.accesskey        "a">
 <!ENTITY modeAutoAddonWarn.label        "Kas keloù din hag-eñ e vo diweredekaet unan eus ma askouezhioù">
 <!ENTITY modeAutoAddonWarn.accesskey    "-">
 <!ENTITY showUpdates.label              "Diskouez istor an hizivadurioù">
 <!ENTITY showUpdates.accesskey          "u">
 
+<!ENTITY useService.label                "Arverañ ur gwazerezh e drekleur evit staliañ an hizivadurioù">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Arventennoù…">
 <!ENTITY showSettings.accesskey        "A">
 <!ENTITY proxiesConfigure.label        "Despizañ penaos e kennasko &brandShortName; ouzh internet">
-<!ENTITY connectionsInfo.caption       "Kennaskañ">
+<!ENTITY connectionsInfo.caption       "Kennask">
 <!ENTITY offlineInfo.caption           "Ezlinenn">
 <!ENTITY offlineInfo.label             "Kefluniañ an arventennoù ezlinenn">
 <!ENTITY showOffline.label             "Ezlinenn…">
 <!ENTITY showOffline.accesskey         "z">
 
-<!ENTITY Diskspace "Egor war ar gantenn">
-<!ENTITY offlineCompact.label "Koazhañ teuliadoù p'ez a o ment dreist da">
-<!ENTITY offlineCompact.accesskey "z">
-<!ENTITY mb.label "ME">
+<!ENTITY Diskspace                       "Egor war ar gantenn">
+<!ENTITY offlineCompactFolders.label     "Koazhañ an holl deuliadoù pa e tieub an dra-se muioc'h eget">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "Me en holl">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
@@ -93,8 +110,8 @@
 
 <!-- Certificates -->
 <!ENTITY certSelection.description       "Pa vez goulennet ma zesteni personel gant un dafariad:">
-<!ENTITY certs.auto                      "Diuz unan ent-emgefre">
-<!ENTITY certs.auto.accesskey            "u">
+<!ENTITY certs.auto                      "Diuz unan ent emgefreek">
+<!ENTITY certs.auto.accesskey            "D">
 <!ENTITY certs.ask                       "Goulenn diganin bewech">
 <!ENTITY certs.ask.accesskey             "b">
 

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Правила фільтрації">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Назва фільтру:">
@@ -27,7 +31,8 @@
 <!ENTITY copyMessage.label "Перемістити повідомлення у">
 <!ENTITY forwardTo.label "Переслати повідомлення до">
 <!ENTITY replyWithTemplate.label "Відповісти за шаблоном">
-<!ENTITY markMessageRead.label "Відмітити як прочитане">
+<!ENTITY markMessageRead.label "Позначити як прочитане">
+<!ENTITY markMessageUnread.label "Позначити як нечитане">
 <!ENTITY markMessageStarred.label "Додати зірочку">
 <!ENTITY setPriority.label "Змінити важливість на">
 <!ENTITY addTag.label "Помітити повідомлення">
@@ -39,3 +44,14 @@
 <!ENTITY ignoreSubthread.label "Ігнорувати підгілку">
 <!ENTITY watchThread.label "Відстежувати гілку">
 <!ENTITY stopExecution.label "Припинити роботу фільтра">
+
+<!ENTITY addAction.tooltip "Додати нову дію">
+<!ENTITY removeAction.tooltip "Вилучити цю дію">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

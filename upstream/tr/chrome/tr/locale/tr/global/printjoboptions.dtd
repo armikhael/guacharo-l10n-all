@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from printjoboptions.xul -->
 
 <!ENTITY printJobOptions.title "Yazıcı Özellikleri">
@@ -26,8 +30,8 @@
 <!ENTITY colorspaceInput.label "Renk boşluğu:">
 <!ENTITY colorspaceInput.accesskey "n">
 
-<!ENTITY fontsGroup.label "Yazıtipleri:">
-<!ENTITY downloadFonts.label "Yazıcı için yazıtipi indirilsin mi?">
+<!ENTITY fontsGroup.label "Yazı tipleri:">
+<!ENTITY downloadFonts.label "Yazı tiplerini yazıcıya indir">
 <!ENTITY downloadFonts.accesskey "d">
 
 <!ENTITY edgeMarginInput.label "Kenar boşluk uzunluğunun sınırı">
@@ -39,3 +43,4 @@
 <!ENTITY leftInput.accesskey "l">
 <!ENTITY rightInput.label "Sağ:">
 <!ENTITY rightInput.accesskey "S">
+

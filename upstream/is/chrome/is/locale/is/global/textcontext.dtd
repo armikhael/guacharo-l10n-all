@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Klippa">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Afrita">
@@ -10,8 +14,10 @@
 <!ENTITY selectAllCmd.accesskey "l">
 <!ENTITY deleteCmd.label "Eyða">
 <!ENTITY deleteCmd.accesskey "E">
-<!ENTITY spellAddToDictionary.label "Bæta við í orðasafn">
+<!ENTITY spellAddToDictionary.label "Bæta við orðasafn">
 <!ENTITY spellAddToDictionary.accesskey "t">
+<!ENTITY spellUndoAddToDictionary.label "Hætta við bæta við orðasafn">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Yfirfara stafsetningu">
 <!ENTITY spellCheckEnable.accesskey "s">
 <!ENTITY spellNoSuggestions.label "(Engar athugasemdir við stafsetningu)">

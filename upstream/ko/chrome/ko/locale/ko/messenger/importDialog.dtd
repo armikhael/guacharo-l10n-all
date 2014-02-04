@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY importDialog.windowTitle "가져오기">
 <!ENTITY importAll.label          "전체 가져오기">
 <!ENTITY importAll.accesskey      "E">
@@ -25,3 +29,9 @@
 <!ENTITY select.label "또는 가져올 형식 선택:">
 <!ENTITY title.label "제목">
 <!ENTITY processing.label "가져오기…">
+
+<!ENTITY acctName.label			"계정 이름:">
+<!ENTITY acctName.accesskey		"N">
+<!ENTITY importFeeds.label		"구독 피드">
+<!ENTITY importFeeds.accesskey		"d">
+<!ENTITY selectDescriptionB.label	"기존의 계정을 선택하거나 새로운 계정을 생성하세요: ">

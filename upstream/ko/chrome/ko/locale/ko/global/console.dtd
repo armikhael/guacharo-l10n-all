@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY errFile.label "소스 파일:">
 <!ENTITY errLine.label "행:">
 <!ENTITY errColumn.label "열:">
@@ -12,6 +16,8 @@
 <!ENTITY clear.label "삭제">
 <!ENTITY clear.accesskey "C">
 <!ENTITY evaluate.label "평가">
+<!ENTITY filter.label       "필터">
+<!ENTITY filter.accesskey   "F">
 <!ENTITY copyCmd.label "복사">
 <!ENTITY copyCmd.accesskey "C">
 <!ENTITY copyCmd.commandkey "C">

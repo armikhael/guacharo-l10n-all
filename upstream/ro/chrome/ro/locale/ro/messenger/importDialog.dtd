@@ -58,16 +58,16 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 "&brandShortName;" below.
 -->
 
-<!ENTITY importDialog.windowTitle "Importează">
+<!ENTITY importDialog.windowTitle "Importă">
 <!ENTITY importAll.label          "Importă totul">
 <!ENTITY importAll.accesskey      "I">
-<!ENTITY importMail.label         "Poştă">
-<!ENTITY importMail.accesskey     "P">
+<!ENTITY importMail.label         "Corespondență">
+<!ENTITY importMail.accesskey     "C">
 <!ENTITY importAddressbook.label  "Agende de contacte">
 <!ENTITY importAddressbook.accesskey "A">
-<!ENTITY importSettings.label     "Setari">
+<!ENTITY importSettings.label     "Setări">
 <!ENTITY importSettings.accesskey "S">
-<!ENTITY importFilters.label      "Filtrează după:">
+<!ENTITY importFilters.label      "Filtre">
 <!ENTITY importFilters.accesskey  "F">
 
 <!ENTITY  window.width            "40em">
@@ -93,3 +93,8 @@ LOCALIZATION NOTE : Do not translate any of the occurrences of the word
 <!ENTITY processing.label         "Import…">
 
 
+<!ENTITY acctName.accesskey       "N">
+<!ENTITY acctName.label           "Name:">
+<!ENTITY importFeeds.accesskey    "d">
+<!ENTITY importFeeds.label        "Feed Subscriptions">
+<!ENTITY selectDescriptionB.label "Please select an existing account or create a new account:">

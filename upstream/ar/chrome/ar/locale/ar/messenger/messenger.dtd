@@ -1,5 +1,8 @@
-<!ENTITY messengerWindow.title "البريد ومجموعات الأخبار">
-<!ENTITY titledefault.label "&brandFullName;">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY titledefault.label    "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
 
@@ -23,8 +26,14 @@
 <!ENTITY newVirtualFolderCmd.accesskey "ح">
 <!ENTITY newOtherAccountsCmd.label "حسابات أخرى…">
 <!ENTITY newOtherAccountsCmd.accesskey "خ">
-<!ENTITY newEmailAccountCmd.label "حساب بريد…">
-<!ENTITY newEmailAccountCmd.accesskey "س">
+<!ENTITY newCreateEmailAccountCmd.label "احصل على حساب بريد جديد…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "س">
+<!ENTITY newExistingEmailAccountCmd.label "حساب بريد موجود…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "و">
+<!ENTITY newIMAccountCmd.label "حساب دردشة…">
+<!ENTITY newIMAccountCmd.accesskey "ش">
+<!ENTITY newIMContactCmd.label "متراسل دردشة…">
+<!ENTITY newIMContactCmd.accesskey "ت">
 <!ENTITY openMessageFileCmd.label "افتح رسالة محفوظة…">
 <!ENTITY openMessageFileCmd.accesskey "ف">
 <!ENTITY openAttachmentCmd.label "مرفقات">
@@ -54,9 +63,9 @@
 <!ENTITY renameFolder.accesskey "غ">
 <!ENTITY renameFolder.key "VK_F2">
 <!ENTITY compactFolders.label "اضغط المجلدات">
-<!ENTITY compactFolders.accesskey "د">
+<!ENTITY compactFolders.accesskey    "د">
 <!ENTITY emptyTrashCmd.label "أفرغ سلة المهملات">
-<!ENTITY emptyTrashCmd.accesskey "ف">
+<!ENTITY emptyTrashCmd.accesskey    "ف">
 <!ENTITY offlineMenu.label "غير متصل">
 <!ENTITY offlineMenu.accesskey "م">
 <!ENTITY offlineGoOfflineCmd.label "اعمل بلا اتصال">
@@ -119,6 +128,8 @@
 <!ENTITY redoDefaultCmd.accesskey "ع">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "شريط القائمة">
+<!ENTITY menubarCmd.accesskey "ئ">
 <!ENTITY showMessengerToolbarCmd.label "شريط أدوات البريد">
 <!ENTITY showMessengerToolbarCmd.accesskey "ر">
 <!ENTITY customizeToolbar.label "خصّص…">
@@ -132,6 +143,8 @@
 <!ENTITY messagePaneWide.accesskey "ع">
 <!ENTITY messagePaneVertical.label "منظور رأسي">
 <!ENTITY messagePaneVertical.accesskey "ر">
+<!ENTITY showFolderPaneCmd.label "لوحة المجلدات">
+<!ENTITY showFolderPaneCmd.accesskey "م">
 <!ENTITY showMessageCmd.label "لوح الرسائل">
 <!ENTITY showMessageCmd.accesskey "ح">
 
@@ -245,31 +258,33 @@ If shift key is needed with your locale popular keyboard for them,
 you can use these alternative items. Otherwise, their values should be empty.  -->
 
 
-<!ENTITY fullZoomEnlargeCmd.label "كبّر">
-<!ENTITY fullZoomEnlargeCmd.accesskey "ر">
-<!ENTITY fullZoomEnlargeCmd.commandkey "+">
+<!ENTITY fullZoomEnlargeCmd.label       "كبّر">
+<!ENTITY fullZoomEnlargeCmd.accesskey   "ر">
+<!ENTITY fullZoomEnlargeCmd.commandkey  "+">
 <!-- + is above this key on many keyboards -->
-<!ENTITY fullZoomEnlargeCmd.commandkey2 "=">
+<!ENTITY fullZoomEnlargeCmd.commandkey2 "="> 
 <!ENTITY fullZoomEnlargeCmd.commandkey3 "">
 
-<!ENTITY fullZoomReduceCmd.label "صغّر">
-<!ENTITY fullZoomReduceCmd.accesskey "ص">
-<!ENTITY fullZoomReduceCmd.commandkey "-">
-<!ENTITY fullZoomReduceCmd.commandkey2 "">
+<!ENTITY fullZoomReduceCmd.label        "صغّر">
+<!ENTITY fullZoomReduceCmd.accesskey    "ص">
+<!ENTITY fullZoomReduceCmd.commandkey   "-">
+<!ENTITY fullZoomReduceCmd.commandkey2  "">
 
-<!ENTITY fullZoomResetCmd.label "أعِد ضبط">
-<!ENTITY fullZoomResetCmd.accesskey "ط">
-<!ENTITY fullZoomResetCmd.commandkey "0">
-<!ENTITY fullZoomResetCmd.commandkey2 "">
+<!ENTITY fullZoomResetCmd.label         "أعِد ضبط">
+<!ENTITY fullZoomResetCmd.accesskey     "ط">
+<!ENTITY fullZoomResetCmd.commandkey    "0">
+<!ENTITY fullZoomResetCmd.commandkey2   "">
 
-<!ENTITY fullZoomToggleCmd.label "كبّر النص فقط">
-<!ENTITY fullZoomToggleCmd.accesskey "ص">
-<!ENTITY fullZoom.label "كبّر">
-<!ENTITY fullZoom.accesskey "ك">
+<!ENTITY fullZoomToggleCmd.label        "كبّر النص فقط">
+<!ENTITY fullZoomToggleCmd.accesskey    "ص">
+<!ENTITY fullZoom.label                 "كبّر">
+<!ENTITY fullZoom.accesskey             "ك">
 
 <!ENTITY pageSourceCmd.label "مصدر الرسالة">
 <!ENTITY pageSourceCmd.accesskey "ص">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "ابحث">
@@ -314,11 +329,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY prevUnreadMsgCmd.accesskey "غ">
 <!ENTITY prevUnreadMsgCmd.key "p">
 <!ENTITY goForwardCmd.label "إلى الأمام">
-<!ENTITY goForwardCmd.accesskey "أ">
+<!ENTITY goForwardCmd.accesskey "م">
 <!ENTITY goForwardCmd.commandKey "]">
 <!ENTITY goBackCmd.label "إلى الخلف">
 <!ENTITY goBackCmd.accesskey "خ">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "الدردشة">
+<!ENTITY goChatCmd.accesskey "د">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "الرسائل ذات النجمة">
 <!ENTITY prevStarredMsgCmd.accesskey "ذ">
 <!ENTITY folderMenu.label "المجلد">
@@ -326,6 +344,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "هذا المجلد">
 <!ENTITY thisFolder.accesskey "ه">
 <!ENTITY goRecentlyClosedTabs.label "الألسنة المغلقة مؤخرًا">
+<!ENTITY goRecentlyClosedTabs.accesskey "خ">
 <!ENTITY startPageCmd.label "صفحة بداية البريد">
 <!ENTITY startPageCmd.accesskey "ب">
 <!-- Message Menu -->
@@ -338,25 +357,25 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY newNewMsgCmd.accesskey "ر">
 <!ENTITY archiveMsgCmd.label "أرشيف">
 <!ENTITY archiveMsgCmd.accesskey "ف">
-<!ENTITY archiveMsgCmd.key "a">
+<!ENTITY archiveMsgCmd.key  "a">
 <!ENTITY cancelNewsMsgCmd.label "ألغِ الرسالة">
 <!ENTITY cancelNewsMsgCmd.accesskey "ر">
 <!ENTITY replyMsgCmd.label "رُدّ">
 <!ENTITY replyMsgCmd.accesskey "ر">
-<!ENTITY replyMsgCmd.key "r">
+<!ENTITY replyMsgCmd.key  "r">
 <!ENTITY replySenderCmd.label "رُد إلى المُرسِل فقط">
 <!ENTITY replySenderCmd.accesskey "م">
-<!ENTITY replyNewsgroupCmd.label "رُد على مجموعة الأخبار">
-<!ENTITY replyNewsgroupCmd.accesskey "د">
+<!ENTITY replyNewsgroupCmd2.label "تابع إلى المجموعة الإخبارية">
+<!ENTITY replyNewsgroupCmd2.accesskey  "ة">
 <!ENTITY replyToAllMsgCmd.label "ردّ على الجميع">
-<!ENTITY replyToAllMsgCmd.accesskey "ج">
-<!ENTITY replyToAllMsgCmd.key "r">
+<!ENTITY replyToAllMsgCmd.accesskey  "ج">
+<!ENTITY replyToAllMsgCmd.key  "r">
 <!ENTITY replyToListMsgCmd.label "رُدّ على القائمة">
-<!ENTITY replyToListMsgCmd.accesskey "ق">
-<!ENTITY replyToListMsgCmd.key "l">
+<!ENTITY replyToListMsgCmd.accesskey  "ق">
+<!ENTITY replyToListMsgCmd.key  "l">
 <!ENTITY forwardMsgCmd.label "مرّر">
 <!ENTITY forwardMsgCmd.accesskey "م">
-<!ENTITY forwardMsgCmd.key "l">
+<!ENTITY forwardMsgCmd.key  "l">
 <!ENTITY forwardAsMenu.label "مرّر ك‍">
 <!ENTITY forwardAsMenu.accesskey "ك">
 <!ENTITY forwardAsInline.label "ضمن السّياق">
@@ -461,6 +480,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "ض">
 <!ENTITY activitymanager.label "مدير النشاطات">
 <!ENTITY activitymanager.accesskey "ش">
+<!ENTITY imAccountsStatus.label "حالة الدردشة">
+<!ENTITY imAccountsStatus.accesskey "ش">
+<!ENTITY imStatus.available          "متفرّغ">
+<!ENTITY imStatus.unavailable        "غير متفرّغ">
+<!ENTITY imStatus.offline            "غير متصل">
+<!ENTITY imStatus.showAccounts       "اعرض الحسابات…">
+<!ENTITY joinChatCmd.label "انضم للدردشة…">
+<!ENTITY joinChatCmd.accesskey "ض">
 <!ENTITY savedFiles.label "الملفات المحفوظة">
 <!ENTITY savedFiles.accesskey "ظ">
 <!ENTITY savedFiles.key "j">
@@ -480,6 +507,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "س">
 <!ENTITY errorConsoleCmd.label "مرقاب الأعطال">
 <!ENTITY errorConsoleCmd.accesskey "ط">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "امسح التأريخ الحالي…">
+<!ENTITY clearRecentHistory.accesskey "س">
 <!ENTITY accountManagerCmd.label "إعدادات الحساب …">
 <!ENTITY accountManagerCmd.accesskey "ع">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -496,24 +526,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "صُفّ">
 <!ENTITY archiveButton.label "أرشِف">
 <!ENTITY nextButton.label "التالي">
+<!ENTITY nextButtonToolbarItem.label "غير المقروءة التالية">
+<!ENTITY nextMsgButton.label "التالية">
 <!ENTITY previousButton.label "السابق">
+<!ENTITY previousButtonToolbarItem.label "غير المقروءة السابقة">
+<!ENTITY previousMsgButton.label "السابقة">
 <!ENTITY backButton1.label "إلى الخلف">
 <!ENTITY goForwardButton1.label "إلى الأمام">
+<!ENTITY deleteItem.title "حذف">
 <!ENTITY deleteButton.label "احذف">
 <!ENTITY undeleteButton.label "ألغِ الحذف">
 <!ENTITY markButton.label "أشِّر">
 <!ENTITY printButton.label "اطبع">
 <!ENTITY stopButton.label "قف">
 <!ENTITY throbberItem.title "مبيّن النشاط">
+<!ENTITY junkItem.title "سخام">
 <!ENTITY junkButton.label "سخام">
 <!ENTITY notJunkButton.label "ليست سخامًا">
 <!ENTITY addressBookButton.label "دفتر العناوين">
+<!ENTITY chatButton.label "الدردشة">
 <!ENTITY glodaSearch.title "بحث عمومي">
 <!ENTITY searchItem.title "بحث سريع">
 <!ENTITY mailViewsToolbarItem.title "مشاهد البريد">
 <!ENTITY folderLocationToolbarItem.title "موقع المجلد">
 <!ENTITY tagButton.label "وسم">
 <!ENTITY compactButton.label "ضغط">
+<!ENTITY appmenuButton.label "قائمة التطبيق">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "بحث متقدِّم في الرسائل">
@@ -528,7 +566,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "صُفّ الرسالة المختارة">
 <!ENTITY archiveButton.tooltip "أرشِف الرسائل المختارة">
 <!ENTITY nextButton.tooltip "الرسالة غير المقروءة التالية">
+<!ENTITY nextMsgButton.tooltip "انتقل للرسالة التالية">
 <!ENTITY previousButton.tooltip "الرسالة غير المقروءة السابقة">
+<!ENTITY previousMsgButton.tooltip "انتقل للرسالة السابقة">
 <!ENTITY goForwardButton.tooltip "تقدم رسالة واحدة">
 <!ENTITY goBackButton.tooltip "ارجع رسالة واحدة">
 <!ENTITY deleteButton.tooltip "احذف الرسالة أو المجلد المختار">
@@ -539,12 +579,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "أشر الرسائل المختارة على أنها سخام">
 <!ENTITY notJunkButton.tooltip "أشر الرسائل المختارة على أنها ليست سخاما">
 <!ENTITY addressBookButton.tooltip "دفتر العناوين">
+<!ENTITY chatButton.tooltip "أظهر لسان الدردشة">
 <!ENTITY tagButton.tooltip "سِمْ الرسائل">
 <!ENTITY compactButton.tooltip "أزِل الرسائل المحذوفة من المجلد المحدد">
+<!ENTITY appmenuButton.tooltip "يعرض قائمة التطبيق">
+<!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "رسالة جديدة">
+<!ENTITY appmenuNewContactCmd.label "متراسل دفتر العناوين…">
+<!ENTITY appmenuEditMenu.label "تحرير">
+<!ENTITY appmenuQFBMenu.label "شريط الترشيح السريع">
+<!ENTITY appmenuToolbarLayout.label "تنسيق شريط الأدوات…">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "وسم جديد…">
 <!ENTITY addNewTag.accesskey "و">
+<!ENTITY manageTags.label "أدِر الوسوم…">
+<!ENTITY manageTags.accesskey "س">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "الاسم">
@@ -579,8 +630,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "ق">
 <!ENTITY folderContextSubscribe.label "اشترك…">
 <!ENTITY folderContextSubscribe.accesskey "ش">
-<!ENTITY folderContextSearchMessages.label "ابحث…">
-<!ENTITY folderContextSearchMessages.accesskey "ب">
+<!ENTITY folderContextSearchForMessages.label "ابحث في الرسائل…">
+<!ENTITY folderContextSearchForMessages.accesskey "س">
 <!ENTITY folderContextProperties.label "الخصائص…">
 <!ENTITY folderContextProperties.accesskey "خ">
 <!ENTITY folderContextFavoriteFolder.label "مجلد المفضّلات">
@@ -664,8 +715,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "ف">
 <!ENTITY contextReplySender.label "رُد إلى المُرسِل فقط">
 <!ENTITY contextReplySender.accesskey "م">
-<!ENTITY contextReplyNewsgroup.label "رُد على مجموعة الأخبار">
-<!ENTITY contextReplyNewsgroup.accesskey "د">
+<!ENTITY contextReplyNewsgroup2.label "تابع إلى المجموعة الإخبارية">
+<!ENTITY contextReplyNewsgroup2.accesskey "ة">
 <!ENTITY contextReplyAll.label "رُد على الجميع">
 <!ENTITY contextReplyAll.accesskey "ر">
 <!ENTITY contextReplyList.label "ردّ على القائمة">
@@ -745,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "و">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage1.label "بريد سُخام">
+<!ENTITY junkBarMessage2.label "يظن &brandShortName; أن هذه رسالة سخام.">
 <!ENTITY junkBarButton1.label "ليست سُخامًا">
 <!ENTITY junkInfoButton.label "؟">
 <!-- Remote Content Bar -->
@@ -771,28 +822,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      -->
 
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "ابحث في كل الرسائل… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "ابحث… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "أضِف إلى دفتر العناوين…">
@@ -852,14 +903,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY zoomWindow.label "قرّب">
 <!-- Mac OS X Application Menu (Cocoa widgets) -->
 
-<!ENTITY preferencesCmdMac.label "تفضيلات…">
-<!ENTITY preferencesCmdMac.commandkey "،">
-<!ENTITY preferencesCmdMac.modifiers "accel">
-<!ENTITY servicesMenuMac.label "خدمات">
-<!ENTITY hideThisAppCmdMac.label "أخفِ &brandShortName;">
-<!ENTITY hideThisAppCmdMac.commandkey "H">
-<!ENTITY hideThisAppCmdMac.modifiers "accel">
-<!ENTITY hideOtherAppsCmdMac.label "أخفٍ البقية">
+<!ENTITY preferencesCmdMac.label        "تفضيلات…">
+<!ENTITY preferencesCmdMac.commandkey   "،">
+<!ENTITY preferencesCmdMac.modifiers    "accel">
+<!ENTITY servicesMenuMac.label          "خدمات">
+<!ENTITY hideThisAppCmdMac.label        "أخفِ &brandShortName;">
+<!ENTITY hideThisAppCmdMac.commandkey   "H">
+<!ENTITY hideThisAppCmdMac.modifiers    "accel">
+<!ENTITY hideOtherAppsCmdMac.label      "أخفٍ البقية">
 <!ENTITY hideOtherAppsCmdMac.commandkey "H">
-<!ENTITY hideOtherAppsCmdMac.modifiers "accel,alt">
-<!ENTITY showAllAppsCmdMac.label "أظهِر الكل">
+<!ENTITY hideOtherAppsCmdMac.modifiers  "accel,alt">
+<!ENTITY showAllAppsCmdMac.label        "أظهِر الكل">

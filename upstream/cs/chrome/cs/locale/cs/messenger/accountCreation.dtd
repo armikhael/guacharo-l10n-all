@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title "Založení poštovního účtu">
 <!ENTITY name.label "Vaše jméno:">
 <!ENTITY name.accesskey "V">
@@ -49,6 +53,8 @@
 <!ENTITY half-manual-test.accesskey "Z">
 <!ENTITY manual-edit.label "Ruční nastavení">
 <!ENTITY manual-edit.accesskey "u">
+<!ENTITY switch-to-provisioner.label "Získat nový účet">
+<!ENTITY switch-to-provisioner.accesskey "n">
 
 
 <!ENTITY warning.label "Upozornění!">
@@ -63,8 +69,8 @@
 <!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label "Vytvořit účet">
-<!ENTITY createAccount.accesskey "V">
+<!ENTITY doneAccount.label "Hotovo">
+<!ENTITY doneAccount.accesskey "H">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

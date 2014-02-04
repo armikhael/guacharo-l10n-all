@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY itemDisplay.label       "Lectura y apariencia">
 <!ENTITY itemUpdate.label        "Actualización">
@@ -6,8 +10,18 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Enviar datos de rendimiento">
+<!ENTITY submitTelemetry.accesskey     "r">
+<!ENTITY telemetryInfoLink.label       "Más información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Habilitar indexado y búsqueda global">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Desplazamiento">
+<!ENTITY useAutoScroll.label           "Usar autodesplazamiento">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Usar desplazamiento suave">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Integración con el sistema">
 <!ENTITY alwaysCheckDefault.label          "Siempre verificar si &brandShortName; es el cliente de correo predeterminado al iniciar">
 <!ENTITY alwaysCheckDefault.accesskey      "l">
@@ -51,7 +65,7 @@
 <!-- Update -->
 <!ENTITY autoCheck.label              "Buscar periódicamente actualizaciones para:">
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
-<!ENTITY enableAppUpdate.accesskey      "r">
+<!ENTITY enableAppUpdate.accesskey      "T">
 <!ENTITY enableAddonsUpdate.label    "Complementos instalados">
 <!ENTITY enableAddonsUpdate.accesskey "i">
 <!ENTITY whenUpdatesFound.label         "Cuando se encuentren actualizaciones para &brandShortName;,">
@@ -64,6 +78,9 @@
 <!ENTITY showUpdates.label              "Mostrar el historial de actualizaciones">
 <!ENTITY showUpdates.accesskey          "u">
 
+<!ENTITY useService.label                "Usar un servicio en segundo plano para instalar actualizaciones">
+<!ENTITY useService.accesskey            "z">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configuración…">
 <!ENTITY showSettings.accesskey        "n">
@@ -75,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "S">
 
 <!ENTITY Diskspace "Espacio en disco">
-<!ENTITY offlineCompact.label "Compactar carpetas cuando se recuperen más de">
-<!ENTITY offlineCompact.accesskey "e">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "Compactar carpetas cuando se recuperen más de">
+<!ENTITY offlineCompactFolders.accesskey "e">
+<!ENTITY offlineCompactFoldersMB.label   "MB en total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

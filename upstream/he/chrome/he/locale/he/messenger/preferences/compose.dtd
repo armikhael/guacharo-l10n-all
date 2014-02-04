@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
@@ -7,7 +11,7 @@
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
 #
 -->
 <!ENTITY itemGeneral.label                   "כללי">
@@ -67,5 +71,4 @@
 <!ENTITY attachmentReminder.accesskey          "ח">
 <!ENTITY attachmentReminderOptions.label       "מילות מפתח…">
 <!ENTITY attachmentReminderOptions.accesskey   "מ">
-
 

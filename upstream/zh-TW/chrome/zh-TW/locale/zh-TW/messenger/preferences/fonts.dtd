@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  fontsAndEncodingsDialog.title           "字型與字元編碼">
 <!ENTITY  window.width                            "39em">
 <!ENTITY  window.macWidth                         "43em">
@@ -31,7 +35,7 @@
 <!ENTITY  font.langGroup.baltic                   "波羅的語言">
 <!ENTITY  font.langGroup.el                       "希臘文">
 <!ENTITY  font.langGroup.turkish                  "土耳其語">
-<!ENTITY  font.langGroup.unicode                  "其他語言">
+<!ENTITY  font.langGroup.unicode1                 "Unicode">
 <!ENTITY  font.langGroup.user-def                 "使用者自訂">
 <!ENTITY  font.langGroup.thai                     "泰文">
 <!ENTITY  font.langGroup.hebrew                   "希伯來語">
@@ -68,9 +72,10 @@
 <!ENTITY sendDefaultCharset.label         "外寄的郵件:">
 <!ENTITY sendDefaultCharset.accesskey     "u">
 <!ENTITY languagesTitle1.label            "字元編碼">
-<!ENTITY composingDescription.label       "設定寄收信時的預設字元編碼">
+<!ENTITY composingDescription.label       "設定收發信件時的預設字元編碼">
 
 <!ENTITY viewDefaultCharsetList.label     "收到的郵件:">
 <!ENTITY viewDefaultCharsetList.accesskey  "I">
 <!ENTITY replyInDefaultCharset2.label     "回信時盡量使用預設字元編碼">
 <!ENTITY replyInDefaultCharset2.accesskey "h">
+

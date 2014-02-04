@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Skrifa: (ekkert efni)">
 <!-- File Menu -->
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey "e">
 <!ENTITY attachFileCmd.label "Skrá…">
 <!ENTITY attachFileCmd.accesskey "S">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Tengill í skrá">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Vefsíðu…">
 <!ENTITY attachPageCmd.accesskey "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -71,11 +78,13 @@
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Línuskipta">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "s">
 <!ENTITY deleteCmd.label "Eyða">
 <!ENTITY deleteCmd.accesskey "E">
+<!ENTITY editRewrapCmd.label "Línuskipta">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Endurnefna viðhengi…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Velja allt">
 <!ENTITY selectAllCmd.key "V">
 <!ENTITY selectAllCmd.accesskey "j">
@@ -102,6 +111,8 @@
  
 <!ENTITY viewToolbarsMenuNew.accesskey "V">
  
+<!ENTITY menubarCmd.label "Valmynd">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Samsetningarslá">
 <!ENTITY showCompositionToolbarCmd.accesskey "m">
 <!ENTITY showFormattingBarCmd.label "Sniðslá">
@@ -256,7 +267,7 @@
 <!ENTITY spellCheckNoSuggestions.label "Fann engar uppástungur">
 <!ENTITY spellCheckIgnoreWord.label "Hunsa orð">
 <!ENTITY spellCheckIgnoreWord.accesskey "H">
-<!ENTITY spellCheckAddToDictionary.label "Bæta við í orðasafn">
+<!ENTITY spellCheckAddToDictionary.label "Bæta við orðasafn">
 <!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY undo.label "Afturkalla">
 <!ENTITY undo.accesskey "u">
@@ -280,6 +291,14 @@
 <!ENTITY selectAll.accesskey "j">
 <!ENTITY attachFile.label "Bæta við skrá(m)…">
 <!ENTITY attachFile.accesskey "B">
+<!ENTITY attachCloud.label "Tengill í skrá…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Breyta í…">
+<!ENTITY convertCloud.accesskey "B">
+<!ENTITY cancelUpload.label "Hætta við">
+<!ENTITY cancelUpload.accesskey "H">
+<!ENTITY convertRegularAttachment.label "Venjulegt viðhengi">
+<!ENTITY convertRegularAttachment.accesskey "V">
 <!ENTITY attachPage.label "Bæta við vefsíðu…">
 <!ENTITY attachPage.accesskey "v">
 <!-- Spell checker context menu items -->

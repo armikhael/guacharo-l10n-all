@@ -40,11 +40,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "මම අනතුර තේරුම් ගතිමි.">
 <!ENTITY confirmWarning.accesskey        "u">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "ගිණුම සෑදීම">
-<!ENTITY createAccount.accesskey         "C">
+<!ENTITY doneAccount.label               "කළා">
+<!ENTITY doneAccount.accesskey           "D">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change
@@ -75,7 +75,7 @@ Entities below were automatically added by compare-locales,
 <!ENTITY port.label "වාවරය (Port)">
 <!ENTITY half-manual-test.accesskey "t">
 <!ENTITY advancedSetup.label "වැඩිමනත් මානකිරීම්">
-<!ENTITY imapLong.label "IMAP (remote folders)">
+<!ENTITY imapLong.label "IMAP (දුරස්ථ බහාලුම්)">
 <!ENTITY auth.label "සත්‍යාපනය">
 <!ENTITY hostname.label "සේවාදායක ධාරක නම">
 <!ENTITY advancedSetup.accesskey "A">
@@ -85,3 +85,5 @@ Entities below were automatically added by compare-locales,
 <!ENTITY password.placeholder "රහස්පදය">
 <!ENTITY pop3.label "POP3">
 <!ENTITY manual-edit.accesskey "M">
+<!ENTITY switch-to-provisioner.label     "නව ගිණුමක් ලබාගන්න">
+<!ENTITY switch-to-provisioner.accesskey "G">

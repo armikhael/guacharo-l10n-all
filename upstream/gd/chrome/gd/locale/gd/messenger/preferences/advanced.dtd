@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+   
 <!ENTITY itemGeneral.label       "Coitcheann">
 <!ENTITY itemDisplay.label       "Leughadh ┐ taisbeanadh">
 <!ENTITY itemUpdate.label        "Ùraich">
@@ -6,8 +10,18 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Cuir a-null dàta mun dèanadas">
+<!ENTITY submitTelemetry.accesskey     "u">
+<!ENTITY telemetryInfoLink.label       "Barrachd fiosrachaidh mu theileimeatrachd">
 <!ENTITY enableGlodaSearch.label       "Cuir an lorg is an clàr-innsiche uile-choitcheann an comas">
 <!ENTITY enableGlodaSearch.accesskey   "e">
+
+<!ENTITY scrolling.label               "Sgroladh">
+<!ENTITY useAutoScroll.label           "Cleachd fèin-sgroladh">
+<!ENTITY useAutoScroll.accesskey       "o">
+<!ENTITY useSmoothScrolling.label      "Cleachd sgroladh rèidh">
+<!ENTITY useSmoothScrolling.accesskey  "h">
+
 <!ENTITY systemIntegration.label       "Co-fhilleadh an t-siostaim">
 <!ENTITY alwaysCheckDefault.label      "Bheir &brandShortName; sùil an e e fhèin do roghainn prògram nam post-dealain gach turas a thòiseachas e">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
@@ -64,6 +78,9 @@
 <!ENTITY showUpdates.label              "Seall eachdraidh nan ùrachaidhean">
 <!ENTITY showUpdates.accesskey          "S">
 
+<!ENTITY useService.label                "Cleachd seirbheis a stàlaicheas ùrachaidhean sa chùlaibh">
+<!ENTITY useService.accesskey            "b">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Roghainnean…">
 <!ENTITY showSettings.accesskey        "R">
@@ -75,9 +92,9 @@
 <!ENTITY showOffline.accesskey         "o">
 
 <!ENTITY Diskspace "Àite air an diosg">
-<!ENTITY offlineCompact.label "Dùmhlaich na pasgain nan sàbhaladh seo barrachd air">
-<!ENTITY offlineCompact.accesskey "a">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label     "CDùmhlaich na pasgain nan sàbhaladh seo barrachd air">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB uile gu lèir">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

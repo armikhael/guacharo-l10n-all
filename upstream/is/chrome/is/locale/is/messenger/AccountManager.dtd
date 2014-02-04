@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label "Stillingar reiknings">
@@ -5,6 +9,8 @@
 <!ENTITY accountActionsButton.accesskey "R">
 <!ENTITY addMailAccountButton.label "Bæta við póstreikningi…">
 <!ENTITY addMailAccountButton.accesskey "B">
+<!ENTITY addIMAccountButton.label "Bæta við spjallreikningi…">
+<!ENTITY addIMAccountButton.accesskey "s">
 <!ENTITY addOtherAccountButton.label "Bæta við öðrum reikningi…">
 <!ENTITY addOtherAccountButton.accesskey "ö">
 <!ENTITY setDefaultButton.label "Setja sem sjálfgefinn">

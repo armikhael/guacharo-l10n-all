@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
@@ -7,7 +11,8 @@
 <!--
 # Reviewer(s):
 #
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
+# Tomer Cohen <tomer.mozilla@tomercohen.com>
+# hatul <amiadb@gmail.com>
 #
 -->
 <!-- extracted from AccountManager.xul -->
@@ -38,3 +43,5 @@
 <!ENTITY accountTree.width "width: 31ch;">
 
 
+<!ENTITY addIMAccountButton.accesskey "C">
+<!ENTITY addIMAccountButton.label "Add Chat Account…">

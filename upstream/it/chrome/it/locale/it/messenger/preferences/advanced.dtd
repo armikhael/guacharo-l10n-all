@@ -1,10 +1,22 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label "Generale">
 <!ENTITY itemDisplay.label "Lettura e schermo">
 <!ENTITY itemUpdate.label "Aggiornamenti">
 <!ENTITY itemNetworking.label "Rete e spazio su disco">
 <!ENTITY itemCertificates.label "Certificati">
+<!ENTITY submitTelemetry.label "Invia dati relativi alle prestazioni">
+<!ENTITY submitTelemetry.accesskey "I">
+<!ENTITY telemetryInfoLink.label "Maggiori informazioni sulla telemetria">
 <!ENTITY enableGlodaSearch.label "Attiva la ricerca globale e l'indicizzazione">
 <!ENTITY enableGlodaSearch.accesskey "E">
+<!ENTITY scrolling.label "Scrolling">
+<!ENTITY useAutoScroll.label "Utilizza lo scorrimento automatico">
+<!ENTITY useAutoScroll.accesskey "U">
+<!ENTITY useSmoothScrolling.label "Utilizza lo scorrimento continuo">
+<!ENTITY useSmoothScrolling.accesskey "m">
 <!ENTITY systemIntegration.label "Integrazione col sistema">
 <!ENTITY alwaysCheckDefault.label "Controlla sempre all'avvio se &brandShortName; è il programma di posta predefinito">
 <!ENTITY alwaysCheckDefault.accesskey "A">
@@ -36,7 +48,7 @@
 <!ENTITY reuseExpRadio0.accesskey "u">
 <!ENTITY reuseExpRadio1.label "nella stessa finestra">
 <!ENTITY reuseExpRadio1.accesskey "n">
-<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si cancella">
+<!ENTITY closeMsgOnMoveOrDelete.label "Chiudere la finestra (linguetta) del messaggio quando si sposta o si elimina">
 <!ENTITY closeMsgOnMoveOrDelete.accesskey "C">
 <!ENTITY autoCheck.label "Controlla automaticamente la presenza di aggiornamenti per:">
 <!ENTITY enableAppUpdate.label "&brandShortName;">
@@ -52,6 +64,8 @@
 <!ENTITY modeAutoAddonWarn.accesskey "A">
 <!ENTITY showUpdates.label "Mostra cronologia aggiornamenti">
 <!ENTITY showUpdates.accesskey "M">
+<!ENTITY useService.label "Utilizza un servizio di sistema per installare gli aggiornamenti">
+<!ENTITY useService.accesskey "U">
 <!ENTITY showSettings.label "Impostazioni…">
 <!ENTITY showSettings.accesskey "I">
 <!ENTITY proxiesConfigure.label "Configura il modo in cui &brandShortName; si collega a Internet">
@@ -61,9 +75,9 @@
 <!ENTITY showOffline.label "Non in linea…">
 <!ENTITY showOffline.accesskey "N">
 <!ENTITY Diskspace "Spazio su disco">
-<!ENTITY offlineCompact.label "Compatta le cartelle solo se si guadagnano più di ">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY mb.label "MB">
+<!ENTITY offlineCompactFolders.label "Compatta le cartelle se serve a risparmare spazio">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label "Mb in totale">
 <!ENTITY useCacheBefore.label "Utilizza al massimo">
 <!ENTITY useCacheBefore.accesskey "U">
 <!ENTITY useCacheAfter.label "MB di spazio per la cache">

@@ -1,5 +1,13 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY closeNotification.tooltip "Închide acest mesaj">
 
 <!ENTITY closeNotificationItem.label "Nu acum">
 
 
+
+<!ENTITY checkForUpdates "Check for updates…">

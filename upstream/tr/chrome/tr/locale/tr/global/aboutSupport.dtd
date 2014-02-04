@@ -1,7 +1,12 @@
-<!ENTITY aboutSupport.pageTitle "Sorun çözme bilgisi">
-<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
-<!ENTITY aboutSupport.pageSubtitle "  Bu sayfa bir sorunu çözerken kullanabileceğiniz teknik bilgiler içermektedir. Eğer &brandShortName; hakkında sıkça sorulan sorulara cevap arıyorsanız <a id='supportLink'>destek sayfamızı</a> ziyaret edin.">
+<!ENTITY aboutSupport.pageTitle "Sorun giderme bilgileri">
+
+<!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
+<!ENTITY aboutSupport.pageSubtitle "Bu sayfa, bir sorunu gidermeye çalışırken işinize yarabilecek teknik bilgiler içerir. &brandShortName; hakkında genel sorularla ilgili yanıt arıyorsanız <a id='supportLink'>destek sitemizi</a> ziyaret edin.
+">
 
 <!ENTITY aboutSupport.extensionsTitle "Eklentiler">
 <!ENTITY aboutSupport.extensionName "Adı">
@@ -12,26 +17,46 @@
 <!ENTITY aboutSupport.appBasicsTitle "Uygulama temelleri">
 <!ENTITY aboutSupport.appBasicsName "Adı">
 <!ENTITY aboutSupport.appBasicsVersion "Sürüm">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Kimlik dizini">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profil klasörü">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Devredeki yan uygulamalar">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Yapılandırma">
 <!ENTITY aboutSupport.appBasicsUserAgent "Kullanıcı aracı">
+<!ENTITY aboutSupport.appBasicsCrashIDs "Çökme Raporları">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Bellek kullanımı">
 
-<!ENTITY aboutSupport.show.label "Bulunduğu dizini aç">
+<!ENTITY aboutSupport.showDir.label "Dizini aç">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Finder'da göster">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Klasörü göster">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Değiştirilen tercihler">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Değiştirilmiş önemli tercihler">
 <!ENTITY aboutSupport.modifiedPrefsName "Adı">
 <!ENTITY aboutSupport.modifiedPrefsValue "Değer">
 
 <!ENTITY aboutSupport.graphicsTitle "Çizimler">
 
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Artırımlı GC">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Kitaplık sürümleri">
+
 <!ENTITY aboutSupport.installationHistoryTitle "Kurulum tarihçesi">
-<!ENTITY aboutSupport.updateHistoryTitle "Güncelleme geçmişi">
+<!ENTITY aboutSupport.updateHistoryTitle "Güncelleme Geçmişi">
 
 <!ENTITY aboutSupport.copyToClipboard.label "Tümünü panoya kopyala">
-<!ENTITY aboutSupport.appBasicsCrashIDs "Crash Reports">
+
+
+<!ENTITY aboutSupport.a11yActivated "Activated">
+<!ENTITY aboutSupport.a11yForceDisabled "Prevent Accessibility">
+
+<!ENTITY aboutSupport.a11yTitle "Accessibility">

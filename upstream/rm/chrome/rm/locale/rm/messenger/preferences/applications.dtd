@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  typeColumn.label            "Tip da datoteca">
 <!ENTITY  typeColumn.accesskey        "T">
 
@@ -17,3 +21,18 @@
 <!ENTITY chooseFolderWin.accesskey    "e">
 <!ENTITY chooseFolderMac.label        "Tschertgar en…">
 <!ENTITY chooseFolderMac.accesskey    "e">
+
+<!ENTITY attachments.incoming.label   "Posta che entra">
+<!ENTITY attachments.outgoing.label   "Posta che sorta">
+
+<!ENTITY addCloudFileAccount.label        "Agiuntar">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Agiuntar in nov servetsch per memorisar datotecas">
+<!ENTITY removeCloudFileAccount.label     "Allontanar">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Tia autorisaziun è necessaria per vesair ils parameters da quest servetsch per memorisar datotecas.">
+<!ENTITY authRequired.button.label        "Autorisar">
+<!ENTITY authRequired.button.accesskey    "U">
+
+<!ENTITY enableCloudFileAccountOffer.label "Proponer da cundivider per datotecas pli grondas che">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">

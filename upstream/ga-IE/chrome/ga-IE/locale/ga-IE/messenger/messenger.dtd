@@ -1,4 +1,7 @@
-<!ENTITY messengerWindow.title "Ríomhphost &amp; Grúpaí Nuachta">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 <!-- File Menu -->
@@ -9,8 +12,8 @@
 <!ENTITY closeTabCmd2.accesskey "D">
 <!ENTITY closeOtherTabsCmd2.label "Dún Cluaisíní Eile">
 <!ENTITY closeOtherTabsCmd2.accesskey "E">
-<!ENTITY recentlyClosedTabsCmd.label "Cluaisíní a Dúnadh le Déanaí">
-<!ENTITY recentlyClosedTabsCmd.accesskey "D">
+<!ENTITY recentlyClosedTabsCmd.label "Cluaisíní a Dúnadh Le Déanaí">
+<!ENTITY recentlyClosedTabsCmd.accesskey "C">
 
 <!ENTITY undoCloseTabCmd.commandkey "T">
 <!-- LOCALIZATION NOTE (moveToNewWindow.label):
@@ -23,8 +26,14 @@
 <!ENTITY newVirtualFolderCmd.accesskey "S">
 <!ENTITY newOtherAccountsCmd.label "Cuntais Eile… ">
 <!ENTITY newOtherAccountsCmd.accesskey "C">
-<!ENTITY newEmailAccountCmd.label "Cuntas Ríomhphoist…">
-<!ENTITY newEmailAccountCmd.accesskey "a">
+<!ENTITY newCreateEmailAccountCmd.label "Faigh cuntas nua ríomhphoist…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "g">
+<!ENTITY newExistingEmailAccountCmd.label "Cuntas ríomhphoist atá ann…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "a">
+<!ENTITY newIMAccountCmd.label "Cuntas Comhrá…">
+<!ENTITY newIMAccountCmd.accesskey "C">
+<!ENTITY newIMContactCmd.label "Teagmháil Chomhrá…">
+<!ENTITY newIMContactCmd.accesskey "h">
 <!ENTITY openMessageFileCmd.label "Oscail Teachtaireacht Shábháilte…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Iatáin">
@@ -89,7 +98,7 @@
 <!ENTITY deleteFolderCmd.label "Scrios Fillteán">
 <!ENTITY deleteFolderCmd.accesskey "S">
 <!ENTITY unsubscribeNewsgroupCmd.label "Díliostáil">
-<!ENTITY unsubscribeNewsgroupCmd.accesskey "l">
+<!ENTITY unsubscribeNewsgroupCmd.accesskey "s">
 <!ENTITY selectMenu.label "Roghnaigh">
 <!ENTITY selectMenu.accesskey "R">
 <!ENTITY all.label "Uile">
@@ -119,6 +128,8 @@
 <!ENTITY redoDefaultCmd.accesskey "f">
 <!-- View Menu -->
 
+<!ENTITY menubarCmd.label "Barra Roghchláir">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showMessengerToolbarCmd.label "Príomhbharra Uirlisí">
 <!ENTITY showMessengerToolbarCmd.accesskey "U">
 <!ENTITY customizeToolbar.label "Saincheap…">
@@ -132,6 +143,8 @@
 <!ENTITY messagePaneWide.accesskey "L">
 <!ENTITY messagePaneVertical.label "Amharc Ingearach">
 <!ENTITY messagePaneVertical.accesskey "I">
+<!ENTITY showFolderPaneCmd.label "Pána an Fhillteáin">
+<!ENTITY showFolderPaneCmd.accesskey "F">
 <!ENTITY showMessageCmd.label "Pána Teachtaireachta">
 <!ENTITY showMessageCmd.accesskey "T">
 
@@ -270,6 +283,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Foinse Teachtaireachtaí">
 <!ENTITY pageSourceCmd.accesskey "o">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 <!-- Search Menu -->
 
 <!ENTITY findMenu.label "Aimsigh">
@@ -319,6 +334,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Siar">
 <!ENTITY goBackCmd.accesskey "S">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Comhrá">
+<!ENTITY goChatCmd.accesskey "C">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Teachtaireacht Mharcáilte">
 <!ENTITY prevStarredMsgCmd.accesskey "M">
 <!ENTITY folderMenu.label "Fillteán">
@@ -326,6 +344,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "An Fillteán Seo">
 <!ENTITY thisFolder.accesskey "S">
 <!ENTITY goRecentlyClosedTabs.label "Cluaisíní a Dúnadh Le Déanaí">
+<!ENTITY goRecentlyClosedTabs.accesskey "C">
 <!ENTITY startPageCmd.label "Leathanaigh Tosaigh Ríomhphoist">
 <!ENTITY startPageCmd.accesskey "L">
 <!-- Message Menu -->
@@ -346,8 +365,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "f">
 <!ENTITY replySenderCmd.label "Freagair an Seoltóir Amháin">
 <!ENTITY replySenderCmd.accesskey "r">
-<!ENTITY replyNewsgroupCmd.label "Freagair an Grúpa Nuachta">
-<!ENTITY replyNewsgroupCmd.accesskey "g">
+<!ENTITY replyNewsgroupCmd2.label "Freagair an Grúpa Nuachta">
+<!ENTITY replyNewsgroupCmd2.accesskey "u">
 <!ENTITY replyToAllMsgCmd.label "Freagair Cách">
 <!ENTITY replyToAllMsgCmd.accesskey "a">
 <!ENTITY replyToAllMsgCmd.key "a">
@@ -409,7 +428,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY toggleReadCmd.key "m">
 <!ENTITY markAsReadCmd.label "Léite">
 <!ENTITY markAsReadCmd.accesskey "L">
-<!ENTITY markAsUnreadCmd.label "Mar Neamhléite">
+<!ENTITY markAsUnreadCmd.label "Neamhléite">
 <!ENTITY markAsUnreadCmd.accesskey "N">
 <!ENTITY markThreadAsReadCmd.label "Snáithe Léite">
 <!ENTITY markThreadAsReadCmd.accesskey "t">
@@ -452,7 +471,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 
 <!ENTITY tasksMenu.label "Uirlisí">
 <!ENTITY tasksMenu.accesskey "U">
-<!ENTITY messengerCmd.label "Ríomhphost &amp; Grúpaí Nuachta">
+<!ENTITY messengerCmd.label "Ríomhphost agus Grúpaí Nuachta">
 <!ENTITY messengerCmd.accesskey "N">
 <!ENTITY addressBookCmd.label "Leabhar Seoltaí">
 <!ENTITY addressBookCmd.accesskey "b">
@@ -461,6 +480,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "B">
 <!ENTITY activitymanager.label "Bainisteoir Gníomhaíochta">
 <!ENTITY activitymanager.accesskey "m">
+<!ENTITY imAccountsStatus.label "Stádas comhrá">
+<!ENTITY imAccountsStatus.accesskey "S">
+<!ENTITY imStatus.available "Ar fáil">
+<!ENTITY imStatus.unavailable "Níl ar fáil">
+<!ENTITY imStatus.offline "As Líne">
+<!ENTITY imStatus.showAccounts "Taispeáin Cuntais…">
+<!ENTITY joinChatCmd.label "Glac Páirt i gComhrá…">
+<!ENTITY joinChatCmd.accesskey "o">
 <!ENTITY savedFiles.label "Comhaid Shábháilte">
 <!ENTITY savedFiles.accesskey "l">
 <!ENTITY savedFiles.key "j">
@@ -480,6 +507,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "m">
 <!ENTITY errorConsoleCmd.label "Consól Earráide">
 <!ENTITY errorConsoleCmd.accesskey "E">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Glan an Stair Is Déanaí…">
+<!ENTITY clearRecentHistory.accesskey "S">
 <!ENTITY accountManagerCmd.label "Socruithe an Chuntais…">
 <!ENTITY accountManagerCmd.accesskey "S">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -496,24 +526,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Comhad">
 <!ENTITY archiveButton.label "Cuir sa Chartlann">
 <!ENTITY nextButton.label "Ar Aghaidh">
+<!ENTITY nextButtonToolbarItem.label "An Chéad Teachtaireacht Eile Gan Léamh">
+<!ENTITY nextMsgButton.label "Ar Aghaidh">
 <!ENTITY previousButton.label "Siar">
+<!ENTITY previousButtonToolbarItem.label "An teachtaireacht gan léamh roimhe seo">
+<!ENTITY previousMsgButton.label "Siar">
 <!ENTITY backButton1.label "Siar">
 <!ENTITY goForwardButton1.label "Ar Aghaidh">
+<!ENTITY deleteItem.title "Scrios">
 <!ENTITY deleteButton.label "Scrios">
 <!ENTITY undeleteButton.label "Díscrios">
 <!ENTITY markButton.label "Marcáil">
 <!ENTITY printButton.label "Priontáil">
 <!ENTITY stopButton.label "Stad">
 <!ENTITY throbberItem.title "Táscaire Gníomhaíochta">
+<!ENTITY junkItem.title "Dramhphost">
 <!ENTITY junkButton.label "Dramhphost">
 <!ENTITY notJunkButton.label "Post Ceart">
 <!ENTITY addressBookButton.label "Leabhar Seoltaí">
+<!ENTITY chatButton.label "Comhrá">
 <!ENTITY glodaSearch.title "Cuardach Cuimsitheach">
 <!ENTITY searchItem.title "Mearchuardach">
 <!ENTITY mailViewsToolbarItem.title "Amhairc Ríomhphoist">
 <!ENTITY folderLocationToolbarItem.title "Suíomh an Fhillteáin">
 <!ENTITY tagButton.label "Clib">
 <!ENTITY compactButton.label "Dlúthaigh">
+<!ENTITY appmenuButton.label "Feidhmchláir">
 <!-- Mail Toolbar Tooltips-->
 
 <!ENTITY advancedButton.tooltip "Ardchuardach na dteachtaireachtaí">
@@ -528,7 +566,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Bog an teachtaireacht roghnaithe go fillteán">
 <!ENTITY archiveButton.tooltip "Cuir na teachtaireachtaí roghnaithe sa chartlann">
 <!ENTITY nextButton.tooltip "Téigh go dtí an chéad teachtaireacht eile gan léamh">
+<!ENTITY nextMsgButton.tooltip "Téigh go dtí an chéad teachtaireacht eile">
 <!ENTITY previousButton.tooltip "Téigh go dtí an teachtaireacht gan léamh roimhe seo">
+<!ENTITY previousMsgButton.tooltip "Téigh go dtí an teachtaireacht roimhe seo">
 <!ENTITY goForwardButton.tooltip "An chéad teachtaireacht eile">
 <!ENTITY goBackButton.tooltip "An teachtaireacht roimhe seo">
 <!ENTITY deleteButton.tooltip "Scrios an teachtaireacht nó fillteán roghnaithe">
@@ -539,12 +579,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Marcáil na teachtaireachtaí roghnaithe mar dhramhphost">
 <!ENTITY notJunkButton.tooltip "Marcáil na teachtaireachtaí roghnaithe mar phost ceart">
 <!ENTITY addressBookButton.tooltip "Téigh go dtí an leabhar seoltaí">
+<!ENTITY chatButton.tooltip "Taispeáin an cluaisín Comhrá">
 <!ENTITY tagButton.tooltip "Clibeáil Teachtaireachtaí">
 <!ENTITY compactButton.tooltip "Bain teachtaireachtaí scriosta den fhillteán roghnaithe">
+<!ENTITY appmenuButton.tooltip "Taispeáin an Roghchlár Feidhmchlár">
+<!-- AppMenu Popup -->
+
+<!ENTITY appmenuNewMsgCmd.label "Teachtaireacht Nua">
+<!ENTITY appmenuNewContactCmd.label "Teagmháil sa Leabhar Seoltaí…">
+<!ENTITY appmenuEditMenu.label "Eagar">
+<!ENTITY appmenuQFBMenu.label "Barra Mearscagairí">
+<!ENTITY appmenuToolbarLayout.label "Leagan Amach an Bharra Uirlisí…">
 <!-- Tags Menu Popup -->
 
 <!ENTITY addNewTag.label "Clib Nua…">
 <!ENTITY addNewTag.accesskey "C">
+<!ENTITY manageTags.label "Bainistigh Clibeanna…">
+<!ENTITY manageTags.accesskey "B">
 <!-- Folder Pane -->
 
 <!ENTITY folderColumn.label "Ainm">
@@ -579,8 +630,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "c">
 <!ENTITY folderContextSubscribe.label "Liostáil…">
 <!ENTITY folderContextSubscribe.accesskey "L">
-<!ENTITY folderContextSearchMessages.label "Cuardach…">
-<!ENTITY folderContextSearchMessages.accesskey "C">
+<!ENTITY folderContextSearchForMessages.label "Cuardaigh Teachtaireachtaí…">
+<!ENTITY folderContextSearchForMessages.accesskey "C">
 <!ENTITY folderContextProperties.label "Airíonna…">
 <!ENTITY folderContextProperties.accesskey "A">
 <!ENTITY folderContextFavoriteFolder.label "Mo Rogha Fillteán">
@@ -664,8 +715,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Freagair an Seoltóir Amháin">
 <!ENTITY contextReplySender.accesskey "r">
-<!ENTITY contextReplyNewsgroup.label "Freagair an Grúpa Nuachta">
-<!ENTITY contextReplyNewsgroup.accesskey "g">
+<!ENTITY contextReplyNewsgroup2.label "Freagair an Grúpa Nuachta">
+<!ENTITY contextReplyNewsgroup2.accesskey "u">
 <!ENTITY contextReplyAll.label "Freagair Cách">
 <!ENTITY contextReplyAll.accesskey "r">
 <!ENTITY contextReplyList.label "Freagra chuig an Liosta">
@@ -745,7 +796,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 <!-- Junk Bar -->
 
-<!ENTITY junkBarMessage1.label "Dramhphost">
+<!ENTITY junkBarMessage2.label "Síleann &brandShortName; gur dramhphost í an teachtaireacht seo.">
 <!ENTITY junkBarButton1.label "Post Ceart">
 <!ENTITY junkInfoButton.label "?">
 <!-- Remote Content Bar -->
@@ -771,28 +822,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      -->
 
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Cuardaigh gach teachtaireacht… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Cuardaigh… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 <!-- Message Header Context Menu -->
 
 <!ENTITY AddToAddressBook.label "Cuir sa Leabhar Seoltaí…">

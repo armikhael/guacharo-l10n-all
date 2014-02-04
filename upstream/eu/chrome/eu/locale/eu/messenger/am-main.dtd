@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from am-main.xul -->
+
 
 <!ENTITY accountTitle.label "Kontu-ezarpenak">
 <!ENTITY accountName.label "Kontuaren izena:">
@@ -11,6 +15,7 @@
 <!ENTITY email.accesskey "e">
 <!ENTITY replyTo.label "Erantzun-honi helbidea:">
 <!ENTITY replyTo.accesskey "h">
+<!ENTITY replyTo.placeholder "Hartzaileek beste helbide honetara erantzungo dute">
 <!ENTITY organization.label "Erakundea:">
 <!ENTITY organization.accesskey "E">
 <!ENTITY signatureText.label "Sinadura-testua:">

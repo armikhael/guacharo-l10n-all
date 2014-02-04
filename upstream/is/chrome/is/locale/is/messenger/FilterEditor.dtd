@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Síureglur">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nafn síu:">
@@ -24,6 +28,7 @@
 <!ENTITY forwardTo.label "Áframsenda póst á">
 <!ENTITY replyWithTemplate.label "Svara með sniðmáti">
 <!ENTITY markMessageRead.label "Merkja sem lesið">
+<!ENTITY markMessageUnread.label "Merkja sem ólesið">
 <!ENTITY markMessageStarred.label "Stjörnumerkja">
 <!ENTITY setPriority.label "Setja mikilvægi sem">
 <!ENTITY addTag.label "Flokka póst">
@@ -35,3 +40,12 @@
 <!ENTITY ignoreSubthread.label "Hunsa undirumræðu">
 <!ENTITY watchThread.label "Fylgjast með umræðu">
 <!ENTITY stopExecution.label "Stöðva keyrslu síu">
+<!ENTITY addAction.tooltip "Bæta við nýrri aðgerð">
+<!ENTITY removeAction.tooltip "Fjarlægja þessa aðgerð">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

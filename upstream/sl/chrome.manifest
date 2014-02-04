@@ -1,3 +1,4 @@
+locale chat sl chrome/sl/locale/sl/chat/
 locale messenger sl chrome/sl/locale/sl/messenger/
 override chrome://mozapps/locale/downloads/settingsChange.dtd chrome://messenger/locale/downloads/settingsChange.dtd
 override chrome://global/locale/netError.dtd chrome://messenger/locale/netError.dtd
@@ -16,9 +17,10 @@ locale global-region sl chrome/sl/locale/sl/global-region/
 locale autoconfig sl chrome/sl/locale/sl/autoconfig/
 locale global sl chrome/sl/locale/sl/global/
 locale mozldap sl chrome/sl/locale/sl/mozldap/
-locale alerts sl chrome/sl/locale/sl/alerts/
+locale testpilot sl chrome/sl/locale/sl/feedback/
 locale passwordmgr sl chrome/sl/locale/sl/passwordmgr/
 manifest chrome/sl.manifest
 locale messenger-smime sl chrome/sl/locale/sl/messenger-smime/
 locale mozapps sl chrome/sl/locale/sl/mozapps/
+locale alerts sl chrome/sl/locale/sl/alerts/
 locale pipnss sl chrome/sl/locale/sl/pipnss/

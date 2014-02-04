@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -50,6 +54,9 @@
 
 <!ENTITY netInterrupt.title                    "Ühendus katkes">
 <!ENTITY netInterrupt.longDesc                 "&sharedLongDesc;">
+
+<!ENTITY notCached.title                       "Dokument aegus">
+<!ENTITY notCached.longDesc                    "<p>Nõutud dokument pole brauseri vahemälus saadaval.</p><ul><li>Turvalisuse ettevaatusabinõuna ei laadi brauser tundliku infoga dokumente automaatselt uuesti.</li><li>Klõpsa Proovi uuesti, et hankida dokumendi sisu veebilehelt uuesti.</li></ul>">
 
 <!ENTITY netOffline.title                      "Võrguta režiim">
 <!ENTITY netOffline.longDesc2                  "

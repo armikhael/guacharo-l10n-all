@@ -7,8 +7,12 @@
 # petrescs <petrescs@yahoo.com>
 #
 -->
-<!ENTITY accountTitle.label "Setări de cont">
-
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!ENTITY biffStart.label "Verifică disponibilitatea articolelor noi la fiecare">
 <!ENTITY biffStart.accesskey "V">
 <!ENTITY biffEnd.label "minute">
@@ -27,5 +31,4 @@
 <!ENTITY feeds.wizardShortName "Fluxuri">
 <!ENTITY feeds.wizardLongName "Bloguri și fluxuri de știri">
 <!ENTITY feeds.wizardLongName.accesskey "f">
-
 

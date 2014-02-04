@@ -1,3 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!-- extracted from am-server-top.xul -->
+
+<!ENTITY messageStorage.label "Meddelelsesopbevaring">
 <!ENTITY securitySettings.label "Sikkerhedsindstillinger">
 <!ENTITY serverSettings.label "Serverindstillinger">
 <!ENTITY serverType.label "Servertype:">
@@ -63,3 +70,6 @@
 <!ENTITY newsrcPicker.label "Vælg newsrc fil">
 <!ENTITY browseNewsrc.label "Gennemse…">
 <!ENTITY browseNewsrc.accesskey "e">
+
+<!ENTITY accountTitle.label "Kontoindstillinger">
+<!ENTITY accountSettingsDesc.label "Det følgende er en speciel konto. Der er ingen identiteter knyttet til den.">

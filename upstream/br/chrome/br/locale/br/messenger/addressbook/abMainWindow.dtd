@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Karned chomlec'hioù">
 
 <!-- File Menu -->
@@ -79,20 +83,28 @@
 <!ENTITY viewMenu.accesskey                             "w">
 <!ENTITY viewToolbarsMenu.label                         "Barrennoù ostilhoù">
 <!ENTITY viewToolbarsMenu.accesskey                     "B"> 
+<!ENTITY menubarCmd.label                               "Barrenn lañser">
+<!ENTITY menubarCmd.accesskey                           "B">
 <!ENTITY showAbToolbarCmd.label                         "Barrenn ostilhoù ar c'harned posteloù">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Barrenn stad">
 <!ENTITY showTaskbarCmd.accesskey                       "B">
 <!ENTITY customizeToolbar.label                         "Personelaat…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Penel krennadur an darempred">
-<!ENTITY showContactPane.accesskey                      "P">
+<!ENTITY layoutMenu.label                               "Aozadur">
+<!ENTITY layoutMenu.accesskey                           "A">
+<!ENTITY showDirectoryPane.label                        "Penel ar c'havlec'hioù">
+<!ENTITY showDirectoryPane.accesskey                    "k">
+<!ENTITY showContactPane2.label                         "Penel an darempred">
+<!ENTITY showContactPane2.accesskey                     "d">
 <!ENTITY menu_ShowNameAs.label                          "Diskouez an anv evel">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Kentañ, Diwezhañ">
-<!ENTITY firstLastCmd.accesskey                         "K"> 
-<!ENTITY lastFirstCmd.label                             "Diwezhañ, Kentañ">
-<!ENTITY lastFirstCmd.accesskey                         "D">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Anv-bihan Anv">
+<!ENTITY firstLastCmd2.accesskey                        "b">
+<!ENTITY lastFirstCmd.label                             "Anv, Anv-bihan">
+<!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Anv da skrammañ">
 <!ENTITY displayNameCmd.accesskey                       "d">
 <!ENTITY sortMenu.label                                 "Rummañ dre">
@@ -134,7 +146,7 @@
 <!ENTITY newlistButton.tooltip                          "Krouiñ ur roll nevez">
 <!ENTITY editButton2.tooltip                            "Embann an elfenn diuzet">
 <!ENTITY newmsgButton.tooltip                           "Kas ur postel">
-<!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapiñ">
+<!ENTITY newIM.tooltip                                  "Kas ur gemennadenn diadaol pe flapañ">
 <!ENTITY deleteButton2.tooltip                           "Dilemel an elfenn diuzet">
 
 <!-- Dir Tree header -->
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "A">
 <!ENTITY PrimaryEmail.label                             "Postel">
 <!ENTITY PrimaryEmail.accesskey                         "P">
-<!ENTITY ScreenName.label                               "Anv skramm">
-<!ENTITY ScreenName.accesskey                           "A">
+<!ENTITY ChatName.label                                 "Anv postelerezh prim">
+<!ENTITY ChatName.accesskey                             "p">
 <!ENTITY Company.label                                  "Aozadur">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Moranv">
@@ -186,10 +198,11 @@
 <!ENTITY contact.heading                                "Darempred">
 <!ENTITY home.heading                                   "Er gêr">
 <!ENTITY other.heading                                  "All">
+<!ENTITY chat.heading                                   "Postelerezh prim">
 <!ENTITY phone.heading                                  "Pellgomz">
 <!ENTITY work.heading                                   "Labour">
 <!-- Special Box Headings, for mailing lists -->
-<!ENTITY description.heading                            "Deskrivadenn">
+<!ENTITY description.heading                            "Deskrivadur">
 <!ENTITY addresses.heading                              "Posteloù">
 <!-- For Map It! -->
 <!ENTITY mapItButton.label                              "Kerc'hat ar gartenn">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title  "Kirjoita: (ei aihetta)">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey  "L">
 <!ENTITY attachFileCmd.label  "Tiedostot…">
 <!ENTITY attachFileCmd.accesskey  "T">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Linkitä tiedosto">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label  "Verkkosivu…">
 <!ENTITY attachPageCmd.accesskey  "V">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,11 +74,13 @@
 <!ENTITY pasteCmd.accesskey  "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label  "Rivitä uudelleen">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "R">
 <!ENTITY deleteCmd.label  "Poista">
 <!ENTITY deleteCmd.accesskey  "o">
+<!ENTITY editRewrapCmd.label  "Rivitä uudelleen">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Nimeä liite uudelleen…">
+<!ENTITY renameAttachmentCmd.accesskey "u">
 <!ENTITY selectAllCmd.label  "Valitse kaikki">
 <!ENTITY selectAllCmd.key  "A">
 <!ENTITY selectAllCmd.accesskey  "V">
@@ -92,6 +101,8 @@
 <!ENTITY viewMenu.accesskey  "N">
 <!ENTITY viewToolbarsMenuNew.label  "Työkalupalkit">
 <!ENTITY viewToolbarsMenuNew.accesskey  "T">
+<!ENTITY menubarCmd.label "Valikkopalkki">
+<!ENTITY menubarCmd.accesskey "V">
 <!ENTITY showCompositionToolbarCmd.label "Viestin kirjoituspalkki">
 <!ENTITY showCompositionToolbarCmd.accesskey "V">
 <!ENTITY showFormattingBarCmd.label "Muotoilupalkki">
@@ -265,6 +276,14 @@
 <!ENTITY selectAll.accesskey  "V">
 <!ENTITY attachFile.label  "Liitä tiedostot…">
 <!ENTITY attachFile.accesskey  "L">
+<!ENTITY attachCloud.label "Linkitetty liitetiedosto…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Muunna muotoon…">
+<!ENTITY convertCloud.accesskey "M">
+<!ENTITY cancelUpload.label "Peruuta siirto">
+<!ENTITY cancelUpload.accesskey "P">
+<!ENTITY convertRegularAttachment.label "Normaali liitetiedosto">
+<!ENTITY convertRegularAttachment.accesskey "N">
 <!ENTITY attachPage.label  "Liitä verkkosivu">
 <!ENTITY attachPage.accesskey  "t">
 

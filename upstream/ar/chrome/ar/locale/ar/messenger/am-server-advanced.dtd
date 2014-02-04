@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "إعدادات الحساب المتقدّمة">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "دليل خادوم IMAP:">
@@ -20,7 +24,7 @@
 <!ENTITY otherUsersNamespace.accesskey "ن">
 <!ENTITY overrideNamespaces.label "اسمح للخادوم بتعديل فضاء التسمية هذا">
 <!ENTITY overrideNamespaces.accesskey "س">
-<!ENTITY pop3Desc.label "عند تنزيل بريد pop من هذا الخادوم، استخدم المجلد التالي للبريد الجديد:">
+<!ENTITY pop3Desc.label "عند تنزيل بريد pop من هذا الخادوم، استخدم المجلد التالي للبريد الجديد:" >
 <!ENTITY globalInbox.label "صندوق الوارد العام (حساب المجلدات المحليّة)">
 <!ENTITY globalInbox.accesskey "ص">
 <!ENTITY accountDirectory.label "صندوق الوارد لحساب الخادوم هذا">

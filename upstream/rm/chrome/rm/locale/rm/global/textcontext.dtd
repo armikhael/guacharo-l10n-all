@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Tagliar ora">
 <!ENTITY cutCmd.accesskey "a">
 <!ENTITY copyCmd.label "Copiar">
@@ -7,12 +11,14 @@
 <!ENTITY undoCmd.label "Revocar">
 <!ENTITY undoCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Selecziunar tut">
-<!ENTITY selectAllCmd.accesskey "M">
+<!ENTITY selectAllCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Stizzar">
 <!ENTITY deleteCmd.accesskey "S">
 
 <!ENTITY spellAddToDictionary.label "Agiuntar al dicziunari da l'utilisader">
 <!ENTITY spellAddToDictionary.accesskey "z">
+<!ENTITY spellUndoAddToDictionary.label "Puspè allontanar il pled agiuntà al dicziunari">
+<!ENTITY spellUndoAddToDictionary.accesskey "n">
 <!ENTITY spellCheckEnable.label "Controllar l'ortografia">
 <!ENTITY spellCheckEnable.accesskey "r">
 <!ENTITY spellNoSuggestions.label "(Naginas propostas per correcturas)">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY migrationWizard.title "Importguide">
 
 <!ENTITY importFromWin.label "Importer indstillinger, kontoindstillinger, adressebøger og andre data fra:">
@@ -5,8 +9,8 @@
 
 <!ENTITY importFromNothing.label "Importer ikke">
 <!ENTITY importFromNothing.accesskey "i">
-<!ENTITY importFromSeamonkey2.label "Mozilla 1.x, Netscape 6, 7 eller SeaMonkey">
-<!ENTITY importFromSeamonkey2.accesskey "M">
+<!ENTITY importFromSeamonkey3.label     "SeaMonkey 2 eller senere">
+<!ENTITY importFromSeamonkey3.accesskey "S">
 <!ENTITY importFromOExpress.label "Outlook Express">
 <!ENTITY importFromOExpress.accesskey "u">
 <!ENTITY importFromOutlook.label "Outlook">

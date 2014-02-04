@@ -6,6 +6,9 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Kirim Data Kinerja">
+<!ENTITY submitTelemetry.accesskey     "K">
+<!ENTITY telemetryInfoLink.label       "Informasi selengkapnya tentang Telemetri">
 <!ENTITY enableGlodaSearch.label       "Aktifkan Sistem Pencarian Global dan Pengindeksan Pesan">
 <!ENTITY enableGlodaSearch.accesskey   "i">
 <!ENTITY systemIntegration.label       "Integrasi dengan Sistem">
@@ -106,3 +109,16 @@
 <!ENTITY validation.accesskey           "d">
 <!ENTITY viewSecurityDevices.label      "Perangkat Keamanan">
 <!ENTITY viewSecurityDevices.accesskey  "k">
+
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFolders.label     "Compact all folders when it will save over">
+<!ENTITY offlineCompactFoldersMB.label   "MB in total">
+
+<!ENTITY scrolling.label               "Scrolling">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useAutoScroll.label           "Use autoscrolling">
+<!ENTITY useService.accesskey            "b">
+
+<!ENTITY useService.label                "Use a background service to install updates">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+<!ENTITY useSmoothScrolling.label      "Use smooth scrolling">

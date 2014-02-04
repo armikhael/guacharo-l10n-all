@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY cutCmd.label "Klip">
 <!ENTITY cutCmd.accesskey "K">
 <!ENTITY copyCmd.label "Kopier">
@@ -12,7 +16,9 @@
 <!ENTITY deleteCmd.accesskey "S">
 
 <!ENTITY spellAddToDictionary.label "Føj til ordbog">
-<!ENTITY spellAddToDictionary.accesskey "o">
+<!ENTITY spellAddToDictionary.accesskey "ø">
+<!ENTITY spellUndoAddToDictionary.label "Fortryd tilføjelse til ordbog">
+<!ENTITY spellUndoAddToDictionary.accesskey "ø">
 <!ENTITY spellCheckEnable.label "Stavekontrol">
 <!ENTITY spellCheckEnable.accesskey "t">
 <!ENTITY spellNoSuggestions.label "(ingen staveforslag)">

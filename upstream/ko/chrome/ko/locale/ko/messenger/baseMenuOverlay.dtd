@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- Help Menu -->
 <!ENTITY helpMenu.label "도움말">
 <!ENTITY helpMenu.accesskey "H">
@@ -14,8 +18,6 @@
 
 <!ENTITY whatsNewCmd.label "새로운 기능">
 <!ENTITY whatsNewCmd.accesskey "W">
-<!ENTITY featureConfiguratorCmd.label "마이그레이션 관리자">
-<!ENTITY featureConfiguratorCmd.accesskey "M">
 <!ENTITY openHelp.label "도움말">
 <!ENTITY openHelp.accesskey "H">
 <!ENTITY openHelp.commandkey "VK_F1">

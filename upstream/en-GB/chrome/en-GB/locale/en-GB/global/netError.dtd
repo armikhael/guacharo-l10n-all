@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Page Load Error">
 <!ENTITY retry.label "Try Again">
 
@@ -50,6 +54,12 @@
  <li>Are you unable to browse other sites? Check the computer's network connection.</li>
  <li>Still having trouble? Consult your network administrator or Internet provider for assistance.</li>
 </ul>">
+
+<!ENTITY notCached.title "Document Expired">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the browser's cache.</p>
+<ul>
+ <li>As a security precaution, the browser does not automatically re-request sensitive documents.</li>
+ <li>Click Try Again to re-request the document from the website.</li></ul>">
 
 <!ENTITY netOffline.title "Offline Mode">
 <!ENTITY netOffline.longDesc2 "

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -33,6 +37,9 @@
 
 <!ENTITY netInterrupt.title "Interrompeuse a conexión">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "O documento caducou">
+<!ENTITY notCached.longDesc "<p>O documento solicitado non está dispoñíbel na memoria caché.</p><ul><li>Por razóns de seguranza, automaticamente o &brandShortName; non volve a solicitar documentos sensíbeis.</li><li>Prema Tentar de novo para volver a solicitar o documento do sitio web.</li></ul>">
 
 <!ENTITY netOffline.title "Modo sen conexión">
 <!ENTITY netOffline.longDesc2 "

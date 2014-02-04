@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Adressbuch">
 
 <!-- File Menu -->
@@ -79,18 +83,26 @@
 <!ENTITY viewMenu.accesskey                             "A">
 <!ENTITY viewToolbarsMenu.label                         "Symbolleisten">
 <!ENTITY viewToolbarsMenu.accesskey                     "y">
+<!ENTITY menubarCmd.label                               "Menüleiste">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adressbuch-Symbolleiste">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "Statusleiste">
 <!ENTITY showTaskbarCmd.accesskey                       "u">
 <!ENTITY customizeToolbar.label                         "Anpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showContactPane.label                          "Kontaktvorschau">
-<!ENTITY showContactPane.accesskey                      "K">
+<!ENTITY layoutMenu.label                               "Fensterlayout">
+<!ENTITY layoutMenu.accesskey                           "F">
+<!ENTITY showDirectoryPane.label                        "Verzeichnisliste">
+<!ENTITY showDirectoryPane.accesskey                    "V">
+<!ENTITY showContactPane2.label                         "Kontaktbereich">
+<!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Namen anzeigen">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
-<!ENTITY firstLastCmd.label                             "Vorname Nachname">
-<!ENTITY firstLastCmd.accesskey                         "v">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+     because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Vorname Nachname">
+<!ENTITY firstLastCmd2.accesskey                        "v">
 <!ENTITY lastFirstCmd.label                             "Nachname, Vorname">
 <!ENTITY lastFirstCmd.accesskey                         "n">
 <!ENTITY displayNameCmd.label                           "Anzeigename">
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-Mail-Adresse">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Messenger-Name">
-<!ENTITY ScreenName.accesskey                           "s">
+<!ENTITY ChatName.label                                 "Chatname">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisation">
 <!ENTITY Company.accesskey                              "O">
 <!ENTITY NickName.label                                 "Spitzname">
@@ -186,6 +198,7 @@
 <!ENTITY contact.heading                                "Kontakt">
 <!ENTITY home.heading                                   "Privat">
 <!ENTITY other.heading                                  "Andere">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Dienstlich">
 <!-- Special Box Headings, for mailing lists -->

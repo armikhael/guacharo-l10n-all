@@ -1,4 +1,8 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 <!-- extracted from AccountManager.xul -->
+
 
 <!ENTITY accountManagerTitle.label "Kontu-ezarpenak">
 
@@ -6,6 +10,8 @@
 <!ENTITY accountActionsButton.accesskey "K">
 <!ENTITY addMailAccountButton.label "Gehitu posta-kontua…">
 <!ENTITY addMailAccountButton.accesskey "G">
+<!ENTITY addIMAccountButton.label "Gehitu txat-kontua…">
+<!ENTITY addIMAccountButton.accesskey "t">
 <!ENTITY addOtherAccountButton.label "Gehitu bestelako kontua…">
 <!ENTITY addOtherAccountButton.accesskey "b">
 <!ENTITY setDefaultButton.label "Ezarri lehenetsi gisa">

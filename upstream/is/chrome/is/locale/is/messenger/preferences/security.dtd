@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label "Ruslpóstur">
 <!ENTITY itemPhishing.label "Svikapóstur">
 <!ENTITY itemPasswords.label "Lykilorð">
@@ -13,8 +17,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "E">
 <!ENTITY markAsReadOnSpam.label "Merkja staðfestan ruslpóst sem lesinn">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Virkja kladda fyrir ruslpóstssíu">
-<!ENTITY enableJunkLogging.accesskey "V">
+<!ENTITY enableAdaptiveJunkLogging.label "Virkja atburðaskrá fyrir þjálfaða ruslpóstsíu">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "V">
 <!ENTITY openJunkLog.label "Sýna kladda">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "Endursetja þjálfunargögn">
@@ -51,3 +55,6 @@
 <!ENTITY cookieExceptions.accesskey "U">
 <!ENTITY showCookies.label "Sýna smákökur…">
 <!ENTITY showCookies.accesskey "S">
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label "Segja vefsvæðum að ég vilji ekki láta fylgjast með mér">
+<!ENTITY doNotTrack.accesskey "ð">

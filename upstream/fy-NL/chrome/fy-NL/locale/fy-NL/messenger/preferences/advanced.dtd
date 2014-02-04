@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       			"Algemien">
 <!ENTITY itemDisplay.label       			"Lêze &amp; Toane">
 <!ENTITY itemUpdate.label        			"Fernijing">
@@ -6,8 +10,18 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         		"Prestaasjegegevens ferstjoere">
+<!ENTITY submitTelemetry.accesskey     		"P">
+<!ENTITY telemetryInfoLink.label       		"Mear ynformaasje oer Telemetry">
 <!ENTITY enableGlodaSearch.label            "Globaal sykje en yndeksearder ynskeakelje">
 <!ENTITY enableGlodaSearch.accesskey        "y">
+
+<!ENTITY scrolling.label               "Skowe">
+<!ENTITY useAutoScroll.label           "Automatysk skowe brûke">
+<!ENTITY useAutoScroll.accesskey       "m">
+<!ENTITY useSmoothScrolling.label      "Floeiend skowe brûke">
+<!ENTITY useSmoothScrolling.accesskey  "e">
+
 <!ENTITY systemIntegration.label			"Systeemyntegraasje">
 <!ENTITY alwaysCheckDefault.label          	"By it opstarten altyd neigean oft &brandShortName; de standert e-mailclient is">
 <!ENTITY alwaysCheckDefault.accesskey      	"c">
@@ -64,20 +78,23 @@
 <!ENTITY showUpdates.label              	"Toan fernijingsskiednis">
 <!ENTITY showUpdates.accesskey          	"d">
 
+<!ENTITY useService.label                "In achtergrûntsjinst brûke om fernijingen te ynstallearjen">
+<!ENTITY useService.accesskey            "a">
+
 <!-- Networking and Disk Space -->
-<!ENTITY showSettings.label         		"Ynstellings...">
+<!ENTITY showSettings.label         		"Ynstellingen...">
 <!ENTITY showSettings.accesskey    			"n">
 <!ENTITY proxiesConfigure.label				"Konfigurearje hoe't &brandShortName; ferbining makket mei it ynternet">
 <!ENTITY connectionsInfo.caption			"Ferbining">
 <!ENTITY offlineInfo.caption				"Sûnder ferbining">
-<!ENTITY offlineInfo.label					"Sûnder ferbining-ynstellings konfigurearje">
+<!ENTITY offlineInfo.label					"Sûnder ferbining-ynstellingen konfigurearje">
 <!ENTITY showOffline.label					"Sûnder ferbining...">
 <!ENTITY showOffline.accesskey				"S">
 
 <!ENTITY Diskspace 							"Skiifromte">
-<!ENTITY offlineCompact.label 				"Mappen ynpakke as it mear besparret as">
-<!ENTITY offlineCompact.accesskey 			"p">
-<!ENTITY mb.label 							"MB">
+<!ENTITY offlineCompactFolders.label     "Mappen komprimearje as it mear besparret as">
+<!ENTITY offlineCompactFolders.accesskey "M">
+<!ENTITY offlineCompactFoldersMB.label   "MB yn totaal">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

@@ -1,8 +1,12 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Ny melding: (uten emne)">
 
 <!-- File Menu -->
-<!ENTITY fileMenu.label "Fil">
+<!ENTITY fileMenu.label "Fil"> 
 <!ENTITY fileMenu.accesskey "F">
 <!ENTITY newMenu.label "Ny">
 <!ENTITY newMenu.accesskey "N">
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey "v">
 <!ENTITY attachFileCmd.label "Filer …">
 <!ENTITY attachFileCmd.accesskey "f">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Nettside …">
 <!ENTITY attachPageCmd.accesskey "n">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -48,33 +55,35 @@
 <!ENTITY printCmd.accesskey "u">
 
 <!-- Edit Menu -->
-<!ENTITY editMenu.label "Rediger">
+<!ENTITY editMenu.label "Rediger"> 
 <!ENTITY editMenu.accesskey "R">
 <!ENTITY undoCmd.label "Angre">
 <!ENTITY undoCmd.key "Z">
-<!ENTITY undoCmd.accesskey "A">
+<!ENTITY undoCmd.accesskey "A"> 
 <!ENTITY redoCmd.label "Gjenta">
 <!ENTITY redoCmd.key "Y">
-<!ENTITY redoCmd.accesskey "G">
+<!ENTITY redoCmd.accesskey "G"> 
 <!ENTITY cutCmd.label "Klipp ut">
 <!ENTITY cutCmd.key "X">
-<!ENTITY cutCmd.accesskey "u">
+<!ENTITY cutCmd.accesskey "u"> 
 <!ENTITY copyCmd.label "Kopier">
 <!ENTITY copyCmd.key "C">
-<!ENTITY copyCmd.accesskey "K">
+<!ENTITY copyCmd.accesskey "K"> 
 <!ENTITY pasteCmd.label "Lim inn">
 <!ENTITY pasteCmd.key "V">
 <!ENTITY pasteCmd.accesskey "L">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Tekstbrytning">
-<!ENTITY editRewrapCmd.key "R">
-<!ENTITY editRewrapCmd.accesskey "B">
+<!ENTITY editRewrapCmd.accesskey "e">
 <!ENTITY deleteCmd.label "Slett">
 <!ENTITY deleteCmd.accesskey "S">
+<!ENTITY editRewrapCmd.label "Tekstbrytning">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Endre navn på vedlegg …">
+<!ENTITY renameAttachmentCmd.accesskey "E">
 <!ENTITY selectAllCmd.label "Merk alt">
 <!ENTITY selectAllCmd.key "A">
-<!ENTITY selectAllCmd.accesskey "M">
+<!ENTITY selectAllCmd.accesskey "M"> 
 <!ENTITY findCmd.label "Søk og erstatt …">
 <!ENTITY findCmd.key "F">
 <!ENTITY findCmd.accesskey "S">
@@ -85,13 +94,15 @@
 <!ENTITY findPrevCmd.label "Søk etter forrige">
 <!ENTITY findPrevCmd.key "G">
 <!ENTITY findPrevCmd.key2 "VK_F3">
-<!ENTITY findPrevCmd.accesskey "e">
+<!ENTITY findPrevCmd.accesskey "e"> 
 
 <!-- View Menu -->
-<!ENTITY viewMenu.label "Vis">
+<!ENTITY viewMenu.label "Vis"> 
 <!ENTITY viewMenu.accesskey "V">
-<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer">
-<!ENTITY viewToolbarsMenuNew.accesskey "V">
+<!ENTITY viewToolbarsMenuNew.label "Verktøylinjer"> 
+<!ENTITY viewToolbarsMenuNew.accesskey "V"> 
+<!ENTITY menubarCmd.label "Menylinje">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Forfatterlinje">
 <!ENTITY showCompositionToolbarCmd.accesskey "F">
 <!ENTITY showFormattingBarCmd.label "Formateringslinje">
@@ -101,8 +112,8 @@
 <!ENTITY customizeToolbar.label "Tilpass …">
 <!ENTITY customizeToolbar.accesskey "T">
 
-<!ENTITY addressSidebar.label "Adressebok i sidestolpe">
-<!ENTITY addressSidebar.accesskey "A">
+<!ENTITY addressSidebar.label "Adressebok i sidestolpe"> 
+<!ENTITY addressSidebar.accesskey "A"> 
 
 <!-- Format Menu -->
 <!ENTITY formatMenu.label "Formater">
@@ -170,13 +181,13 @@
 <!ENTITY preferencesCmd.label "Innstillinger …">
 <!ENTITY preferencesCmd.accesskey "I">
 <!ENTITY preferencesCmdUnix.label       "Innstillinger">
-<!ENTITY preferencesCmdUnix.accesskey   "n">
+<!ENTITY preferencesCmdUnix.accesskey   "n"> 
 
 <!--  Mac OS X Window Menu -->
 <!ENTITY minimizeWindow.key "m">
 <!ENTITY minimizeWindow.label "Minimer">
 <!ENTITY bringAllToFront.label "Send alle til forgrunnen">
-<!ENTITY zoomWindow.label "Forstørr">
+<!ENTITY zoomWindow.label "Forstørr"> 
 <!ENTITY windowMenu.label "Vindu">
 
 <!-- Mail Toolbar -->
@@ -188,13 +199,13 @@
 <!ENTITY saveButton.label "Lagre">
 
 <!-- Mail Toolbar Tooltips -->
-<!ENTITY sendButton.tooltip "Send meldingen nå">
-<!ENTITY sendlaterButton.tooltip "Send meldingen senere">
-<!ENTITY quoteButton.tooltip "Siter forrige melding">
-<!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok">
-<!ENTITY attachButton.tooltip "Ta med vedlegg">
+<!ENTITY sendButton.tooltip "Send meldingen nå"> 
+<!ENTITY sendlaterButton.tooltip "Send meldingen senere"> 
+<!ENTITY quoteButton.tooltip "Siter forrige melding"> 
+<!ENTITY addressButton.tooltip "Velg mottaker fra en adressebok"> 
+<!ENTITY attachButton.tooltip "Ta med vedlegg"> 
 <!ENTITY spellingButton.tooltip "Kontroller staving av merket tekst eller hele meldingen">
-<!ENTITY saveButton.tooltip "Lagre meldingen">
+<!ENTITY saveButton.tooltip "Lagre meldingen"> 
 <!ENTITY cutButton.tooltip              "Klipp ut">
 <!ENTITY copyButton.tooltip             "Kopier">
 <!ENTITY pasteButton.tooltip            "Lim inn">
@@ -205,12 +216,12 @@
 <!ENTITY headersSpace.style "width: 9em;">
 <!ENTITY fromAddr.label "Fra:">
 <!ENTITY fromAddr.accesskey "a">
-<!ENTITY toAddr.label "Til:">
-<!ENTITY ccAddr.label "Kopi til:">
-<!ENTITY bccAddr.label "Blind kopi til:">
-<!ENTITY replyAddr.label "Svar til:">
-<!ENTITY newsgroupsAddr.label "Nyhetsgruppe:">
-<!ENTITY followupAddr.label "Oppfølging til:">
+<!ENTITY toAddr.label "Til:"> 
+<!ENTITY ccAddr.label "Kopi til:"> 
+<!ENTITY bccAddr.label "Blind kopi til:"> 
+<!ENTITY replyAddr.label "Svar til:"> 
+<!ENTITY newsgroupsAddr.label "Nyhetsgruppe:"> 
+<!ENTITY followupAddr.label "Oppfølging til:"> 
 <!ENTITY subject.label "Emne:">
 <!ENTITY subject.accesskey "m">
 <!-- LOCALIZATION NOTE attachments.accesskey This access key should correspond
@@ -265,6 +276,14 @@
 <!ENTITY selectAll.accesskey "M">
 <!ENTITY attachFile.label "Legg ved filer …">
 <!ENTITY attachFile.accesskey "L">
+<!ENTITY attachCloud.label "Filelink …">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Konverter til …">
+<!ENTITY convertCloud.accesskey "K">
+<!ENTITY cancelUpload.label "Avbryt opplasting">
+<!ENTITY cancelUpload.accesskey "v">
+<!ENTITY convertRegularAttachment.label "Vanlig vedlegg">
+<!ENTITY convertRegularAttachment.accesskey "a">
 <!ENTITY attachPage.label "Legg ved nettside …">
 <!ENTITY attachPage.accesskey "L">
 

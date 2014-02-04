@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- these things need to move into utilityOverlay.xul -->
 
 <!-- LOCALIZATION NOTE : FILE This file contains the global menu items -->
@@ -24,14 +28,14 @@
 <!ENTITY pasteCmd.label            "貼上">
 <!ENTITY pasteCmd.key            "V">
 <!ENTITY pasteCmd.accesskey          "P">
-<!ENTITY deleteCmd.label          "刪除項目">
+<!ENTITY deleteCmd.label          "刪除">
 <!ENTITY deleteCmd.accesskey        "D">
 <!ENTITY selectAllCmd.label          "全選">
 <!ENTITY selectAllCmd.key          "A">
 <!ENTITY selectAllCmd.accesskey        "A">
 <!ENTITY preferencesCmd.label        "選項…">
 <!ENTITY preferencesCmd.accesskey      "O">
-<!ENTITY preferencesCmdUnix.label       "個人偏好設定">
+<!ENTITY preferencesCmdUnix.label       "偏好設定">
 <!ENTITY preferencesCmdUnix.accesskey     "n">
 
 <!ENTITY viewMenu.label          "檢視">
@@ -57,3 +61,4 @@
 
 <!ENTITY quitApplicationCmdMac.label  "結束 &brandShortName;">
 <!ENTITY quitApplicationCmdMac.accesskey  "Q">
+

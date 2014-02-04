@@ -7,7 +7,7 @@
 <!ENTITY  typeColumn.label            "Tip de conținut">
 <!ENTITY  typeColumn.accesskey        "T">
 
-<!ENTITY  actionColumn2.label         "Acţiune">
+<!ENTITY  actionColumn2.label         "Acțiune">
 <!ENTITY  actionColumn2.accesskey     "A">
 
 <!ENTITY  focusSearch1.key            "f">
@@ -24,4 +24,18 @@
 <!ENTITY chooseFolderMac.label        "Alege…">
 <!ENTITY chooseFolderMac.accesskey    "A">
 
+<!ENTITY attachments.incoming.label   "Incoming">
+<!ENTITY attachments.outgoing.label   "Outgoing">
+
+<!ENTITY addCloudFileAccount.label        "Add">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Add a new Filelink storage service">
+<!ENTITY removeCloudFileAccount.label     "Remove">
+<!ENTITY removeCloudFileAccount.accesskey "R">
+<!ENTITY authRequired.description         "Your authorization is required in order to see the settings for this storage service.">
+<!ENTITY authRequired.button.label        "Authorize">
+<!ENTITY authRequired.button.accesskey    "U">
+
+<!ENTITY enableCloudFileAccountOffer.label "Offer to share for files larger than">
+<!ENTITY enableCloudFileAccountOffer.mb "MB">
 

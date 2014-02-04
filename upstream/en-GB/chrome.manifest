@@ -14,8 +14,10 @@ locale pipnss en-GB chrome/en-GB/locale/en-GB/pipnss/
 locale global en-GB chrome/en-GB/locale/en-GB/global/
 locale editor en-GB chrome/en-GB/locale/en-GB/editor/
 locale alerts en-GB chrome/en-GB/locale/en-GB/alerts/
+locale testpilot en-GB chrome/en-GB/locale/en-GB/feedback/
 locale global-platform en-GB chrome/en-GB/locale/en-GB/global-platform/
 locale cookie en-GB chrome/en-GB/locale/en-GB/cookie/
+locale chat en-GB chrome/en-GB/locale/en-GB/chat/
 locale places en-GB chrome/en-GB/locale/en-GB/places/
 locale mozldap en-GB chrome/en-GB/locale/en-GB/mozldap/
 locale branding en-GB chrome/en-GB/locale/en-GB/branding/

@@ -67,8 +67,6 @@
 <!ENTITY imagemapBox.label "Χάρτης εικόνας">
 <!ENTITY removeImageMapButton.label "Αφαίρεση">
 <!ENTITY removeImageMapButton.accessKey "φ">
-<!ENTITY editImageMapButton.label "Επεξεργασία...">
-<!ENTITY editImageMapButton.tooltip "Δημιουργία ενεργών hotspots για αυτήν την εικόνα">
 <!ENTITY alignment.label "Στοίχιση κειμένου στην εικόνα">
 <!ENTITY bottomPopup.value "Από κάτω">
 <!ENTITY topPopup.value "Πρός τα πάνω">
@@ -89,3 +87,7 @@
 <!ENTITY imageDimensionsTab.label "Διαστάσεις">
 <!ENTITY imageAppearanceTab.label "Εμφάνιση">
 <!ENTITY imageLinkTab.label "Δεσμός">
+
+<!ENTITY LinkAdvancedEditButton.label "Προχωρημένη επεξεργασία δεσμού…">
+<!ENTITY LinkAdvancedEditButton.accessKey "δ">
+<!ENTITY LinkAdvancedEditButton.tooltip "Προσθήκη ή τροποποίηση γνωρισμάτων στυλ, HTML και JavaScript">

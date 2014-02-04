@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from AccountManager.xul -->
 
 <!ENTITY accountManagerTitle.label       "Kontode sätted">
@@ -6,6 +10,8 @@
 <!ENTITY accountActionsButton.accesskey  "K">
 <!ENTITY addMailAccountButton.label      "Lisa e-posti konto…">
 <!ENTITY addMailAccountButton.accesskey  "L">
+<!ENTITY addIMAccountButton.label        "Lisa kiirsuhtluse konto…">
+<!ENTITY addIMAccountButton.accesskey    "k">
 <!ENTITY addOtherAccountButton.label     "Lisa muu konto…">
 <!ENTITY addOtherAccountButton.accesskey "i">
 <!ENTITY setDefaultButton.label          "Määra vaikeväärtuseks">

@@ -16,6 +16,9 @@
 <!ENTITY attachMenu.accesskey "L">
 <!ENTITY attachFileCmd.label "Berkas…">
 <!ENTITY attachFileCmd.accesskey "B">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Laman Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -70,6 +73,8 @@
 <!ENTITY editRewrapCmd.label "Atur ulang pemotongan">
 <!ENTITY editRewrapCmd.key "P">
 <!ENTITY editRewrapCmd.accesskey "u">
+<!ENTITY renameAttachmentCmd.label "Ganti nama Lampiran…">
+<!ENTITY renameAttachmentCmd.accesskey "G">
 <!ENTITY deleteCmd.label "Hapus">
 <!ENTITY deleteCmd.accesskey "H">
 <!ENTITY selectAllCmd.label "Pilih Semua">
@@ -92,6 +97,8 @@
 <!ENTITY viewMenu.accesskey "T">
 <!ENTITY viewToolbarsMenuNew.label "Bilah Alat"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t"> 
+<!ENTITY menubarCmd.label "Bilah Menu">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Bilah Alat Komposisi">
 <!ENTITY showCompositionToolbarCmd.accesskey "K">
 <!ENTITY showFormattingBarCmd.label "Bilah Format">
@@ -263,6 +270,14 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Lampirkan berkas…">
 <!ENTITY attachFile.accesskey "L">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Ubah menjadi…">
+<!ENTITY convertCloud.accesskey "U">
+<!ENTITY cancelUpload.label "Batalkan Unggahan">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Lampiran Biasa">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Lampirkan Laman Web…">
 <!ENTITY attachPage.accesskey "W">
 

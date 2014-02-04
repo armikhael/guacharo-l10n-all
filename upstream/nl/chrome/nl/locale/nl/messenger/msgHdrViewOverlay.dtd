@@ -1,77 +1,45 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
- Version: MPL 1.1/GPL 2.0/LGPL 2.1
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
- The contents of this file are subject to the Mozilla Public License Version
- 1.1 (the "License"); you may not use this file except in compliance with
- the License. You may obtain a copy of the License at
- http://www.mozilla.org/MPL/
+<!ENTITY toField3.label "Aan ">
+<!ENTITY fromField3.label "Van ">
+<!ENTITY senderField3.label "Afzender ">
+<!ENTITY organizationField3.label "Organisatie ">
+<!ENTITY replyToField3.label "Antwoord-naar ">
 
- Software distributed under the License is distributed on an "AS IS" basis,
- WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
- for the specific language governing rights and limitations under the
- License.
-
- The Original Code is Mozilla Communicator client code, released
- March 31, 1998.
-
- The Initial Developer of the Original Code is
- Netscape Communications Corporation.
- Portions created by the Initial Developer are Copyright (C) 1998-1999
- the Initial Developer. All Rights Reserved.
-
- Contributor(s):
-
- Alternatively, the contents of this file may be used under the terms of
- either the GNU General Public License Version 2 or later (the "GPL"), or
- the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
- in which case the provisions of the GPL or the LGPL are applicable instead
- of those above. If you wish to allow use of your version of this file only
- under the terms of either the GPL or the LGPL, and not to allow others to
- use your version of this file under the terms of the MPL, indicate your
- decision by deleting the provisions above and replace them with the notice
- and other provisions required by the GPL or the LGPL. If you do not delete
- the provisions above, a recipient may use your version of this file under
- the terms of any one of the MPL, the GPL or the LGPL.
-
- ***** END LICENSE BLOCK ***** -->
-
-<!ENTITY toField2.label "aan ">
-<!ENTITY fromField2.label "van ">
-<!ENTITY senderField2.label "afzender ">
-<!ENTITY organizationField2.label "organisatie ">
-<!ENTITY replyToField2.label "antwoord-naar ">
-
-<!ENTITY subjectField2.label "onderwerp ">
-<!--# LOCALIZATION NOTE (ccField.label): DONT_TRANSLATE -->
-<!ENTITY ccField2.label "cc ">
-<!ENTITY bccField2.label "bcc ">
-<!ENTITY newsgroupsField2.label "nieuwsgroepen ">
-<!ENTITY followupToField2.label "reacties-naar ">
-<!ENTITY tagsHdr2.label "labels ">
-<!ENTITY dateField2.label "datum ">
-<!ENTITY userAgentField2.label "useragent ">
-<!ENTITY referencesField2.label "referenties ">
-<!ENTITY messageIdField2.label "message-id ">
-<!ENTITY inReplyToField2.label "in-antwoord-op ">
-<!ENTITY originalWebsite2.label "website ">
+<!ENTITY subjectField3.label "Onderwerp ">
+<!ENTITY ccField3.label "Cc ">
+<!ENTITY bccField3.label "Bcc ">
+<!ENTITY newsgroupsField3.label "Nieuwsgroepen ">
+<!ENTITY followupToField3.label "Reacties-naar ">
+<!ENTITY tagsHdr3.label "Labels ">
+<!ENTITY dateField3.label "Datum ">
+<!ENTITY userAgentField3.label "Useragent ">
+<!ENTITY referencesField3.label "Referenties ">
+<!ENTITY messageIdField3.label "Bericht-ID ">
+<!ENTITY inReplyToField3.label "In-antwoord-op ">
+<!ENTITY originalWebsite3.label "Website ">
 
 <!ENTITY editMessageDescription.label "Dit is een berichtconcept">
 <!ENTITY editMessageButton.label "Bewerken…">
-<!ENTITY hdrArchiveButton.label "archiveren">
-<!ENTITY hdrArchiveButton.tooltip "dit bericht archiveren">
-<!ENTITY hdrSmartReplyButton.label "slim beantwoorden">
-<!ENTITY hdrReplyButton.label "beantwoorden">
-<!ENTITY hdrReplyButton.tooltip "dit bericht beantwoorden">
-<!ENTITY hdrReplyAllButton.label "allen beantwoorden">
-<!ENTITY hdrReplyAllButton.tooltip "afzender en alle ontvangers beantwoorden">
-<!ENTITY hdrReplyListButton.label "lijst beantwoorden">
-<!ENTITY hdrReplyListButton.tooltip "mailinglijst beantwoorden">
-<!ENTITY hdrForwardButton.label "doorsturen">
-<!ENTITY hdrForwardButton.tooltip "dit bericht doorsturen">
-<!ENTITY hdrJunkButton.label "ongewenst">
-<!ENTITY hdrJunkButton.tooltip "dit bericht als ongewenst markeren">
-<!ENTITY hdrTrashButton.label "verwijderen">
-<!ENTITY hdrTrashButton.tooltip "dit bericht verwijderen">
+<!ENTITY hdrArchiveButton1.label "Archiveren">
+<!ENTITY hdrArchiveButton1.tooltip "Dit bericht archiveren">
+<!ENTITY hdrSmartReplyButton1.label "Slim beantwoorden">
+<!ENTITY hdrReplyButton1.label "Beantwoorden">
+<!ENTITY hdrReplyButton2.tooltip "Afzender van dit bericht beantwoorden">
+<!ENTITY hdrReplyAllButton1.label "Allen beantwoorden">
+<!ENTITY hdrReplyAllButton1.tooltip "Afzender en alle ontvangers beantwoorden">
+<!ENTITY hdrReplyListButton1.label "Lijst beantwoorden">
+<!ENTITY hdrReplyListButton1.tooltip "Mailinglijst beantwoorden">
+<!ENTITY hdrFollowupButton1.label "Reactie">
+<!ENTITY hdrFollowupButton1.tooltip "Post een reactie naar deze nieuwsgroep">
+<!ENTITY hdrForwardButton1.label "Doorsturen">
+<!ENTITY hdrForwardButton1.tooltip "Dit bericht doorsturen">
+<!ENTITY hdrJunkButton1.label "Ongewenst">
+<!ENTITY hdrJunkButton1.tooltip "Dit bericht als ongewenst markeren">
+<!ENTITY hdrTrashButton1.label "Verwijderen">
+<!ENTITY hdrTrashButton1.tooltip "Dit bericht verwijderen">
 
 <!ENTITY hdrViewToolbarShowFull.label "Pictogrammen en tekst tonen">
 <!ENTITY hdrViewToolbarShowFull.accesskey "a">
@@ -82,23 +50,27 @@
 <!ENTITY hdrViewToolbarAlwaysReplySender.label "Afzender beantwoorden altijd tonen">
 <!ENTITY hdrViewToolbarAlwaysReplySender.accesskey "b">
 
-<!ENTITY otherActionsButton.label "andere acties">
-<!ENTITY otherActionsOpenConversation.label "openen in conversatie">
-<!ENTITY otherActionsOpenConversation.accesskey "c">
-<!ENTITY otherActionsOpenInNewWindow.label "openen in nieuw venster">
-<!ENTITY otherActionsOpenInNewWindow.accesskey "v">
-<!ENTITY otherActionsOpenInNewTab.label "openen in nieuw tabblad">
-<!ENTITY otherActionsOpenInNewTab.accesskey "t">
-<!ENTITY markAsReadMenuItem.label "als gelezen markeren">
-<!ENTITY markAsReadMenuItem.accesskey "r">
-<!ENTITY markAsUnreadMenuItem.label "als ongelezen markeren">
-<!ENTITY markAsUnreadMenuItem.accesskey "r">
-<!ENTITY saveAsMenuItem.label "opslaan als…">
-<!ENTITY saveAsMenuItem.accesskey "s">
-<!ENTITY viewSourceMenuItem.label "bron bekijken">
-<!ENTITY viewSourceMenuItem.accesskey "b">
-<!ENTITY otherActionsPrint.label "afdrukken…">
-<!ENTITY otherActionsPrint.accesskey "a">
+<!ENTITY otherActionsButton1.label "Andere acties">
+<!ENTITY otherActionsOpenConversation1.label "Openen in conversatie">
+<!ENTITY otherActionsOpenConversation1.accesskey "c">
+<!ENTITY otherActionsOpenInNewWindow1.label "Openen in nieuw venster">
+<!ENTITY otherActionsOpenInNewWindow1.accesskey "v">
+<!ENTITY otherActionsOpenInNewTab1.label "Openen in nieuw tabblad">
+<!ENTITY otherActionsOpenInNewTab1.accesskey "t">
+<!ENTITY markAsReadMenuItem1.label "Als gelezen markeren">
+<!ENTITY markAsReadMenuItem1.accesskey "r">
+<!ENTITY markAsUnreadMenuItem1.label "Als ongelezen markeren">
+<!ENTITY markAsUnreadMenuItem1.accesskey "r">
+<!ENTITY saveAsMenuItem1.label "Opslaan als…">
+<!ENTITY saveAsMenuItem1.accesskey "s">
+<!ENTITY viewSourceMenuItem1.label "Bron bekijken">
+<!ENTITY viewSourceMenuItem1.accesskey "B">
+<!ENTITY otherActionsPrint1.label "Afdrukken…">
+<!ENTITY otherActionsPrint1.accesskey "A">
+
+<!-- Attachment bar context menu items -->
+<!ENTITY startExpandedCmd.label    "Initieel bijlagevenster tonen">
+<!ENTITY startExpandedCmd.accesskey    "I">
 
 <!-- Attachment context menu items -->
 <!ENTITY openAttachmentCmd.label "Openen">
@@ -118,31 +90,20 @@
 <!ENTITY deleteAllAttachmentsCmd.label "Alles verwijderen…">
 <!ENTITY deleteAllAttachmentsCmd.accesskey "v">
 
+<!ENTITY openAttachment.tooltip "Het gekoppelde bestand openen">
+
 <!-- Attachment toolbar items -->
-<!ENTITY saveAttachmentButton.label       "opslaan">
-<!ENTITY saveAttachmentButton.tooltip     "Bijlage opslaan">
-<!ENTITY saveAllAttachmentsButton.label   "alles opslaan">
-<!ENTITY saveAllAttachmentsButton.tooltip "alle bijlagen opslaan">
-<!ENTITY openAttachmentMenuItem.label     "openen">
-<!ENTITY openAttachmentMenuItem.accesskey    "o">
-<!ENTITY saveAsAttachmentMenuItem.label    "opslaan als…">
-<!ENTITY saveAsAttachmentMenuItem.accesskey    "s">
-<!ENTITY detachAttachmentMenuItem.label    "ontkoppelen…">
-<!ENTITY detachAttachmentMenuItem.accesskey    "k">
-<!ENTITY deleteAttachmentMenuItem.label    "verwijderen">
-<!ENTITY deleteAttachmentMenuItem.accesskey    "w">
-<!ENTITY openAllAttachmentsMenuItem.label    "alles openen…">
-<!ENTITY openAllAttachmentsMenuItem.accesskey    "o">
-<!ENTITY saveAllAttachmentsMenuItem.label    "alles opslaan…">
-<!ENTITY saveAllAttachmentsMenuItem.accesskey    "s">
-<!ENTITY detachAllAttachmentsMenuItem.label    "alles ontkoppelen…">
-<!ENTITY detachAllAttachmentsMenuItem.accesskey    "k">
-<!ENTITY deleteAllAttachmentsMenuItem.label    "alles verwijderen…">
-<!ENTITY deleteAllAttachmentsMenuItem.accesskey    "v">
+<!ENTITY saveAttachmentButton1.label       "Opslaan">
+<!ENTITY saveAttachmentButton1.tooltip     "Bijlage opslaan">
+<!ENTITY saveAllAttachmentsButton1.label   "Alles opslaan">
+<!ENTITY saveAllAttachmentsButton1.tooltip "Alle bijlagen opslaan">
 
 <!ENTITY copyLinkCmd.label "Koppelingslocatie kopiëren">
 <!ENTITY copyLinkCmd.accesskey "k">
 
 <!ENTITY CopyMessageId.label "Bericht-ID kopiëren">
+<!ENTITY CopyMessageId.accesskey "k">
 <!ENTITY OpenMessageForMsgId.label "Bericht voor ID openen">
+<!ENTITY OpenMessageForMsgId.accesskey "o">
 <!ENTITY OpenBrowserWithMsgId.label "Browser met bericht-ID openen">
+<!ENTITY OpenBrowserWithMsgId.accesskey "B">

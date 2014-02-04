@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title          "Nastavenie poštového účtu">
 <!ENTITY name.label                      "Vaše meno:">
 <!ENTITY name.accesskey                  "V">
@@ -46,9 +50,11 @@
      the account configuration, taking into account the settings that
      the user has manually changed. -->
 <!ENTITY half-manual-test.label          "Znova otestovať nastavenie">
-<!ENTITY half-manual-test.accesskey      "o">
+<!ENTITY half-manual-test.accesskey      "s">
 <!ENTITY manual-edit.label               "Manuálne nastavenie">
 <!ENTITY manual-edit.accesskey           "n">
+<!ENTITY switch-to-provisioner.label     "Získať nový účet">
+<!ENTITY switch-to-provisioner.accesskey "k">
 
 <!ENTITY warning.label                   "Upozornenie!">
 <!ENTITY incomingSettings.label          "Nastavenia pre prichádzajúcu poštu:">
@@ -59,11 +65,11 @@
       checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Rozumiem riziku">
 <!ENTITY confirmWarning.accesskey        "R">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Vytvoriť účet">
-<!ENTITY createAccount.accesskey         "r">
+<!ENTITY doneAccount.label               "Hotovo">
+<!ENTITY doneAccount.accesskey           "o">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

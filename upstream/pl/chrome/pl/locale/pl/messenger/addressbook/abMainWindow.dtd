@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Książka adresowa">
 
 <!-- File Menu -->
@@ -77,18 +81,24 @@
 <!ENTITY viewMenu.accesskey         "W">
 <!ENTITY viewToolbarsMenu.label     "Paski narzędzi">
 <!ENTITY viewToolbarsMenu.accesskey "n">
+<!ENTITY menubarCmd.label           "Pasek menu">
+<!ENTITY menubarCmd.accesskey       "m">
 <!ENTITY showAbToolbarCmd.label     "Pasek narzędzi książki adresowej">
 <!ENTITY showAbToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label       "Pasek stanu">
 <!ENTITY showTaskbarCmd.accesskey   "k">
 <!ENTITY customizeToolbar.label     "Dostosuj…">
 <!ENTITY customizeToolbar.accesskey "t">
-<!ENTITY showContactPane.label      "Panel kontaktów">
-<!ENTITY showContactPane.accesskey  "P">
+<!ENTITY layoutMenu.label           "Układ">
+<!ENTITY layoutMenu.accesskey       "U">
+<!ENTITY showDirectoryPane.label      "Panel książek adresowych">
+<!ENTITY showDirectoryPane.accesskey  "P">
+<!ENTITY showContactPane2.label       "Panel kontaktu">
+<!ENTITY showContactPane2.accesskey   "k">
 <!ENTITY menu_ShowNameAs.label      "Pokazuj nazwę jako">
 <!ENTITY menu_ShowNameAs.accesskey  "z">
-<!ENTITY firstLastCmd.label         "Imię, nazwisko">
-<!ENTITY firstLastCmd.accesskey     "I">
+<!ENTITY firstLastCmd2.label        "Imię Nazwisko">
+<!ENTITY firstLastCmd2.accesskey    "I">
 <!ENTITY lastFirstCmd.label         "Nazwisko, imię">
 <!ENTITY lastFirstCmd.accesskey     "n">
 <!ENTITY displayNameCmd.label       "Wyświetlana nazwa">
@@ -150,8 +160,8 @@
 <!ENTITY GeneratedName.accesskey  "n">
 <!ENTITY PrimaryEmail.label       "E-mail">
 <!ENTITY PrimaryEmail.accesskey   "E">
-<!ENTITY ScreenName.label         "Komunikator AIM">
-<!ENTITY ScreenName.accesskey     "u">
+<!ENTITY ChatName.label "Nazwa czat">
+<!ENTITY ChatName.accesskey "C">
 <!ENTITY Company.label            "Firma/Organizacja">
 <!ENTITY Company.accesskey        "O">
 <!ENTITY NickName.label           "Pseudonim">
@@ -184,6 +194,7 @@
 <!ENTITY contact.heading       "Kontakt">
 <!ENTITY home.heading          "Dom">
 <!ENTITY other.heading         "Inne">
+<!ENTITY chat.heading "Czat">
 <!ENTITY phone.heading         "Telefon">
 <!ENTITY work.heading          "Praca">
 <!-- Special Box Headings, for mailing lists -->

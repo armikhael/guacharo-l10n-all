@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label                "Üldine">
 <!ENTITY itemDisplay.label                "Lugemine ja kuvamine">
 <!ENTITY itemUpdate.label                 "Uuendamine">
@@ -6,10 +10,20 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label            "Lubatakse sooritusvõimsuse raportite saatmine">
+<!ENTITY submitTelemetry.accesskey        "u">
+<!ENTITY telemetryInfoLink.label          "Rohkem teavet telemeetria saatmise kohta">
 <!ENTITY enableGlodaSearch.label          "Lubatakse kirjade üldotsing ja indekseerimine">
 <!ENTITY enableGlodaSearch.accesskey      "L">
+
+<!ENTITY scrolling.label                   "Kerimine">
+<!ENTITY useAutoScroll.label               "Kasutatakse automaatset kerimist">
+<!ENTITY useAutoScroll.accesskey           "u">
+<!ENTITY useSmoothScrolling.label          "Kasutatakse sujuvat kerimist">
+<!ENTITY useSmoothScrolling.accesskey      "s">
+
 <!ENTITY systemIntegration.label          "Süsteemi integratsioon">
-<!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on vaikimisi e-posti klient">
+<!ENTITY alwaysCheckDefault.label         "Käivitumisel kontrollitakse alati, kas &brandShortName; on e-posti vaikeklient">
 <!ENTITY alwaysCheckDefault.accesskey     "a">
 <!ENTITY searchIntegration.label          "Rakendusel &searchIntegration.engineName; on kirjade otsimine lubatud">
 <!ENTITY searchIntegration.accesskey      "R">
@@ -64,6 +78,9 @@
 <!ENTITY showUpdates.label                "Näita uuenduste ajalugu">
 <!ENTITY showUpdates.accesskey            "j">
 
+<!ENTITY useService.label                 "Uuenduste paigaldamiseks kasutatakse taustateenust">
+<!ENTITY useService.accesskey             "U">
+
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label               "Sätted...">
 <!ENTITY showSettings.accesskey           "d">
@@ -75,9 +92,9 @@
 <!ENTITY showOffline.accesskey            "S">
 
 <!ENTITY Diskspace                        "Kettaruum">
-<!ENTITY offlineCompact.label             "Kaustad tihendatakse, kui see säästab rohkem kui">
-<!ENTITY offlineCompact.accesskey         "b">
-<!ENTITY mb.label                         "MiB">
+<!ENTITY offlineCompactFolders.label      "Kõik kaustad tihendatakse, kui see säästab kokku rohkem kui">
+<!ENTITY offlineCompactFolders.accesskey  "b">
+<!ENTITY offlineCompactFoldersMB.label    "MiB">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

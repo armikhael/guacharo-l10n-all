@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label "&brandShortName; ræsisíða">
 <!ENTITY enableStartPage.label "Þegar &brandShortName; ræsir, sýna ræsisíðu í póstsvæði">
 <!ENTITY enableStartPage.accesskey "Þ">
@@ -24,8 +28,3 @@
 <!ENTITY customsound.accesskey "N">
 <!ENTITY browse.label "Velja…">
 <!ENTITY browse.accesskey "V">
-<!ENTITY addonsMgr.label "Viðbætur">
-<!ENTITY manageAddonsDescWin.label "Breyta stillingum fyrir viðbætur">
-<!ENTITY manageAddonsDescUnix2.label "Breyta stillingum fyrir viðbætur">
-<!ENTITY manageAddons.label "Stjórna viðbótum…">
-<!ENTITY manageAddons.accesskey "m">

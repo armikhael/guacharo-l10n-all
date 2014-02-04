@@ -8,6 +8,7 @@
 # Reviewer(s):
 #
 # Alexandru Szasz <alexxed@gmail.com>
+# raulmalea <raul.malea@gmail.com>
 #
 -->
 <!ENTITY matchAll.label     "Toate condițiile de mai jos">
@@ -26,5 +27,4 @@
 <!ENTITY searchTermListOperatorsFlexValue "5">
 <!ENTITY searchTermListValueFlexValue "5">
 <!ENTITY searchTermListButtonsFlexValue "2">
-
 

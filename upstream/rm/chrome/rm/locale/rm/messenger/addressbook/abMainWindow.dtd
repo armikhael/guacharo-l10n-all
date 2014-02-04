@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Cudeschet d'adressas">
 
 <!-- File Menu -->
@@ -79,22 +83,30 @@
 <!ENTITY viewMenu.accesskey                             "V">
 <!ENTITY viewToolbarsMenu.label                         "Travs d'utensils">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "Trav da menu">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Trav d'utensils dal cudeschet d'adressas">
 <!ENTITY showAbToolbarCmd.accesskey                     "c">
 <!ENTITY showTaskbarCmd.label                           "Trav da status">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Modifitgar…">
 <!ENTITY customizeToolbar.accesskey                     "M">
-<!ENTITY showContactPane.label                          "Prevista dal contact">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "Disposiziun">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Trav dad ordinaturs">
+<!ENTITY showDirectoryPane.accesskey                    "T">
+<!ENTITY showContactPane2.label                         "Prevista dal contact">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "Mussar suandantamain il num">
 <!ENTITY menu_ShowNameAs.accesskey                      "N"> 
-<!ENTITY firstLastCmd.label                             "Prenum num">
-<!ENTITY firstLastCmd.accesskey                         "F"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Prenum num">
+<!ENTITY firstLastCmd2.accesskey                        "P"> 
 <!ENTITY lastFirstCmd.label                             "Num, prenum">
-<!ENTITY lastFirstCmd.accesskey                         "L">
+<!ENTITY lastFirstCmd.accesskey                         "N">
 <!ENTITY displayNameCmd.label                           "Num per mussar">
-<!ENTITY displayNameCmd.accesskey                       "D">
+<!ENTITY displayNameCmd.accesskey                       "m">
 <!ENTITY sortMenu.label                                 "Zavrar tenor">
 <!ENTITY sortMenu.accesskey                             "Z">
 
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Num da messenger">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "Num da chat">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisaziun">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "Surnum">
@@ -186,6 +198,7 @@
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Privat">
 <!ENTITY other.heading                                  "Auter">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefon">
 <!ENTITY work.heading                                   "Lavur">
 <!-- Special Box Headings, for mailing lists -->

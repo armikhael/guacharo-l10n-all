@@ -146,6 +146,7 @@ functionality specific to thunderbird. -->
 
 <!ENTITY remoteXUL.title "Remote XUL">
 <!ENTITY remoteXUL.longDesc "<p><ul><li>Please contact the website owners to inform them of this problem.</li></ul></p>">
+
 <!ENTITY corruptedContentError.longDesc "<p>The content you are trying to view cannot be shown because an error in the data transmission was detected.</p><ul><li>Please contact the owners to inform them of this problem.</li></ul>">
 
 <!ENTITY corruptedContentError.title "Corrupted Content Error">
@@ -154,3 +155,6 @@ functionality specific to thunderbird. -->
   <li>Press &quot;Try Again&quot; to switch to online mode and reload the page.</li>
 </ul>
 ">
+<!ENTITY notCached.longDesc "<p>The requested document is not available in the cache.</p><ul><li>As a security precaution, &brandShortName; does not automatically re-request sensitive documents.</li><li>Click Try Again to re-request the document from the website.</li></ul>">
+
+<!ENTITY notCached.title "Document Expired">

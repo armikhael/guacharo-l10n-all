@@ -1,5 +1,10 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY quickFilterBar.qfbShowFilterBar.label "Быстрый фильтр">
 <!ENTITY quickFilterBar.toggleBarVisibility.menu.label "Панель быстрого фильтра">
-<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "а">
+<!ENTITY quickFilterBar.toggleBarVisibility.menu.accesskey "ы">
 <!ENTITY quickFilterBar.toggleBarVisibility.button.tooltip "Включить/выключить панель быстрого фильтра">
 <!ENTITY quickFilterBar.sticky.tooltip "Держать фильтры применёнными при переключении папок">
 <!ENTITY quickFilterBar.barLabel.label "Быстрый фильтр:">

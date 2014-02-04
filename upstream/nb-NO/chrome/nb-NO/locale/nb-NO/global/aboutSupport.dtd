@@ -1,4 +1,8 @@
-<!ENTITY aboutSupport.pageTitle "Informasjon for feilsøking">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY aboutSupport.pageTitle "Feilsøking">
 
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 <!ENTITY aboutSupport.pageSubtitle "
@@ -16,24 +20,42 @@
 <!ENTITY aboutSupport.appBasicsTitle "Programinfo">
 <!ENTITY aboutSupport.appBasicsName "Navn">
 <!ENTITY aboutSupport.appBasicsVersion "Versjon">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilmappe">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profilmappe">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Påslåtte programtillegg">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Bygginnstillinger">
 <!ENTITY aboutSupport.appBasicsUserAgent "Brukeragent">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Krasjrapporter">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Minneforbruk">
 
-<!ENTITY aboutSupport.show.label "Åpne profilmappen">
-
+<!ENTITY aboutSupport.showDir.label "Åpne mappe">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
 <!ENTITY aboutSupport.showMac.label "Vis i Finder">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Vis mappe">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Endrede innstillinger">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Viktige endrede innstillinger">
 <!ENTITY aboutSupport.modifiedPrefsName "Navn">
 <!ENTITY aboutSupport.modifiedPrefsValue "Verdi">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikk">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "Inkrementell GC">
+
+<!ENTITY aboutSupport.a11yTitle "Tilgjengelighet">
+<!ENTITY aboutSupport.a11yActivated "Aktivert">
+<!ENTITY aboutSupport.a11yForceDisabled "Forhindre tilgjengelighet">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Bibliotekversjoner">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Installasjonshistorikk">
 <!ENTITY aboutSupport.updateHistoryTitle "Oppdateringshistorikk">

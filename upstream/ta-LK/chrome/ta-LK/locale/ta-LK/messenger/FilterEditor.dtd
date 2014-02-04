@@ -45,10 +45,15 @@
 <!ENTITY stopExecution.label "வடி இயக்கத்தினை நிறுத்துக">
 
 
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY filterActionTargetFlexValue "4">
 
-<!--
-Entities below were automatically added by compare-locales,
- based on en-US entities.
--->
-
-<!ENTITY filterEditorDialog.dimensions "அகலம்: 100ch;">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY markMessageUnread.label "Mark As Unread">
+<!ENTITY removeAction.tooltip "Remove this action">
+<!ENTITY filterEditorDialog.dimensions "width: 100ch;">

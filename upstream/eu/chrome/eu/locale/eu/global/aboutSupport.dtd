@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY aboutSupport.pageTitle "Arazoak konpontzeko informazioa">
 <!-- LOCALIZATION NOTE (aboutSupport.pageSubtitle): don't change the 'supportLink' id. -->
 
@@ -14,24 +18,42 @@ bazabiltza, bisitatu gure <a id='supportLink'>laguntzaren webgunea</a>.">
 <!ENTITY aboutSupport.appBasicsTitle "Aplikazioaren oinarrizko konfigurazioa">
 <!ENTITY aboutSupport.appBasicsName "Izena">
 <!ENTITY aboutSupport.appBasicsVersion "Bertsioa">
+
 <!ENTITY aboutSupport.appBasicsProfileDir "Profilaren direktorioa">
+<!-- LOCALIZATION NOTE (aboutSupport.appBasicsProfileDirWinMac):
+This is the Windows- and Mac-specific variant of aboutSupport.appBasicsProfileDir.
+Windows/Mac use the term "Folder" instead of "Directory" -->
+<!ENTITY aboutSupport.appBasicsProfileDirWinMac "Profilaren karpeta">
+
 <!ENTITY aboutSupport.appBasicsEnabledPlugins "Gaitutako pluginak">
 <!ENTITY aboutSupport.appBasicsBuildConfig "Eraikitze-konfigurazioa">
 <!ENTITY aboutSupport.appBasicsUserAgent "Erabiltzaile-agentea">
 <!ENTITY aboutSupport.appBasicsCrashIDs "Hutsegiteen txostenak">
+<!ENTITY aboutSupport.appBasicsMemoryUse "Memoriaren erabilpena">
 
-<!ENTITY aboutSupport.show.label "Ireki karpeta">
+<!ENTITY aboutSupport.showDir.label "Ireki direktorioa">
 <!-- LOCALIZATION NOTE (aboutSupport.showMac.label): This is the Mac-specific
-variant of aboutSupport.show.label.  This allows us to use the preferred
+variant of aboutSupport.showDir.label.  This allows us to use the preferred
 "Finder" terminology on Mac. -->
-
 <!ENTITY aboutSupport.showMac.label "Erakutsi Finder-en">
+<!-- LOCALIZATION NOTE (aboutSupport.showWin.label): This is the Windows-specific
+variant of aboutSupport.showDir.label. -->
+<!ENTITY aboutSupport.showWin.label "Erakutsi karpeta">
 
-<!ENTITY aboutSupport.modifiedPrefsTitle "Aldatutako hobespenak">
+<!ENTITY aboutSupport.modifiedKeyPrefsTitle "Aldatutako hobespen garrantzitsuak">
 <!ENTITY aboutSupport.modifiedPrefsName "Izena">
 <!ENTITY aboutSupport.modifiedPrefsValue "Balioa">
 
 <!ENTITY aboutSupport.graphicsTitle "Grafikoak">
+
+<!ENTITY aboutSupport.jsTitle "JavaScript">
+<!ENTITY aboutSupport.jsIncrementalGC "ZB inkrementala">
+
+<!ENTITY aboutSupport.a11yTitle "Erabilgarritasuna">
+<!ENTITY aboutSupport.a11yActivated "Aktibatuta">
+<!ENTITY aboutSupport.a11yForceDisabled "Eragotzi erabilgarritasuna">
+
+<!ENTITY aboutSupport.libraryVersionsTitle "Liburutegien bertsioak">
 
 <!ENTITY aboutSupport.installationHistoryTitle "Instalazioaren historia">
 <!ENTITY aboutSupport.updateHistoryTitle "Eguneraketen historia">

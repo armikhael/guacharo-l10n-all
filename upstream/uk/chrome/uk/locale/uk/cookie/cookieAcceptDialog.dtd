@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Ім’я:">
 <!ENTITY     props.value.label              "Зміст:">
 <!ENTITY     props.domain.label             "Сервер:">
 <!ENTITY     props.path.label               "Шлях:">
 <!ENTITY     props.secure.label             "Відсилати для:">
 <!ENTITY     props.expires.label            "Застаріє:">
-<!ENTITY     props.policy.label             "Політика:"> 
 
 <!ENTITY     button.allow.label             "Дозволити">
 <!ENTITY     button.allow.accesskey         "о">

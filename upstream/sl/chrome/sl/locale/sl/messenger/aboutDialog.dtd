@@ -45,7 +45,7 @@
      to download the latest version of Firefox (e.g. http://www.firefox.com). As this is all in one line,
      try to make the localized text short (see bug 596813 for screenshots). -->
 <!ENTITY update.manual.start        "Prenesite ">
-<!ENTITY update.manual.linkText     "najnovejšo inačico">
+<!ENTITY update.manual.linkText     "najnovejšo različico">
 <!ENTITY update.manual.end          "">
 
 <!-- LOCALIZATION NOTE (update.downloading.start,update.downloading.end): update.downloading.start and 
@@ -55,6 +55,8 @@
      example: Downloading update — 111 KB of 13 MB -->
 <!ENTITY update.downloading.start   "Prenašanje posodobitev — ">
 <!ENTITY update.downloading.end     "">
+
+<!ENTITY update.applying            "Uveljavljanje posodobitev…">
 
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.

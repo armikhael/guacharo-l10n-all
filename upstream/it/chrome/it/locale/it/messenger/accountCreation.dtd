@@ -1,9 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title "Impostazione account di posta">
 <!ENTITY name.label "Nome:">
 <!ENTITY name.accesskey "n">
 <!ENTITY name.placeholder "Nome Cognome">
 <!ENTITY name.text "Nome da visualizzare">
-<!ENTITY email.label "Indirizzo e-mail:">
+<!ENTITY email.label "Indirizzo email:">
 <!ENTITY email.accesskey "I">
 <!ENTITY email.placeholder "email@example.com">
 <!ENTITY password.label "Password:">
@@ -40,19 +44,21 @@
 <!ENTITY half-manual-test.accesskey "e">
 <!ENTITY manual-edit.label "Configurazione manuale">
 <!ENTITY manual-edit.accesskey "M">
+<!ENTITY switch-to-provisioner.label "Registrare un nuovo account">
+<!ENTITY switch-to-provisioner.accesskey "R">
 <!ENTITY warning.label "Attenzione!">
 <!ENTITY incomingSettings.label "Impostazioni in entrata:">
 <!ENTITY outgoingSettings.label "Impostazioni in uscita:">
 <!ENTITY technicaldetails.label "Dettagli tecnici">
 <!ENTITY confirmWarning.label "Sono consapevole dei rischi.">
 <!ENTITY confirmWarning.accesskey "o">
-<!ENTITY createAccount.label "Crea un account">
-<!ENTITY createAccount.accesskey "C">
+<!ENTITY doneAccount.label "Fatto">
+<!ENTITY doneAccount.accesskey "F">
 <!ENTITY changeSettings.label "Cambia impostazioni">
 <!ENTITY changeSettings.accesskey "M">
 <!ENTITY contactYourProvider.description "&brandShortName; scaricherà la posta utilizzando questa configurazione. Tuttavia si consiglia di contattare l'amministratore o il fornitore della casella di posta per informarlo di questo collegamento non appropriato. Leggere le FAQ di Thunderbird per maggiori informazioni.">
 <!ENTITY insecureServer.tooltip.title "Attenzione, questo è un server non sicuro.">
 <!ENTITY insecureServer.tooltip.details "Clic sul cerchio per maggiori informazioni.">
-<!ENTITY insecureUnencrypted.description "La posta e le informazioni di autenticazione vengono trasmesse senza cifratura, pertanto le password e i messaggi possono essere facilmente letti da altre persone. &brandShortName; consentirà la lettura della posta ma si consiglia di contattare il provider per configurare il server con un collegamento sicuro.">
-<!ENTITY insecureSelfSigned.description "Non è possibile verificare il certificato utilizzato dal server, pertanto non si può escludere che qualcuno stia intercettando il traffico tra &brandShortName; e il server. &brandShortName; consentirà la lettura della posta ma si consiglia di convincere il provider a fornire un collegamento sicuro con il server.">
+<!ENTITY insecureUnencrypted.description "La posta e le informazioni di autenticazione vengono trasmesse senza cifratura, pertanto le password e i messaggi possono essere facilmente letti da altre persone. &brandShortName; consentirà la lettura della posta ma si consiglia di contattare il fornitore di servizi internet per configurare il server con un collegamento sicuro.">
+<!ENTITY insecureSelfSigned.description "Non è possibile verificare il certificato utilizzato dal server, pertanto non si può escludere che qualcuno stia intercettando il traffico tra &brandShortName; e il server. &brandShortName; consentirà la lettura della posta ma si consiglia di convincere il fornitore di servizi internet a configurare il server con un certificato sicuro.">
 <!ENTITY secureServer.description "Complimenti, questo è un server sicuro.">

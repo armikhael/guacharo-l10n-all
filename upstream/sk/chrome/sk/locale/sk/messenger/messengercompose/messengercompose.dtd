@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Nová správa: (žiadny predmet)">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey "P">
 <!ENTITY attachFileCmd.label "Súbor…">
 <!ENTITY attachFileCmd.accesskey "S">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Odkaz na súbor">
+<!ENTITY attachCloudCmd.accesskey "O">
 <!ENTITY attachPageCmd.label "Webovú stránku…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,11 +74,13 @@
 <!ENTITY pasteCmd.accesskey "P">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
-<!ENTITY editRewrapCmd.label "Zalomiť znovu">
-<!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "m">
 <!ENTITY deleteCmd.label "Odstrániť">
 <!ENTITY deleteCmd.accesskey "O">
+<!ENTITY editRewrapCmd.label "Zalomiť znovu">
+<!ENTITY editRewrapCmd.key "R">
+<!ENTITY renameAttachmentCmd.label "Premenovať prílohu…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Vybrať všetko">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a">
@@ -90,6 +99,8 @@
 <!-- View Menu -->
 <!ENTITY viewMenu.label "Zobraziť">
 <!ENTITY viewMenu.accesskey "Z">
+<!ENTITY menubarCmd.label "Hlavná ponuka">
+<!ENTITY menubarCmd.accesskey "H">
 <!ENTITY viewToolbarsMenuNew.label "Panely s nástrojmi">
 <!ENTITY viewToolbarsMenuNew.accesskey "P">
 <!ENTITY showCompositionToolbarCmd.label "Panel Písanie správy">
@@ -263,6 +274,14 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Priložiť súbor…">
 <!ENTITY attachFile.accesskey "s">
+<!ENTITY attachCloud.label "Odkaz na súbor…">
+<!ENTITY attachCloud.accesskey "O">
+<!ENTITY convertCloud.label "Skonvertovať na…">
+<!ENTITY convertCloud.accesskey "S">
+<!ENTITY cancelUpload.label "Zrušiť odosielanie">
+<!ENTITY cancelUpload.accesskey "Z">
+<!ENTITY convertRegularAttachment.label "Klasická príloha">
+<!ENTITY convertRegularAttachment.accesskey "K">
 <!ENTITY attachPage.label "Priložiť webovú stránku…">
 <!ENTITY attachPage.accesskey "w">
 

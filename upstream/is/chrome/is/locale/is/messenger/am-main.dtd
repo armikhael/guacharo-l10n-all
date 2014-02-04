@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Stillingar reiknings">
@@ -11,6 +15,7 @@
 <!ENTITY email.accesskey "T">
 <!ENTITY replyTo.label "Svar-tölvupóstfang:">
 <!ENTITY replyTo.accesskey "S">
+<!ENTITY replyTo.placeholder "Viðtakendur munu svara öðru póstfangi">
 <!ENTITY organization.label "Fyrirtæki/Stofnun:">
 <!ENTITY organization.accesskey "F">
 <!ENTITY signatureText.label "Texti undirritunar:">

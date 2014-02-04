@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
@@ -40,6 +44,7 @@
 <!ENTITY forwardTo.label "העבר אל:">
 <!ENTITY replyWithTemplate.label "השב עם תבנית:">
 <!ENTITY markMessageRead.label "סמן כנקרא">
+<!ENTITY markMessageUnread.label "סימון כלא נקרא">
 <!ENTITY markMessageStarred.label "הוסף כוכבית">
 <!ENTITY setPriority.label "קבע עדיפות ל:">
 <!ENTITY addTag.label "סמן הודעה">
@@ -53,3 +58,14 @@
 <!ENTITY stopExecution.label "הפסק הפעלת מסננים">
 
 
+
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY filterActionTargetFlexValue "4">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY removeAction.tooltip "Remove this action">

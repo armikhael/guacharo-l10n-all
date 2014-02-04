@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title          "Innstillinger for e-postkonto">
 <!ENTITY name.label                      "Navnet ditt:">
 <!ENTITY name.accesskey                  "N">
@@ -49,6 +53,8 @@
 <!ENTITY half-manual-test.accesskey      "T">
 <!ENTITY manual-edit.label               "Manuelle innstillinger">
 <!ENTITY manual-edit.accesskey           "M">
+<!ENTITY switch-to-provisioner.label     "Skaff en ny konto">
+<!ENTITY switch-to-provisioner.accesskey "S">
 
 
 <!ENTITY warning.label                   "Advarsel!">
@@ -60,11 +66,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Jeg forstår risikoen.">
 <!ENTITY confirmWarning.accesskey        "e">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Opprett konto">
-<!ENTITY createAccount.accesskey         "O">
+<!ENTITY doneAccount.label               "Ferdig">
+<!ENTITY doneAccount.accesskey           "F">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

@@ -14,8 +14,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "p">
 <!ENTITY markAsReadOnSpam.label "Tandai sudah dibaca pada pesan yang ditandai sebagai Junk">
 <!ENTITY markAsReadOnSpam.accesskey "d">
-<!ENTITY enableJunkLogging.label "Aktifkan logging filter junk">
-<!ENTITY enableJunkLogging.accesskey "g">
+<!ENTITY enableAdaptiveJunkLogging.label "Aktifkan logging filter junk adaptif">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "g">
 <!ENTITY openJunkLog.label "Tampilkan log">
 <!ENTITY openJunkLog.accesskey "l">
 <!ENTITY resetTrainingData.label "Setel Ulang Data Training">
@@ -57,3 +57,8 @@
 <!ENTITY showCookies.label              "Tampilkan Kuki…">
 <!ENTITY showCookies.accesskey          "T">
 
+
+<!ENTITY doNotTrack.accesskey           "d">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">

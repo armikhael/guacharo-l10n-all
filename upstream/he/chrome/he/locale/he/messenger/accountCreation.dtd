@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
@@ -62,6 +66,8 @@
 <!ENTITY half-manual-test.accesskey      "ב">
 <!ENTITY manual-edit.label               "הגדרות ידניות">
 <!ENTITY manual-edit.accesskey           "ה">
+<!ENTITY switch-to-provisioner.label     "קבלת חשבון חדש">
+<!ENTITY switch-to-provisioner.accesskey "ח">
 
 
 <!ENTITY warning.label                   "זהירות!">
@@ -95,3 +101,8 @@
 <!ENTITY secureServer.description        "איחולים! זהו שרת מאובטח.">
 
 
+<!ENTITY doneAccount.accesskey           "D">
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
+     on the incoming or outgoing servers, then the page that pops up will
+     have this text in a button to continue by creating the account. -->
+<!ENTITY doneAccount.label               "Done">

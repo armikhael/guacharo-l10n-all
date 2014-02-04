@@ -23,6 +23,7 @@
 <!ENTITY forwardTo.label "Накіраваць ліст да">
 <!ENTITY replyWithTemplate.label "Адказаць паводле ўзору">
 <!ENTITY markMessageRead.label "Пазначыць прачытаным">
+<!ENTITY markMessageUnread.label "Пазначыць непрачытаным">
 <!ENTITY markMessageStarred.label "Дадаць зорку">
 <!ENTITY setPriority.label "Прызначыць прыярытэт">
 <!ENTITY addTag.label "Дадаць метку да ліста">
@@ -34,3 +35,7 @@
 <!ENTITY ignoreSubthread.label "Ігнараваць паднізку">
 <!ENTITY watchThread.label "Сачыць за нізкай">
 <!ENTITY stopExecution.label "Спыніць выкананне сіта">
+<!ENTITY addAction.tooltip "Дадаць новае дзеянне">
+<!ENTITY removeAction.tooltip "Выдаліць гэтае дзеянне">
+<!ENTITY filterActionTypeFlexValue "3">
+<!ENTITY filterActionTargetFlexValue "6">

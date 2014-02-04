@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 <!ENTITY loadError.label "Проблема при загрузке страницы">
@@ -33,6 +37,8 @@
 ">
 <!ENTITY netInterrupt.title "Соединение было прервано">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+<!ENTITY notCached.title "Документ просрочен">
+<!ENTITY notCached.longDesc "<p>Кэш не содержит запрошенный документ.</p><ul><li>В целях безопасности &brandShortName; не производит автоматический повторный запрос важных документов.</li><li>Нажмите «Попробовать снова», чтобы повторно запросить документ с веб-сайта.</li></ul>">
 <!ENTITY netOffline.title "Автономный режим">
 <!ENTITY netOffline.longDesc2 "
 <ul>

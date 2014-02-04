@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title "Configuración de cuenta de correo">
 <!ENTITY name.label "Su nombre:">
 <!ENTITY name.accesskey "S">
@@ -40,14 +44,16 @@
 <!ENTITY half-manual-test.accesskey "V">
 <!ENTITY manual-edit.label "Config. manual">
 <!ENTITY manual-edit.accesskey "m">
+<!ENTITY switch-to-provisioner.label "Obtener una nueva cuenta">
+<!ENTITY switch-to-provisioner.accesskey "t">
 <!ENTITY warning.label "¡Advertencia!">
 <!ENTITY incomingSettings.label "Configuración de entrada:">
 <!ENTITY outgoingSettings.label "Configuración de salida:">
 <!ENTITY technicaldetails.label "Detalles técnicos">
 <!ENTITY confirmWarning.label "Entiendo los riesgos.">
 <!ENTITY confirmWarning.accesskey "E">
-<!ENTITY createAccount.label "Crear cuenta">
-<!ENTITY createAccount.accesskey "u">
+<!ENTITY doneAccount.label "Hecho">
+<!ENTITY doneAccount.accesskey "H">
 <!ENTITY changeSettings.label "Cambiar configuración">
 <!ENTITY changeSettings.accesskey "b">
 <!ENTITY contactYourProvider.description "&brandShortName; le puede permitir recuperar su correo usando la configuración proporcionada. Sin embargo, debería contactar con su administrador o proveedor de correo electrónico en relación a estas conexiones inadecuadas. Vea la FAQ de Thunderbird para más información.">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Configuración da conta">
@@ -11,6 +15,7 @@
 <!ENTITY email.accesskey "z">
 <!ENTITY replyTo.label "Enderezo de resposta:">
 <!ENTITY replyTo.accesskey "r">
+<!ENTITY replyTo.placeholder "Os destinatarios responderán a estoutro enderezo">
 <!ENTITY organization.label "Organización">
 <!ENTITY organization.accesskey "g">
 <!ENTITY signatureText.label "Texto da sinatura:">

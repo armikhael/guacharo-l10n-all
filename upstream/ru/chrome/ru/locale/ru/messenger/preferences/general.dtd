@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label "Стартовая страница &brandShortName;">
 <!ENTITY enableStartPage.label "Показывать стартовую страницу в области просмотра сообщения при запуске &brandShortName;">
 <!ENTITY enableStartPage.accesskey "с">
@@ -24,8 +28,3 @@
 <!ENTITY customsound.accesskey "в">
 <!ENTITY browse.label "Обзор…">
 <!ENTITY browse.accesskey "б">
-<!ENTITY addonsMgr.label "Дополнения">
-<!ENTITY manageAddonsDescWin.label "Изменение параметров дополнений">
-<!ENTITY manageAddonsDescUnix2.label "Изменение параметров дополнений">
-<!ENTITY manageAddons.label "Настроить дополнения…">
-<!ENTITY manageAddons.accesskey "с">

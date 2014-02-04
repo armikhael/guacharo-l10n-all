@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Adresboek">
 
 <!-- File Menu -->
@@ -79,18 +83,26 @@
 <!ENTITY viewMenu.accesskey                             "l">
 <!ENTITY viewToolbarsMenu.label                         "Werkbalken">
 <!ENTITY viewToolbarsMenu.accesskey                     "W">
+<!ENTITY menubarCmd.label                               "Menubalk">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Adresboekwerkbalk">
 <!ENTITY showAbToolbarCmd.accesskey                     "d">
 <!ENTITY showTaskbarCmd.label                           "Statusbalk">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "Aanpassen…">
 <!ENTITY customizeToolbar.accesskey                     "A">
-<!ENTITY showContactPane.label                          "Contactsamenvattingsvenster">
-<!ENTITY showContactPane.accesskey                      "C">
-<!ENTITY menu_ShowNameAs.label                          "Namen tonen als">
+<!ENTITY layoutMenu.label                               "Vormgeving">
+<!ENTITY layoutMenu.accesskey                           "V">
+<!ENTITY showDirectoryPane.label                        "Directoryvenster">
+<!ENTITY showDirectoryPane.accesskey                    "r">
+<!ENTITY showContactPane2.label                         "Contactvenster">
+<!ENTITY showContactPane2.accesskey                     "C">
+<!ENTITY menu_ShowNameAs.label                          "Naam tonen als">
 <!ENTITY menu_ShowNameAs.accesskey                      "N">
-<!ENTITY firstLastCmd.label                             "Voornaam, achternaam">
-<!ENTITY firstLastCmd.accesskey                         "V">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Voornaam achternaam">
+<!ENTITY firstLastCmd2.accesskey                        "V"> 
 <!ENTITY lastFirstCmd.label                             "Achternaam, voornaam">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Weergavenaam">
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "E-mail">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "Schermnaam">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "Chatnaam">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "Organisatie">
 <!ENTITY Company.accesskey                              "r">
 <!ENTITY NickName.label                                 "Bijnaam">
@@ -186,6 +198,7 @@
 <!ENTITY contact.heading                                "Contact">
 <!ENTITY home.heading                                   "Thuis">
 <!ENTITY other.heading                                  "Overig">
+<!ENTITY chat.heading                                   "Chat">
 <!ENTITY phone.heading                                  "Telefoon">
 <!ENTITY work.heading                                   "Werk">
 <!-- Special Box Headings, for mailing lists -->

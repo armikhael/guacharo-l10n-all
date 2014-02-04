@@ -36,8 +36,10 @@
 
 <!ENTITY window.title "පිළිබඳ:මානකරණය">
 
-<!ENTITY filterPrefs.label "පෙරහන:">
-<!ENTITY filterPrefs.accesskey "I">
+<!ENTITY searchPrefs.label "සෙවීම:">
+<!ENTITY searchPrefs.accesskey "r">
+<!ENTITY focusSearch.key "r">
+
 
 <!-- Columns -->
 <!ENTITY prefColumn.label "මනාප නමය">
@@ -62,9 +64,9 @@
 <!ENTITY reset.accesskey "R">
 <!ENTITY new.label "නව">
 <!ENTITY new.accesskey "N">
-<!ENTITY string.label "String">
+<!ENTITY string.label "අනුලකුණුවැල">
 <!ENTITY string.accesskey "S">
-<!ENTITY integer.label "Integer">
+<!ENTITY integer.label "පූර්ණාංක">
 <!ENTITY integer.accesskey "I">
 <!ENTITY boolean.label "බූලීය">
 <!ENTITY boolean.accesskey "B">
@@ -75,4 +77,3 @@
 <!ENTITY copyPref.key "C">
 <!ENTITY copyPref.label "පිටපත් කරන්න">
 <!ENTITY copyPref.accesskey "C">
-<!ENTITY focusFilter.key "f">

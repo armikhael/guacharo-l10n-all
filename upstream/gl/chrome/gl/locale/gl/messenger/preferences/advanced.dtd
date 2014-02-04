@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "Xeral">
 <!ENTITY itemDisplay.label       "Lectura e visualización">
 <!ENTITY itemUpdate.label        "Actualizar">
@@ -6,8 +10,18 @@
 
 <!-- General Settings -->
 
+<!ENTITY submitTelemetry.label         "Enviar os datos de rendemento">
+<!ENTITY submitTelemetry.accesskey     "t">
+<!ENTITY telemetryInfoLink.label       "Máis información sobre Telemetry">
 <!ENTITY enableGlodaSearch.label       "Activar indexador de mensaxes">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Desprazamento">
+<!ENTITY useAutoScroll.label           "Utilizar desprazamento automático">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Utilizar desprazamento suave">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Integración co sistema">
 <!ENTITY alwaysCheckDefault.label      "Sempre comprobar se &brandShortName; é o navegador predefinido no inicio">
 <!ENTITY alwaysCheckDefault.accesskey  "a">
@@ -53,16 +67,19 @@
 <!ENTITY enableAppUpdate.label          "&brandShortName;">
 <!ENTITY enableAppUpdate.accesskey      "h">
 <!ENTITY enableAddonsUpdate.label       "Complementos instalados">
-<!ENTITY enableAddonsUpdate.accesskey   "i">
-<!ENTITY whenUpdatesFound.label         "Cando se encontren actualizacións para &brandShortName;:">
+<!ENTITY enableAddonsUpdate.accesskey   "a">
+<!ENTITY whenUpdatesFound.label         "Cando se atopen actualizacións para &brandShortName;:">
 <!ENTITY modeAskMe.label                "Preguntarme que quero facer">
-<!ENTITY modeAskMe.accesskey            "P">
+<!ENTITY modeAskMe.accesskey            "m">
 <!ENTITY modeAutomatic.label            "Descargar e instalar automaticamente a actualización">
-<!ENTITY modeAutomatic.accesskey        "u">
+<!ENTITY modeAutomatic.accesskey        "d">
 <!ENTITY modeAutoAddonWarn.label        "Avisarme se supón a desactivación dalgún complemento">
-<!ENTITY modeAutoAddonWarn.accesskey    "d">
+<!ENTITY modeAutoAddonWarn.accesskey    "g">
 <!ENTITY showUpdates.label              "Mostrar o historial de actualizacións">
-<!ENTITY showUpdates.accesskey          "r">
+<!ENTITY showUpdates.accesskey          "s">
+
+<!ENTITY useService.label                "Usar un servizo en segundo plano para instalar as actualizacións">
+<!ENTITY useService.accesskey            "z">
 
 <!-- Networking and Disk Space -->
 <!ENTITY showSettings.label            "Configuración…">
@@ -74,10 +91,10 @@
 <!ENTITY showOffline.label             "Sen conexión…">
 <!ENTITY showOffline.accesskey         "S">
 
-<!ENTITY Diskspace "Espazo en disco">
-<!ENTITY offlineCompact.label "Compactar cartafoles ao liberar">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY mb.label "MB">
+<!ENTITY Diskspace                       "Espazo en disco">
+<!ENTITY offlineCompactFolders.label     "Compactar todos os cartafoles ao liberar">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB en total">
 
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Leabhar Seoltaí">
 <!-- File Menu -->
 
@@ -79,18 +83,26 @@
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenu.label "Barraí Uirlisí">
 <!ENTITY viewToolbarsMenu.accesskey "U">
+<!ENTITY menubarCmd.label "Barra Roghchláir">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showAbToolbarCmd.label "Barra na Leabhar Seoltaí">
 <!ENTITY showAbToolbarCmd.accesskey "o">
 <!ENTITY showTaskbarCmd.label "Barra Stádais">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Saincheap…">
 <!ENTITY customizeToolbar.accesskey "c">
-<!ENTITY showContactPane.label "Pána Achoimre Teagmhála">
-<!ENTITY showContactPane.accesskey "T">
+<!ENTITY layoutMenu.label "Leagan Amach">
+<!ENTITY layoutMenu.accesskey "L">
+<!ENTITY showDirectoryPane.label "Pána Eolaire">
+<!ENTITY showDirectoryPane.accesskey "E">
+<!ENTITY showContactPane2.label "Pána Teagmhálacha">
+<!ENTITY showContactPane2.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Taispeáin Ainm Mar">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Ainm, Sloinne">
-<!ENTITY firstLastCmd.accesskey "A">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label "Ainm Sloinne">
+<!ENTITY firstLastCmd2.accesskey "A">
 <!ENTITY lastFirstCmd.label "Sloinne, Ainm">
 <!ENTITY lastFirstCmd.accesskey "l">
 <!ENTITY displayNameCmd.label "Ainm Taispeána">
@@ -101,7 +113,7 @@
 
 <!ENTITY tasksMenu.label "Uirlisí">
 <!ENTITY tasksMenu.accesskey "U">
-<!ENTITY messengerCmd.label "Ríomhphost &amp; Grúpaí Nuachta">
+<!ENTITY messengerCmd.label "Ríomhphost agus Grúpaí Nuachta">
 <!ENTITY messengerCmd.accesskey "m">
 <!ENTITY messengerCmd.commandkey "1">
 <!ENTITY searchAddressesCmd.label "Cuardaigh Seoltaí…">
@@ -114,7 +126,7 @@
 <!ENTITY preferencesCmd.accesskey "R">
 <!ENTITY preferencesCmdUnix.label "Sainroghanna">
 <!ENTITY preferencesCmdUnix.accesskey "n">
-<!-- Address Book Toolbar and Context Menus -->  
+<!-- Address Book Toolbar and Context Menus -->
 
 <!ENTITY newContactButton.label "Teagmháil Nua">
 <!ENTITY newContactButton.accesskey "T">
@@ -152,9 +164,9 @@
 <!ENTITY GeneratedName.accesskey "n">
 <!ENTITY PrimaryEmail.label "Ríomhphost">
 <!ENTITY PrimaryEmail.accesskey "R">
-<!ENTITY ScreenName.label "Ainm Taispeána">
-<!ENTITY ScreenName.accesskey "s">
-<!ENTITY Company.label "Eagraíocht ">
+<!ENTITY ChatName.label "Ainm an Chomhrá">
+<!ENTITY ChatName.accesskey "C">
+<!ENTITY Company.label "Eagraíocht">
 <!ENTITY Company.accesskey "E">
 <!ENTITY NickName.label "Leasainm">
 <!ENTITY NickName.accesskey "i">
@@ -186,6 +198,7 @@
 <!ENTITY contact.heading "Teagmháil">
 <!ENTITY home.heading "Baile">
 <!ENTITY other.heading "Eile">
+<!ENTITY chat.heading "Comhrá">
 <!ENTITY phone.heading "Fón">
 <!ENTITY work.heading "Obair">
 <!-- Special Box Headings, for mailing lists -->

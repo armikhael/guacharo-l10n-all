@@ -1,7 +1,7 @@
 <!--
-# Translator(s):
+# Reviewer(s):
 #
-# secarica <orice@secarica.ro>
+# Alexandru Szasz <alexxed@gmail.com>
 #
 -->
 <!-- ***** BEGIN LICENSE BLOCK *****
@@ -42,7 +42,7 @@
    - ***** END LICENSE BLOCK ***** -->
 
 <!-- Window title -->
-<!ENTITY windowTitle.label "Inserează un tabel">
+<!ENTITY windowTitle.label "Inserare tabel">
 
 <!ENTITY size.label "Mărime">
 <!ENTITY numRowsEditField.label "Rânduri:">
@@ -55,5 +55,4 @@
 <!ENTITY borderEditField.accessKey "B">
 <!ENTITY borderEditField.tooltip "Tastați un număr pentru grosimea bordurii tabelului, sau zero (0) pentru tabel fără bordură">
 <!ENTITY pixels.label "pixeli">
-
 

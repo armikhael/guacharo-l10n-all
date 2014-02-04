@@ -1,11 +1,6 @@
-<!ENTITY accountTitle.label         "Konto sätted">
-<!ENTITY accountSettingsDesc.label  "See on eriline konto, millega ei ole seotud ühtegi identiteeti.">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label          "Konto nimi:">
 <!ENTITY accountName.accesskey      "n">
-<!ENTITY messageStorage.label       "Kirjade säilitamine">
-<!ENTITY emptyTrashOnExit.label     "Väljumisel tühjendatakse kustutatud kirjade kaust">
-<!ENTITY emptyTrashOnExit.accesskey "j">
-<!ENTITY localPath.label            "Kohalik kataloog:">
-<!ENTITY localFolderPicker.label    "Kohaliku kataloogi valimine">
-<!ENTITY browseFolder.label         "Lehitse...">
-<!ENTITY browseFolder.accesskey     "L">

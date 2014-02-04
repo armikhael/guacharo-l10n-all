@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 
 <!ENTITY accountTitle.label "Nastavení účtu">
@@ -11,6 +15,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "Adresa pro odpověď:">
 <!ENTITY replyTo.accesskey "A">
+<!ENTITY replyTo.placeholder "Příjemci budou odpovídat na tuto adresu">
 <!ENTITY organization.label "Společnost:">
 <!ENTITY organization.accesskey "S">
 <!ENTITY signatureText.label "Text podpisu:">

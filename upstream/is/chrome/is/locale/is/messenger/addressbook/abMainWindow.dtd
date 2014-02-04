@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Nafnaskrá">
 <!-- File Menu -->
 <!ENTITY fileMenu.label "Skrá">
@@ -78,19 +82,27 @@
 <!ENTITY viewToolbarsMenu.label "Verkfæraslár">
 <!ENTITY viewToolbarsMenu.accesskey "V">
  
+<!ENTITY menubarCmd.label "Valmynd">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showAbToolbarCmd.label "Nafnaskrá verkfæraslá">
 <!ENTITY showAbToolbarCmd.accesskey "N">
 <!ENTITY showTaskbarCmd.label "Stöðuslá">
 <!ENTITY showTaskbarCmd.accesskey "ö">
 <!ENTITY customizeToolbar.label "Sérsníða…">
 <!ENTITY customizeToolbar.accesskey "S">
-<!ENTITY showContactPane.label "Samantekt tengiliðs">
-<!ENTITY showContactPane.accesskey "S">
+<!ENTITY layoutMenu.label "Útlit">
+<!ENTITY layoutMenu.accesskey "l">
+<!ENTITY showDirectoryPane.label "Möppuflipi">
+<!ENTITY showDirectoryPane.accesskey "ö">
+<!ENTITY showContactPane2.label "Tengiliðaflipi">
+<!ENTITY showContactPane2.accesskey "T">
 <!ENTITY menu_ShowNameAs.label "Sýna nafn sem">
 <!ENTITY menu_ShowNameAs.accesskey "n">
  
-<!ENTITY firstLastCmd.label "Fornafn, eftirnafn">
-<!ENTITY firstLastCmd.accesskey "F">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label "Skírnarnafn eftirnafn">
+<!ENTITY firstLastCmd2.accesskey "f">
  
 <!ENTITY lastFirstCmd.label "Eftirnafn, fornafn">
 <!ENTITY lastFirstCmd.accesskey "E">
@@ -147,8 +159,8 @@
 <!ENTITY GeneratedName.accesskey "N">
 <!ENTITY PrimaryEmail.label "Tölvupóstur">
 <!ENTITY PrimaryEmail.accesskey "ö">
-<!ENTITY ScreenName.label "Skjáheiti">
-<!ENTITY ScreenName.accesskey "S">
+<!ENTITY ChatName.label "Nafn spjalls">
+<!ENTITY ChatName.accesskey "s">
 <!ENTITY Company.label "Fyrirtæki/Stofnun">
 <!ENTITY Company.accesskey "y">
 <!ENTITY NickName.label "Gælunafn">
@@ -180,6 +192,7 @@
 <!ENTITY contact.heading "Tengiliður">
 <!ENTITY home.heading "Heima">
 <!ENTITY other.heading "Annað">
+<!ENTITY chat.heading "Spjall">
 <!ENTITY phone.heading "Sími">
 <!ENTITY work.heading "Vinna">
 <!-- Special Box Headings, for mailing lists -->

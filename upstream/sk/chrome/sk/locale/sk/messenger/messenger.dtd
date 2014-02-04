@@ -1,4 +1,7 @@
-<!ENTITY messengerWindow.title "Pošta a diskusie">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY titledefault.label "&brandFullName;">
 <!ENTITY titleSeparator.label " - ">
 
@@ -23,8 +26,14 @@
 <!ENTITY newVirtualFolderCmd.accesskey "d">
 <!ENTITY newOtherAccountsCmd.label "Ďalšie účty…">
 <!ENTITY newOtherAccountsCmd.accesskey "a">
-<!ENTITY newEmailAccountCmd.label "Poštový účet…">
-<!ENTITY newEmailAccountCmd.accesskey "o">
+<!ENTITY newCreateEmailAccountCmd.label "Získať nový poštový účet…">
+<!ENTITY newCreateEmailAccountCmd.accesskey "Z">
+<!ENTITY newExistingEmailAccountCmd.label "Existujúci poštový účet…">
+<!ENTITY newExistingEmailAccountCmd.accesskey "E">
+<!ENTITY newIMAccountCmd.label "Účet pre konverzácie…">
+<!ENTITY newIMAccountCmd.accesskey "o">
+<!ENTITY newIMContactCmd.label "Kontakt pre konverzácie…">
+<!ENTITY newIMContactCmd.accesskey "v">
 <!ENTITY openMessageFileCmd.label "Otvoriť uložené správy…">
 <!ENTITY openMessageFileCmd.accesskey "O">
 <!ENTITY openAttachmentCmd.label "Prílohy">
@@ -119,6 +128,8 @@
 <!ENTITY redoDefaultCmd.accesskey "Z">
 
 <!-- View Menu -->
+<!ENTITY menubarCmd.label "Hlavná ponuka">
+<!ENTITY menubarCmd.accesskey "H">
 <!ENTITY showMessengerToolbarCmd.label "Panel nástrojov pošty">
 <!ENTITY showMessengerToolbarCmd.accesskey "n">
 <!ENTITY customizeToolbar.label "Prispôsobiť…">
@@ -132,6 +143,8 @@
 <!ENTITY messagePaneWide.accesskey "o">
 <!ENTITY messagePaneVertical.label "Zvislý pohľad">
 <!ENTITY messagePaneVertical.accesskey "Z">
+<!ENTITY showFolderPaneCmd.label "Panel priečinkov">
+<!ENTITY showFolderPaneCmd.accesskey "a">
 <!ENTITY showMessageCmd.label "Panel správy">
 <!ENTITY showMessageCmd.accesskey "P">
 
@@ -269,6 +282,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY pageSourceCmd.label "Zdrojový kód správy">
 <!ENTITY pageSourceCmd.accesskey "Z">
 <!ENTITY pageSourceCmd.key "u">
+<!ENTITY getNewMessagesCmd.key "y">
+<!ENTITY getAllNewMessagesCmd.key "Y">
 
 <!-- Search Menu -->
 <!ENTITY findMenu.label "Hľadať">
@@ -318,6 +333,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY goBackCmd.label "Naspäť">
 <!ENTITY goBackCmd.accesskey "s">
 <!ENTITY goBackCmd.commandKey "[">
+<!ENTITY goChatCmd.label "Konverzácie">
+<!ENTITY goChatCmd.accesskey "K">
+<!ENTITY goChatCmd.commandKey "C">
 <!ENTITY prevStarredMsgCmd.label "Správa s hviezdičkou">
 <!ENTITY prevStarredMsgCmd.accesskey "h">
 <!ENTITY folderMenu.label "Priečinok">
@@ -325,6 +343,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY thisFolder.label "Tento priečinok">
 <!ENTITY thisFolder.accesskey "T">
 <!ENTITY goRecentlyClosedTabs.label "Naposledy zatvorené karty">
+<!ENTITY goRecentlyClosedTabs.accesskey "a">
 <!ENTITY startPageCmd.label "Úvodná stránka">
 <!ENTITY startPageCmd.accesskey "v">
 
@@ -345,8 +364,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY replyMsgCmd.key "r">
 <!ENTITY replySenderCmd.label "Odpovedať odosielateľovi">
 <!ENTITY replySenderCmd.accesskey "d">
-<!ENTITY replyNewsgroupCmd.label "Odpovedať do diskusnej skupiny">
-<!ENTITY replyNewsgroupCmd.accesskey "O">
+<!ENTITY replyNewsgroupCmd2.label "Reagovať do diskusnej skupiny">
+<!ENTITY replyNewsgroupCmd2.accesskey  "o">
 <!ENTITY replyToAllMsgCmd.label "Odpovedať všetkým">
 <!ENTITY replyToAllMsgCmd.accesskey "m">
 <!ENTITY replyToAllMsgCmd.key "r">
@@ -460,6 +479,14 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY addons.accesskey "D">
 <!ENTITY activitymanager.label "Správca činností">
 <!ENTITY activitymanager.accesskey "v">
+<!ENTITY imAccountsStatus.label "Stav pre konverzácie">
+<!ENTITY imAccountsStatus.accesskey "z">
+<!ENTITY imStatus.available          "Prítomný">
+<!ENTITY imStatus.unavailable        "Neprítomný">
+<!ENTITY imStatus.offline            "Offline">
+<!ENTITY imStatus.showAccounts       "Zobraziť účty…">
+<!ENTITY joinChatCmd.label "Pripojiť sa ku konverzácii…">
+<!ENTITY joinChatCmd.accesskey "P">
 <!ENTITY savedFiles.label "Uložené súbory">
 <!ENTITY savedFiles.accesskey "e">
 <!ENTITY savedFiles.key "j">
@@ -479,6 +506,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY importCmd.accesskey "r">
 <!ENTITY errorConsoleCmd.label "Chybová konzola">
 <!ENTITY errorConsoleCmd.accesskey "C">
+<!ENTITY errorConsoleCmd.commandkey "j">
+<!ENTITY clearRecentHistory.label "Vymazať históriu…">
+<!ENTITY clearRecentHistory.accesskey "h">
 <!ENTITY accountManagerCmd.label "Nastavenie účtov…">
 <!ENTITY accountManagerCmd.accesskey "N">
 <!-- LOCALIZATION NOTE (accountManagerCmdUnix.accesskey): belongs to accountManagerCmd.label,
@@ -495,24 +525,32 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.label "Uložiť">
 <!ENTITY archiveButton.label "Archivovať">
 <!ENTITY nextButton.label "Ďalšia">
+<!ENTITY nextButtonToolbarItem.label "Ďalšie vlákno">
+<!ENTITY nextMsgButton.label "Ďalšia">
 <!ENTITY previousButton.label "Predchádzajúca">
+<!ENTITY previousButtonToolbarItem.label "Predchádzajúce vlákno">
+<!ENTITY previousMsgButton.label "Predchádzajúca">
 <!ENTITY backButton1.label "Prejsť naspäť">
 <!ENTITY goForwardButton1.label "Prejsť dopredu">
+<!ENTITY deleteItem.title "Odstrániť">
 <!ENTITY deleteButton.label "Odstrániť">
 <!ENTITY undeleteButton.label "Zrušiť odstránenie">
 <!ENTITY markButton.label "Označiť">
 <!ENTITY printButton.label "Tlačiť">
 <!ENTITY stopButton.label "Zastaviť">
 <!ENTITY throbberItem.title "Indikátor činnosti">
+<!ENTITY junkItem.title "Nevyžiadaná">
 <!ENTITY junkButton.label "Spam">
 <!ENTITY notJunkButton.label "Nie Spam">
 <!ENTITY addressBookButton.label "Adresár">
+<!ENTITY chatButton.label "Konverzácie">
 <!ENTITY glodaSearch.title "Globálne vyhľadávanie">
 <!ENTITY searchItem.title "Rýchle vyhľadávanie">
 <!ENTITY mailViewsToolbarItem.title "Zobrazenie e-mailov">
 <!ENTITY folderLocationToolbarItem.title "Umiestnenie priečinka">
 <!ENTITY tagButton.label "Popis">
 <!ENTITY compactButton.label "Vykonať údržbu">
+<!ENTITY appmenuButton.label "Hlavná ponuka">
 
 <!-- Mail Toolbar Tooltips-->
 <!ENTITY advancedButton.tooltip "Pokročilé hľadanie v správach">
@@ -527,7 +565,9 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY fileButton.tooltip "Uložiť označenú správu do súboru">
 <!ENTITY archiveButton.tooltip "Presunúť označené správy do archívu">
 <!ENTITY nextButton.tooltip "Presunúť sa na nasledujúcu neprečítanú správu">
+<!ENTITY nextMsgButton.tooltip "Presunúť sa na nasledujúcu správu">
 <!ENTITY previousButton.tooltip "Presunúť sa na predchádzajúcu neprečítanú správu">
+<!ENTITY previousMsgButton.tooltip "Presunúť sa na predchádzajúcu správu">
 <!ENTITY goForwardButton.tooltip "Prejsť o jednu správu dopredu">
 <!ENTITY goBackButton.tooltip "Prejsť o jednu správu naspäť">
 <!ENTITY deleteButton.tooltip "Odstrániť označenú správu alebo priečinok">
@@ -538,12 +578,23 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY junkButton.tooltip "Označiť vybrané správy ako nevyžiadané (SPAM)">
 <!ENTITY notJunkButton.tooltip "Označiť vybrané správy ako Nie Spam">
 <!ENTITY addressBookButton.tooltip "Otvoriť adresár">
+<!ENTITY chatButton.tooltip "Zobraziť kartu Konverzácie">
 <!ENTITY tagButton.tooltip "Priradiť k správe popis">
 <!ENTITY compactButton.tooltip "Odstrániť vymazané správy z označeného priečinka">
+<!ENTITY appmenuButton.tooltip "Zobrazí hlavnú ponuku aplikácie">
+
+<!-- AppMenu Popup -->
+<!ENTITY appmenuNewMsgCmd.label "Nová správa">
+<!ENTITY appmenuNewContactCmd.label "Kontakt adresára…">
+<!ENTITY appmenuEditMenu.label "Úpravy">
+<!ENTITY appmenuQFBMenu.label "Panel Rýchly filter">
+<!ENTITY appmenuToolbarLayout.label "Rozloženie panela nástrojov…">
 
 <!-- Tags Menu Popup -->
 <!ENTITY addNewTag.label "Nový popis…">
 <!ENTITY addNewTag.accesskey "N">
+<!ENTITY manageTags.label "Spravovať popisy…">
+<!ENTITY manageTags.accesskey "S">
 
 <!-- Folder Pane -->
 <!ENTITY folderColumn.label "Názov:">
@@ -582,8 +633,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY folderContextMarkMailFolderRead.accesskey "z">
 <!ENTITY folderContextSubscribe.label "Prihlásiť k odberu…">
 <!ENTITY folderContextSubscribe.accesskey "P">
-<!ENTITY folderContextSearchMessages.label "Hľadať v správach…">
-<!ENTITY folderContextSearchMessages.accesskey "H">
+<!ENTITY folderContextSearchForMessages.label "Hľadať v správach…">
+<!ENTITY folderContextSearchForMessages.accesskey "H">
 <!ENTITY folderContextProperties.label "Vlastnosti…">
 <!ENTITY folderContextProperties.accesskey "l">
 <!ENTITY folderContextFavoriteFolder.label "Priečinok Obľúbené">
@@ -663,8 +714,8 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextArchive.accesskey "h">
 <!ENTITY contextReplySender.label "Odpovedať odosielateľovi">
 <!ENTITY contextReplySender.accesskey "i">
-<!ENTITY contextReplyNewsgroup.label "Odpovedať do diskusnej skupiny">
-<!ENTITY contextReplyNewsgroup.accesskey "s">
+<!ENTITY contextReplyNewsgroup2.label "Reagovať do diskusnej skupiny">
+<!ENTITY contextReplyNewsgroup2.accesskey "s">
 <!ENTITY contextReplyAll.label "Odpovedať všetkým">
 <!ENTITY contextReplyAll.accesskey "v">
 <!ENTITY contextReplyList.label "Odpovedať zoznamu">
@@ -744,7 +795,7 @@ you can use these alternative items. Otherwise, their values should be empty.  -
 <!ENTITY contextUnmute.accesskey "m">
 
 <!-- Junk Bar -->
-<!ENTITY junkBarMessage1.label "Nevyžiadaná správa">
+<!ENTITY junkBarMessage2.label "&brandShortName; si myslí, že táto správa je nevyžiadaná.">
 <!ENTITY junkBarButton1.label "Nie je nevyžiadaná">
 <!ENTITY junkInfoButton.label "?">
 
@@ -770,28 +821,28 @@ you can use these alternative items. Otherwise, their values should be empty.  -
      not changed
      -->
 <!ENTITY quickSearchCmd.key "k">
-<!-- LOCALIZATION NOTE (searchAllMessages.label.base):
+<!-- LOCALIZATION NOTE (search.label.base):
      This is the base of the empty text for the global search box.  We replace
-     #1 with the contents of the appropriate
-     searchAllMessages.keyLabel2.* value for the platform.
+     #1 with the contents of the appropriate search.keyLabel.* value for the
+     platform.
      The goal is to convey to the user that typing in the box will allow them
      to search for messages globally and that there is a hotkey they can press
      to get to the box faster.  If the global indexer is disabled, the search
      box will be collapsed and the user will never see this message.
      -->
-<!ENTITY searchAllMessages.label.base "Prehľadávať všetky správy… #1">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.nonmac):
+<!ENTITY search.label.base "Hľadať… #1">
+<!-- LOCALIZATION NOTE (search.keyLabel.nonmac):
      The description of the key-binding to get into the global search box on
      windows and linux (which use the control key).  We use the key defined in
      the quickSearchCmd.key entity defined above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.nonmac "&lt;Ctrl+K&gt;">
-<!-- LOCALIZATION NOTE (searchAllMessages.keyLabel.mac):
+<!ENTITY search.keyLabel.nonmac "&lt;Ctrl+K&gt;">
+<!-- LOCALIZATION NOTE (search.keyLabel.mac):
      The description of the key-binding to get into the global search box on mac
      systems.  We use the key defined in the quickSearchCmd.key entity defined
      above, the letter should match it.
      -->
-<!ENTITY searchAllMessages.keyLabel2.mac "&lt;&#x2318;K&gt;">
+<!ENTITY search.keyLabel.mac "&lt;&#x2318;K&gt;">
 
 <!-- Message Header Context Menu -->
 <!ENTITY AddToAddressBook.label "Pridať do Adresára">

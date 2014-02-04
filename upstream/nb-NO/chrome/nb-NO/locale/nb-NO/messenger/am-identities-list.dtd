@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY identitiesListDesc.label "Støtte for flere identiteter">
 <!ENTITY identitiesListAdd.label  "Legg til …">
 <!ENTITY identitiesListAdd.accesskey  "L">
@@ -5,3 +9,5 @@
 <!ENTITY identitiesListEdit.accesskey "R">
 <!ENTITY identitiesListDelete.label "Slett">
 <!ENTITY identitiesListDelete.accesskey "S">
+<!ENTITY identitiesListClose.label "Lukk">
+<!ENTITY identitiesListClose.accesskey "u">

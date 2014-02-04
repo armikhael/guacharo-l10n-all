@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title "Rubrica">
 <!ENTITY fileMenu.label "File">
 <!ENTITY fileMenu.accesskey "f">
@@ -70,18 +74,24 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenu.label "Barre degli strumenti">
 <!ENTITY viewToolbarsMenu.accesskey "T">
+<!ENTITY menubarCmd.label "Barra del menu">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showAbToolbarCmd.label "Strumenti Rubrica">
 <!ENTITY showAbToolbarCmd.accesskey "R">
 <!ENTITY showTaskbarCmd.label "Barra di stato">
 <!ENTITY showTaskbarCmd.accesskey "S">
 <!ENTITY customizeToolbar.label "Personalizza…">
 <!ENTITY customizeToolbar.accesskey "P">
-<!ENTITY showContactPane.label "Anteprima contatto">
-<!ENTITY showContactPane.accesskey "C">
+<!ENTITY layoutMenu.label "Struttura">
+<!ENTITY layoutMenu.accesskey "S">
+<!ENTITY showDirectoryPane.label "Riquadro rubrica">
+<!ENTITY showDirectoryPane.accesskey "R">
+<!ENTITY showContactPane2.label "Riquadro contatti">
+<!ENTITY showContactPane2.accesskey "C">
 <!ENTITY menu_ShowNameAs.label "Mostra nomi come">
 <!ENTITY menu_ShowNameAs.accesskey "n">
-<!ENTITY firstLastCmd.label "Nome, Cognome">
-<!ENTITY firstLastCmd.accesskey "N">
+<!ENTITY firstLastCmd2.label "Nome Cognome">
+<!ENTITY firstLastCmd2.accesskey "N">
 <!ENTITY lastFirstCmd.label "Cognome, Nome">
 <!ENTITY lastFirstCmd.accesskey "C">
 <!ENTITY displayNameCmd.label "Nome visualizzato">
@@ -122,22 +132,22 @@
 <!ENTITY newIM.tooltip "Invia un messaggio istantaneo o avvia la chat">
 <!ENTITY deleteButton2.tooltip "Elimina gli oggetti selezionati">
 <!ENTITY dirTreeHeader.label "Rubriche">
-<!ENTITY SearchNameOrEmail.label "Nome o e-mail">
+<!ENTITY SearchNameOrEmail.label "Nome o email">
 <!ENTITY SearchNameOrEmail.accesskey "N">
 <!ENTITY advancedButton.tooltip "Ricerca avanzata">
 <!ENTITY quickSearchCmd.key "k">
 <!ENTITY searchItem.title "Ricerca veloce">
 <!ENTITY GeneratedName.label "Nome">
 <!ENTITY GeneratedName.accesskey "N">
-<!ENTITY PrimaryEmail.label "E-mail">
+<!ENTITY PrimaryEmail.label "Email">
 <!ENTITY PrimaryEmail.accesskey "m">
-<!ENTITY ScreenName.label "Nome Instant Messenger">
-<!ENTITY ScreenName.accesskey "g">
+<!ENTITY ChatName.label "Nome chat">
+<!ENTITY ChatName.accesskey "C">
 <!ENTITY Company.label "Organizzazione">
 <!ENTITY Company.accesskey "O">
 <!ENTITY NickName.label "Soprannome">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY SecondEmail.label "E-mail aggiuntiva">
+<!ENTITY SecondEmail.label "Email aggiuntiva">
 <!ENTITY SecondEmail.accesskey "I">
 <!ENTITY Department.label "Reparto">
 <!ENTITY Department.accesskey "r">
@@ -162,6 +172,7 @@
 <!ENTITY contact.heading "Contatto">
 <!ENTITY home.heading "Casa">
 <!ENTITY other.heading "Altro">
+<!ENTITY chat.heading "Chat">
 <!ENTITY phone.heading "Telefono">
 <!ENTITY work.heading "Lavoro">
 <!ENTITY description.heading "Descrizione">

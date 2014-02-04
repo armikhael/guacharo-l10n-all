@@ -1,5 +1,14 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addons.windowTitle                   "Lisade haldur">
+
 <!ENTITY search.placeholder                   "Otsi kõiki lisasid">
+<!-- LOCALIZATION NOTE (search.commandKey):
+     The search command key should match findOnCmd.commandkey from browser.dtd -->
+<!ENTITY search.commandkey                    "f">
+
 <!ENTITY loading.label                        "Laadimine…">
 <!ENTITY listEmpty.installed.label            "Ühtegi seda tüüpi lisa pole paigaldatud">
 <!ENTITY listEmpty.availableUpdates.label     "Uuendusi ei leitud">

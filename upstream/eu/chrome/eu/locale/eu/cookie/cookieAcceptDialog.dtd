@@ -1,10 +1,13 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY     props.name.label               "Izena:">
 <!ENTITY     props.value.label              "Edukia:">
 <!ENTITY     props.domain.label             "Ostalaria:">
 <!ENTITY     props.path.label               "Bidea:">
 <!ENTITY     props.secure.label             "Norentzat bidali:">
 <!ENTITY     props.expires.label            "Iraungitzea:">
-<!ENTITY     props.policy.label             "Politika:"> 
 
 <!ENTITY     button.allow.label             "Onartu">
 <!ENTITY     button.allow.accesskey         "a">

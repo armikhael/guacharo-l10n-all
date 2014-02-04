@@ -1,42 +1,6 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corp.
-   - Portions created by the Initial Developer are Copyright (C) 2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   David Bienvenu <bienvenu@netscape.com>
-   -   Mohan Bhamidipati <mohanb@netscape.com>
-   -   Lorenzo Colitti   <lorenzo@colitti.com>
-   -   Stefan Borggraefe <Stefan.Borggraefe@gmx.de>
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!ENTITY folderProps.windowtitle.label           "屬性">
 
@@ -45,7 +9,7 @@
 <!ENTITY folderCharsetTab.accesskey              "e">
 <!ENTITY folderCharsetOverride.label             "對此資料夾內所有郵件或文章套用預設值 (忽略 MIME 指定的字元集與自動偵測結果)">
 <!ENTITY folderCharsetOverride.accesskey         "A">
-<!ENTITY folderRebuildSummaryFileTip2.label      "重建摘要檔索引">
+<!ENTITY folderRebuildSummaryFileTip2.label      "重建摘要檔案索引">
 <!ENTITY folderRebuildSummaryFile2.label         "修復資料夾">
 <!ENTITY folderRebuildSummaryFile2.accesskey     "R">
 <!ENTITY folderRebuildSummaryFile.explanation    "有時資料夾索引（.msf）檔可能會毀損，有些郵件可能會突然消失；已經被刪除的郵件也可能持續存在。重建資料夾可能可以修正這些問題。">
@@ -57,8 +21,8 @@
 <!ENTITY retentionUseAccount.accesskey "U">
 <!ENTITY daysOld.label "天的郵件或文章">
 <!ENTITY message.label "封以外全部刪除">
-<!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，舊郵件或文章可以永遠刪除">
-<!ENTITY retentionCleanupImap.label "欲回復磁碟空間，可以同時永久刪除舊郵件的本機副本和遠端的原始郵件。">
+<!ENTITY retentionCleanup.label "為了減少佔用的磁碟空間，可以永遠刪除舊郵件或文章。">
+<!ENTITY retentionCleanupImap.label "欲回復磁碟空間，可以永久刪除舊郵件的本機副本和遠端的原始郵件。">
 <!ENTITY retentionCleanupPop.label "欲回復磁碟空間，可以永久刪除舊的郵件包括遠端伺服器上的那一份。">
 <!ENTITY retentionDeleteMsg.label "刪除存放超過">
 <!ENTITY retentionDeleteMsg.accesskey "m">
@@ -100,3 +64,11 @@
 <!ENTITY folderQuotaRoot.label                   "配額 (Quota) 根目錄:">
 <!ENTITY folderQuotaUsage.label                  "用量:">
 <!ENTITY folderQuotaStatus.label                 "狀態:">
+
+<!ENTITY numberOfMessages.label                  "訊息數量:">
+<!-- LOCALIZATION NOTE: When the number of messages can't be determined, this string is displayed as the number -->
+<!ENTITY numberUnknown.label                     "未知">
+<!ENTITY sizeOnDisk.label                        "在磁碟上的大小:">
+<!-- LOCALIZATION NOTE: When the size can't be determined, this string is displayed as the size -->
+<!ENTITY sizeUnknown.label                       "未知">
+

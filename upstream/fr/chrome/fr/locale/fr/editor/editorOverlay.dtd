@@ -1,89 +1,18 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1999-2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Sammy Ford
-   -   Blake Ross
-   -   Ryan Cassin (rcassin@supernova.org)
-   -   Daniel Glazman (glazman@netscape.com)
-   -   Stephen Donner (technutz@netscape.net)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Fichier">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Ouvrir un fichier…">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Ouvrir une page Web…">
-<!ENTITY openRemoteCmd.accesskey "W">
-<!ENTITY openRemoteCmd.key "L">
-<!ENTITY fileRecentMenu.label "Pages récentes">
-<!ENTITY fileRecentMenu.accesskey "r">
-<!ENTITY fileRevert.label "Revenir au dernier enregistrement">
-<!ENTITY fileRevert.accesskey "d">
-<!ENTITY saveCmd.label "Enregistrer">
-<!ENTITY saveCmd.accesskey "s">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Enregistrer sous…">
-<!ENTITY saveAsCmd.accesskey "u">
-
-<!ENTITY publishCmd.label "Publier">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publier comme…">
-<!ENTITY publishAsCmd.accesskey "i">
-<!ENTITY saveAsChangeEncodingCmd.label "Enregistrer en modifiant l'encodage de caractères…">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "r">
-<!ENTITY printSetupCmd.label "Mise en page…">
-<!ENTITY printSetupCmd.accesskey "p">
-<!ENTITY printCmd.label "Imprimer…">
-<!ENTITY printCmd.accesskey "I">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Édition">
-<!ENTITY editMenu.accesskey "n">
 <!ENTITY pasteNoFormatting.label "Coller sans mise en forme">
 <!ENTITY pasteNoFormatting.accesskey "s">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Coller comme">
 <!ENTITY pasteAs.accesskey "c">
-<!ENTITY publishSettings.label "Paramètres de publication des sites…">
-<!ENTITY publishSettings.accesskey "b">
 
 <!ENTITY pasteAsQuotationCmd.label "Coller comme une citation">
 <!ENTITY pasteAsQuotationCmd.accesskey "i">
@@ -91,7 +20,7 @@
 <!ENTITY findCmd.label "Rechercher…">
 <!ENTITY enableInlineSpellChecker.label "Vérifier l'orthographe pendant la saisie">
 <!ENTITY enableInlineSpellChecker.accesskey "A">
-<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe">
+<!ENTITY checkSpellingCmd2.label "Vérifier l'orthographe…">
 <!ENTITY checkSpellingCmd2.accesskey "o">
 <!ENTITY checkSpellingCmd2.key "p">
 
@@ -117,11 +46,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "S">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Pas de suggestion)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorer le mot">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Ajouter au dictionnaire">
-<!ENTITY spellCheckAddToDictionary.accesskey "n">
 <!ENTITY createLinkCmd.label "Créer un lien…">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Modifier le lien dans un nouveau Composeur">
@@ -216,7 +140,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Effacer les ancres nommées">
 <!ENTITY formatRemoveNamedAnchors.accesskey "E">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "R">
 
 <!ENTITY paragraphMenu.label "Paragraphe">
 <!ENTITY paragraphMenu.accesskey "P">
@@ -359,12 +283,6 @@
 <!-- toolbar-only items -->
 <!ENTITY menuBar.tooltip "Barre de menu">
 <!ENTITY formatToolbar.tooltip "Barre d'outils de mise en forme">
-<!ENTITY newToolbarCmd.label "Nouveau">
-<!ENTITY newToolbarCmd.tooltip "Créer une nouvelle page">
-<!ENTITY openToolbarCmd.label "Ouvrir">
-<!ENTITY openToolbarCmd.tooltip "Ouvrir un fichier">
-<!ENTITY saveToolbarCmd.tooltip "Enregistrer le fichier">
-<!ENTITY publishToolbarCmd.tooltip "Envoyer le fichier à une adresse distante">
 <!ENTITY cutToolbarCmd.tooltip "Couper">
 <!ENTITY copyToolbarCmd.tooltip "Copier">
 <!ENTITY pasteToolbarCmd.tooltip "Coller">

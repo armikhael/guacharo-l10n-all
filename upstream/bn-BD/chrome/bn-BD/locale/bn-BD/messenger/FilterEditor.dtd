@@ -39,3 +39,16 @@
 <!ENTITY ignoreSubthread.label "সাবথ্রেড উপেক্ষা করা হবে">
 <!ENTITY watchThread.label "থ্রেড পর্যবেক্ষণ করা হবে">
 <!ENTITY stopExecution.label "পরিশোধক চালানো থামানো হবে">
+
+
+<!ENTITY addAction.tooltip "Add a new action">
+<!ENTITY filterActionTargetFlexValue "4">
+
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY markMessageUnread.label "Mark As Unread">
+<!ENTITY removeAction.tooltip "Remove this action">

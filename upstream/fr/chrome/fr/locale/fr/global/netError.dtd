@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY loadError.label "Erreur de chargement de la page">
 <!ENTITY retry.label "Réessayer">
 
@@ -76,6 +80,16 @@ pendant le transfert d'informations. Veuillez réessayer.</p>
   ou votre fournisseur d'accès à Internet pour obtenir de l'aide.</li>
 </ul>
 ">
+
+<!ENTITY notCached.title "Le document est expiré">
+<!ENTITY notCached.longDesc "
+<p>Le document demandé n'est pas disponible dans le cache du navigateur.</p>
+<ul>
+  <li>Pour des raisons de sécurité, le navigateur ne redemande pas automatiquement les documents sensibles.</li>
+  <li>Cliquer sur « Essayer à nouveau » pour redemander le document à partir du site Web.</li>
+</ul>
+">
+
 
 <!ENTITY netOffline.title "Mode hors connexion">
 

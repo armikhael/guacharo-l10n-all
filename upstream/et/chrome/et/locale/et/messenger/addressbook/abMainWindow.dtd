@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title            "Aadressiraamat">
 
 <!-- File Menu -->
@@ -79,18 +83,26 @@
 <!ENTITY viewMenu.accesskey                 "V">
 <!ENTITY viewToolbarsMenu.label             "Tööriistaribad">
 <!ENTITY viewToolbarsMenu.accesskey         "T">
+<!ENTITY menubarCmd.label                   "Menüüriba">
+<!ENTITY menubarCmd.accesskey               "M">
 <!ENTITY showAbToolbarCmd.label             "Aadressiraamatu riba">
 <!ENTITY showAbToolbarCmd.accesskey         "A">
 <!ENTITY showTaskbarCmd.label               "Olekuriba">
 <!ENTITY showTaskbarCmd.accesskey           "l">
 <!ENTITY customizeToolbar.label             "Kohanda...">
 <!ENTITY customizeToolbar.accesskey         "K">
-<!ENTITY showContactPane.label              "Kontakti kokkuvõtte paneel">
-<!ENTITY showContactPane.accesskey          "K">
+<!ENTITY layoutMenu.label                   "Paigutus">
+<!ENTITY layoutMenu.accesskey               "i">
+<!ENTITY showDirectoryPane.label            "Kataloogide paneel">
+<!ENTITY showDirectoryPane.accesskey        "o">
+<!ENTITY showContactPane2.label             "Kontakti paneel">
+<!ENTITY showContactPane2.accesskey         "K">
 <!ENTITY menu_ShowNameAs.label              "Nime kuju">
 <!ENTITY menu_ShowNameAs.accesskey          "N">
-<!ENTITY firstLastCmd.label                 "Eesnimi, perekonnanimi">
-<!ENTITY firstLastCmd.accesskey             "E">
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                "Eesnimi perekonnanimi">
+<!ENTITY firstLastCmd2.accesskey            "E">
 <!ENTITY lastFirstCmd.label                 "Perekonnanimi, eesnimi">
 <!ENTITY lastFirstCmd.accesskey             "P">
 <!ENTITY displayNameCmd.label               "Kuvatav nimi">
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey            "N">
 <!ENTITY PrimaryEmail.label                 "E-post">
 <!ENTITY PrimaryEmail.accesskey             "E">
-<!ENTITY ScreenName.label                   "Kuvatav nimi">
-<!ENTITY ScreenName.accesskey               "v">
+<!ENTITY ChatName.label                     "Nimi kiirsuhtluses">
+<!ENTITY ChatName.accesskey                 "i">
 <!ENTITY Company.label                      "Organisatsioon">
 <!ENTITY Company.accesskey                  "O">
 <!ENTITY NickName.label                     "Hüüdnimi">
@@ -186,6 +198,7 @@
 <!ENTITY contact.heading                    "Kontakt">
 <!ENTITY home.heading                       "Kodu">
 <!ENTITY other.heading                      "Muu">
+<!ENTITY chat.heading                       "Kiirsuhtlus">
 <!ENTITY phone.heading                      "Telefon">
 <!ENTITY work.heading                       "Töö">
 <!-- Special Box Headings, for mailing lists -->

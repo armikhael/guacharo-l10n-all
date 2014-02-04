@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY systemIntegration.title  "系統整合">
 <!ENTITY defaultClient.intro  "使用 &brandShortName; 作為預設用戶端:">
 
@@ -10,3 +14,4 @@
 
 <!ENTITY searchIntegration.label "允許 &searchIntegration.engineName; 搜尋郵件">
 <!ENTITY searchIntegration.accesskey "s">
+

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label       "General">
 <!ENTITY itemDisplay.label       "Lectura i visualització">
 <!ENTITY itemUpdate.label        "Actualització">
@@ -6,8 +10,18 @@
 <!-- General Settings -->
 
 
+<!ENTITY submitTelemetry.label         "Envia dades del rendiment ">
+<!ENTITY submitTelemetry.accesskey     "r">
+<!ENTITY telemetryInfoLink.label       "Més informació sobre el Telemetry">
 <!ENTITY enableGlodaSearch.label       "Habilita el cercador i indexador de missatges">
 <!ENTITY enableGlodaSearch.accesskey   "i">
+
+<!ENTITY scrolling.label               "Desplaçament">
+<!ENTITY useAutoScroll.label           "Utilitza el desplaçament automàtic">
+<!ENTITY useAutoScroll.accesskey       "U">
+<!ENTITY useSmoothScrolling.label      "Utilitza el desplaçament suau">
+<!ENTITY useSmoothScrolling.accesskey  "m">
+
 <!ENTITY systemIntegration.label       "Integració amb el sistema">
 <!ENTITY alwaysCheckDefault.label      "A l'inici, comprova sempre si el &brandShortName; és el client de correu per defecte">
 <!ENTITY alwaysCheckDefault.accesskey  "l">
@@ -63,6 +77,9 @@
 <!ENTITY modeAutoAddonWarn.accesskey    "v">
 <!ENTITY showUpdates.label              "Mostra l'historial d'actualització">
 <!ENTITY showUpdates.accesskey          "u">
+
+<!ENTITY useService.label                "Utilitzeu un servei en segon pla per instal·lar les actualitzacions.">
+<!ENTITY useService.accesskey            "p">
 <!-- Networking and Disk Space -->
 
 <!ENTITY showSettings.label            "Paràmetres…">
@@ -74,10 +91,10 @@
 <!ENTITY showOffline.label             "Fora de línia…">
 <!ENTITY showOffline.accesskey         "o">
 
-<!ENTITY Diskspace "Espai de disc">
-<!ENTITY offlineCompact.label "Compacta les carpetes quan l'estalvi sigui superior a">
-<!ENTITY offlineCompact.accesskey "C">
-<!ENTITY mb.label "Mb">
+<!ENTITY Diskspace                       "Espai de disc">
+<!ENTITY offlineCompactFolders.label     "Compacta totes les carpetes quan es desarà">
+<!ENTITY offlineCompactFolders.accesskey "a">
+<!ENTITY offlineCompactFoldersMB.label   "MB en total">
 <!-- LOCALIZATION NOTE:
   The entities useCacheBefore.label and useCacheAfter.label appear on a single
   line in preferences as follows:

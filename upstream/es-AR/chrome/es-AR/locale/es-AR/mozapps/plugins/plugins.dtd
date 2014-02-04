@@ -20,7 +20,20 @@
 <!ENTITY pluginWizard.finalPage.moreInfo.label "Ver más información sobre plugins o buscar manualmente los plugins faltantes.">
 <!ENTITY pluginWizard.finalPage.restart.label "&brandShortName; necesita reiniciarse para que funcionen los plugins.">
   
-<!ENTITY missingPlugin                                       "Se necesita un pluin para mostrar este contenido.">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.pre): Mobile only. Flash (the only plugin available on mobile)
+     is not supported on some devices. Include a trailing space as needed. -->
+<!ENTITY unsupportedPlatform.pre                             "Lo sentimos, pero &brandShortName; no puede reproducir Flash en este dispositivo. ">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.learnMore): Mobile only. This text is used to link to a SUMO page explaining why Flash is not
+     supported on this device. Use the unicode ellipsis char, \u2026, or use "..." if \u2026 doesn't suit traditions in your locale. -->
+<!ENTITY unsupportedPlatform.learnMore                       "Conocer más…">
+<!-- LOCALIZATION NOTE (unsupportedPlatform.post): Mobile only. Include text here if needed for your locale. -->
+<!ENTITY unsupportedPlatform.post                            "">
+
+<!ENTITY missingPlugin                                       "Se necesita un plugin para mostrar este contenido.">
+<!-- LOCALIZATION NOTE (tapToPlayPlugin): Mobile (used for touch interfaces) only has one type of plugin possible. -->
+<!ENTITY tapToPlayPlugin                                     "Pulsá aquí para activar el plugin.">
+<!ENTITY clickToPlayPlugin                                   "Clic aquí para activar el plugin.">
+<!ENTITY checkForUpdates                                     "Buscar actualizaciones…">
 <!ENTITY disabledPlugin                                      "Este plugin ha sido deshabilitado.">
 <!ENTITY blockedPlugin.label                                 "Este plugin ha sido bloqueado para su protección.">
 
@@ -33,9 +46,8 @@
 <!ENTITY reloadPlugin.pre                                    "">
 <!ENTITY reloadPlugin.middle                                 "Recargar la página">
 <!ENTITY reloadPlugin.post                                   " para intentar nuevamente.">
-
 <!-- LOCALIZATION NOTE (report.please): This and the other report.* strings should be as short as possible, ideally 2-3 words. -->
-<!ENTITY report.please                                       "Enviar informe de problema">
+<!ENTITY report.please                                       "Enviar informe de fallos">
 <!ENTITY report.submitting                                   "Enviando informe…">
 <!ENTITY report.submitted                                    "Informe de problema enviado.">
 <!ENTITY report.disabled                                     "Informe de problemas deshabilitado.">

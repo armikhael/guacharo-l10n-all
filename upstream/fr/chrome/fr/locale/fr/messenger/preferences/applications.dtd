@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  typeColumn.label            "Type de contenu">
 <!ENTITY  typeColumn.accesskey        "T">
 
@@ -17,3 +21,18 @@
 <!ENTITY chooseFolderWin.accesskey    "P">
 <!ENTITY chooseFolderMac.label        "Choisir…">
 <!ENTITY chooseFolderMac.accesskey    "C">
+
+<!ENTITY attachments.incoming.label   "Entrant">
+<!ENTITY attachments.outgoing.label   "Sortant">
+
+<!ENTITY addCloudFileAccount.label        "Ajouter">
+<!ENTITY addCloudFileAccount.accesskey    "A">
+<!ENTITY addCloudFileAccount.description  "Ajouter un nouveau service de stockage en ligne">
+<!ENTITY removeCloudFileAccount.label     "Supprimer">
+<!ENTITY removeCloudFileAccount.accesskey "S">
+<!ENTITY authRequired.description         "Votre autorisation est nécessaire pour afficher les paramètres de ce service de stockage.">
+<!ENTITY authRequired.button.label        "Autoriser">
+<!ENTITY authRequired.button.accesskey    "u">
+
+<!ENTITY enableCloudFileAccountOffer.label "Offre pour partager des fichiers plus gros que">
+<!ENTITY enableCloudFileAccountOffer.mb "Mo">

@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- main UI for message composition -->
 <!ENTITY msgComposeWindow.title  "Tworzenie: (bez tematu)">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey    "c">
 <!ENTITY attachFileCmd.label     "Plik…">
 <!ENTITY attachFileCmd.accesskey "l">
+<!ENTITY attachFileCmd.key       "A">
+<!ENTITY attachCloudCmd.label "Odnośnik do serwisu przechowywania plików">
+<!ENTITY attachCloudCmd.accesskey "d">
 <!ENTITY attachPageCmd.label     "Stronę WWW…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label        "Wizytówkę">
@@ -71,6 +78,8 @@
 <!ENTITY editRewrapCmd.key        "R">
 <!ENTITY deleteCmd.label          "Usuń">
 <!ENTITY deleteCmd.accesskey      "U">
+<!ENTITY renameAttachmentCmd.label     "Zmień nazwę załącznika…">
+<!ENTITY renameAttachmentCmd.accesskey "w">
 <!ENTITY selectAllCmd.label       "Zaznacz wszystko">
 <!ENTITY selectAllCmd.accesskey   "a">
 <!ENTITY selectAllCmd.key         "A">
@@ -91,6 +100,8 @@
 <!ENTITY viewMenu.accesskey                  "W">
 <!ENTITY viewToolbarsMenuNew.label           "Paski narzędzi">
 <!ENTITY viewToolbarsMenuNew.accesskey       "n">
+<!ENTITY menubarCmd.label                    "Pasek menu">
+<!ENTITY menubarCmd.accesskey                "m">
 <!ENTITY showCompositionToolbarCmd.label     "Pasek narzędzi poczty">
 <!ENTITY showCompositionToolbarCmd.accesskey "P">
 <!ENTITY showFormattingBarCmd.label          "Pasek narzędzi formatowania">
@@ -258,6 +269,14 @@
 <!ENTITY selectAll.accesskey        "w">
 <!ENTITY attachFile.label           "Załącz plik">
 <!ENTITY attachFile.accesskey       "p">
+<!ENTITY attachCloud.label "Odnośnik do serwisu przechowywania plików…">
+<!ENTITY attachCloud.accesskey "d">
+<!ENTITY convertCloud.label "Przekształć…">
+<!ENTITY convertCloud.accesskey "r">
+<!ENTITY cancelUpload.label "Anuluj wgrywanie">
+<!ENTITY cancelUpload.accesskey "A">
+<!ENTITY convertRegularAttachment.label "Zwykły załącznik">
+<!ENTITY convertRegularAttachment.accesskey "Z">
 <!ENTITY attachPage.label           "Załącz stronę WWW…">
 <!ENTITY attachPage.accesskey       "W">
 

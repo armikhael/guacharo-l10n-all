@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--
 # Translator(s):
 #
@@ -11,7 +15,7 @@
 <!ENTITY itemCookies.label       "תוכן רשת">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל ייחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
+<!ENTITY junkMail.intro "קבע את הגדרות ברירת המחדל שלך לדואר זבל. הגדרות דואר זבל יחודיות לכל חשבון ניתנות להגדרה בהגדרות החשבון.">
 <!ENTITY manualMark.label "כאשר אני מסמן הודעות כזבל:">
 <!ENTITY manualMark.accesskey "ז">
 <!ENTITY manualMarkModeMove.label "העבר לתיקיית &quot;דואר זבל&quot; של החשבון">
@@ -51,9 +55,9 @@
 
 <!-- Cookies -->
 <!ENTITY cookies.intro                  "&brandShortName; מאפשר לך לקבוע איזה בלוגים, הזנות חדשות ואתרים אחרים מורשים להגדיר עוגיות.">
-<!ENTITY acceptCookies.label            "קבל עוגיות מאתרים">
-<!ENTITY acceptCookies.accesskey        "ע">
-<!ENTITY keepUntil.label                "שמור עד ש:">
+<!ENTITY acceptCookies.label            "קבלת עוגיות מאתרים">
+<!ENTITY acceptCookies.accesskey        "ק">
+<!ENTITY keepUntil.label                "שמירה עד ש:">
 <!ENTITY keepUntil.accesskey            "מ">
 <!ENTITY expire.label                   "הן פגות">
 <!ENTITY close.label                    "אני סוגר את &brandShortName;">
@@ -65,3 +69,9 @@
 
 
 
+<!ENTITY doNotTrack.accesskey           "d">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Tell web sites I do not want to be tracked">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "Enable adaptive junk filter logging">

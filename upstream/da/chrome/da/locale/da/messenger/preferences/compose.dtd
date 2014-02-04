@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemGeneral.label "Generelt">
 <!ENTITY itemAutoComplete.label "Adressering">
 <!ENTITY itemSpellCheck.label "Stavekontrol">
@@ -33,7 +37,7 @@
 <!ENTITY autoSave.label "Gem automatisk hvert">
 <!ENTITY autoSave.accesskey "m">
 <!ENTITY autoSaveEnd.label "minut">
-<!ENTITY emailCollectionPicker.label "Tilføj mailadresser i:">
+<!ENTITY emailCollectionPicker.label "Tilføj automatisk modtageres mailadresser i:">
 <!ENTITY emailCollectionPicker.accesskey "A">
 <!ENTITY addressingTitle.label "Autofuldførelse for adresser">
 <!ENTITY autocompleteText.label "Søg efter adresser i:">

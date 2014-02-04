@@ -1,0 +1,6 @@
+<!ENTITY adaptiveJunkLog.title "Logg for uynsket e-post">
+<!ENTITY adaptiveJunkLogInfo.label "Logg for adaptiv behandling av uynsket e-post.">
+<!ENTITY clearLog.label "Tøm logg">
+<!ENTITY clearLog.accesskey "T">
+<!ENTITY closeLog.label "Lat att">
+<!ENTITY closeLog.accesskey "L">

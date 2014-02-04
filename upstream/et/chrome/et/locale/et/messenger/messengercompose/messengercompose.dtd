@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title              "Kirja koostamine: (teema puudub)">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey                "L">
 <!ENTITY attachFileCmd.label                 "Fail(id)...">
 <!ENTITY attachFileCmd.accesskey             "F">
+<!ENTITY attachFileCmd.key                   "A">
+<!ENTITY attachCloudCmd.label                "Fail(id) kasutades teenust">
+<!ENTITY attachCloudCmd.accesskey            "i">
 <!ENTITY attachPageCmd.label                 "Veebileht...">
 <!ENTITY attachPageCmd.accesskey             "e">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,11 +74,13 @@
 <!ENTITY pasteCmd.accesskey                  "A">
 <!ENTITY pasteNoFormattingCmd.key            "V">
 <!ENTITY pasteAsQuotationCmd.key             "o">
-<!ENTITY editRewrapCmd.label                 "Teisenda tavatekstiks">
-<!ENTITY editRewrapCmd.key                   "R">
 <!ENTITY editRewrapCmd.accesskey             "T">
 <!ENTITY deleteCmd.label                     "Kustuta">
 <!ENTITY deleteCmd.accesskey                 "u">
+<!ENTITY editRewrapCmd.label                 "Teisenda tavatekstiks">
+<!ENTITY editRewrapCmd.key                   "R">
+<!ENTITY renameAttachmentCmd.label           "Nimeta manus ümber…">
+<!ENTITY renameAttachmentCmd.accesskey       "e">
 <!ENTITY selectAllCmd.label                  "Vali kõik">
 <!ENTITY selectAllCmd.key                    "A">
 <!ENTITY selectAllCmd.accesskey              "i">
@@ -92,7 +101,9 @@
 <!ENTITY viewMenu.accesskey                  "V">
 <!ENTITY viewToolbarsMenuNew.label           "Tööriistaribad">
 <!ENTITY viewToolbarsMenuNew.accesskey       "T">
-<!ENTITY showCompositionToolbarCmd.label     "Koostamise tööriistariba">
+<!ENTITY menubarCmd.label                    "Menüüriba">
+<!ENTITY menubarCmd.accesskey                "M">
+<!ENTITY showCompositionToolbarCmd.label     "Koostamisriba">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label          "Vorminguriba">
 <!ENTITY showFormattingBarCmd.accesskey      "V">
@@ -263,8 +274,16 @@
 <!ENTITY renameAttachment.accesskey          "N">
 <!ENTITY selectAll.label                     "Vali kõik">
 <!ENTITY selectAll.accesskey                 "l">
-<!ENTITY attachFile.label                    "Lisa manus(ed)...">
+<!ENTITY attachFile.label                    "Lisa fail(id)...">
 <!ENTITY attachFile.accesskey                "i">
+<!ENTITY attachCloud.label                   "Lisa fail(id) kasutades teenust…">
+<!ENTITY attachCloud.accesskey               "k">
+<!ENTITY convertCloud.label                  "Liiguta pilve või pilvest tavaliseks manuseks…">
+<!ENTITY convertCloud.accesskey              "p">
+<!ENTITY cancelUpload.label                  "Katkesta üleslaadimine">
+<!ENTITY cancelUpload.accesskey              "t">
+<!ENTITY convertRegularAttachment.label      "Tavaline manus">
+<!ENTITY convertRegularAttachment.accesskey  "v">
 <!ENTITY attachPage.label                    "Lisa veebileht...">
 <!ENTITY attachPage.accesskey                "S">
 

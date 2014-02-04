@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Regole del filtro">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Nome del filtro:">
@@ -22,7 +26,8 @@
 <!ENTITY copyMessage.label "Copia il messaggio in">
 <!ENTITY forwardTo.label "Inoltra il messaggio a">
 <!ENTITY replyWithTemplate.label "Rispondi con un modello">
-<!ENTITY markMessageRead.label "Segna il messaggio come già letto">
+<!ENTITY markMessageRead.label "Segna come già letto">
+<!ENTITY markMessageUnread.label "Segna come non letto">
 <!ENTITY markMessageStarred.label "Aggiungi a Speciali">
 <!ENTITY setPriority.label "Imposta priorità a">
 <!ENTITY addTag.label "Etichetta il messaggio">
@@ -34,3 +39,7 @@
 <!ENTITY ignoreSubthread.label "Ignora le sotto discussioni">
 <!ENTITY watchThread.label "Tieni d'occhio la discussione">
 <!ENTITY stopExecution.label "Interrompi l'esecuzione dei filtri">
+<!ENTITY addAction.tooltip "Aggiungere una nuova azione">
+<!ENTITY removeAction.tooltip "Elimina questa azione">
+<!ENTITY filterActionTypeFlexValue "1">
+<!ENTITY filterActionTargetFlexValue "4">

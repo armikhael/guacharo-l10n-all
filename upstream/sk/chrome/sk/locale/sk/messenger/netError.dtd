@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY % brandDTD SYSTEM "chrome://branding/locale/brand.dtd">
 %brandDTD;
 
@@ -19,7 +23,7 @@
     <strong>ww</strong>.priklad.com namiesto
     <strong>www</strong>.priklad.com</li>
   <li>Ak sa nedá načítať žiadna stránka, skontrolujte pripojenie počítača k sieti.</li>
-  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, či má &brandShortName; povolený prístup k webu.</li>
+  <li>Ak sú počítač alebo sieť chránené bránou firewall alebo serverom proxy, uistite sa, že &brandShortName; má povolený prístup k webu.</li>
 </ul>
 ">
 
@@ -47,6 +51,9 @@
 
 <!ENTITY netInterrupt.title "Pripojenie bolo prerušené">
 <!ENTITY netInterrupt.longDesc "&sharedLongDesc;">
+
+<!ENTITY notCached.title "Platnosť dokumentu vypršala">
+<!ENTITY notCached.longDesc "<p>Požadovaný dokument sa vo vyrovnávacej pamäti nenachádza.</p><ul><li>Z bezpečnostných dôvodov program automaticky nežiada o opätovné načítanie citlivých dokumentov.</li><li>Kliknutím na tlačidlo Skúsiť znova požiadate o opätovné načítanie dokumentu.</li></ul>">
 
 <!ENTITY netOffline.title "Režim offline">
 <!ENTITY netOffline.longDesc2 "

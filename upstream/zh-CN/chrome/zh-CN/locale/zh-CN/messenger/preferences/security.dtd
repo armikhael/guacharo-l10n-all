@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "垃圾">
 <!ENTITY itemPhishing.label      "电子邮件欺诈">
 <!ENTITY itemPasswords.label     "密码">
@@ -15,8 +19,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "将垃圾消息自动标记为已读">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "启用垃圾过滤日志">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "启用自适应垃圾邮件过滤日志">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "显示日志">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "重置训练数据">
@@ -58,3 +62,6 @@
 <!ENTITY showCookies.label              "显示 Cookie…">
 <!ENTITY showCookies.accesskey          "S">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "告诉网站我不想被追踪">
+<!ENTITY doNotTrack.accesskey           "d">

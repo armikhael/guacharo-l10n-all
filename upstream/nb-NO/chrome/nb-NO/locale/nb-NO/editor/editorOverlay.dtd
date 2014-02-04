@@ -1,89 +1,18 @@
-<!-- ***** BEGIN LICENSE BLOCK *****
-   - Version: MPL 1.1/GPL 2.0/LGPL 2.1
-   -
-   - The contents of this file are subject to the Mozilla Public License Version
-   - 1.1 (the "License"); you may not use this file except in compliance with
-   - the License. You may obtain a copy of the License at
-   - http://www.mozilla.org/MPL/
-   -
-   - Software distributed under the License is distributed on an "AS IS" basis,
-   - WITHOUT WARRANTY OF ANY KIND, either express or implied. See the License
-   - for the specific language governing rights and limitations under the
-   - License.
-   -
-   - The Original Code is Mozilla Communicator client code, released
-   - March 31, 1998.
-   -
-   - The Initial Developer of the Original Code is
-   - Netscape Communications Corporation.
-   - Portions created by the Initial Developer are Copyright (C) 1999-2000
-   - the Initial Developer. All Rights Reserved.
-   -
-   - Contributor(s):
-   -   Sammy Ford
-   -   Blake Ross
-   -   Ryan Cassin (rcassin@supernova.org)
-   -   Daniel Glazman (glazman@netscape.com)
-   -   Stephen Donner (technutz@netscape.net)
-   -
-   - Alternatively, the contents of this file may be used under the terms of
-   - either of the GNU General Public License Version 2 or later (the "GPL"),
-   - or the GNU Lesser General Public License Version 2.1 or later (the "LGPL"),
-   - in which case the provisions of the GPL or the LGPL are applicable instead
-   - of those above. If you wish to allow use of your version of this file only
-   - under the terms of either the GPL or the LGPL, and not to allow others to
-   - use your version of this file under the terms of the MPL, indicate your
-   - decision by deleting the provisions above and replace them with the notice
-   - and other provisions required by the GPL or the LGPL. If you do not delete
-   - the provisions above, a recipient may use your version of this file under
-   - the terms of any one of the MPL, the GPL or the LGPL.
-   -
-   - ***** END LICENSE BLOCK ***** -->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
 
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Fil">
-<!ENTITY fileMenu.accesskey "F">
-<!ENTITY openFileCmd.label "Åpne fil …">
-<!ENTITY openFileCmd.accesskey "Å">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Åpne nettadresse …">
-<!ENTITY openRemoteCmd.accesskey "n">
-<!ENTITY openRemoteCmd.key "l">
-<!ENTITY fileRecentMenu.label "Sist åpnede sider">
-<!ENTITY fileRecentMenu.accesskey "å">
-<!ENTITY fileRevert.label "Gå tilbake til forrige versjon">
-<!ENTITY fileRevert.accesskey "v">
-<!ENTITY saveCmd.label "Lagre">
-<!ENTITY saveCmd.accesskey "L">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Lagre som …">
-<!ENTITY saveAsCmd.accesskey "s">
-
-<!ENTITY publishCmd.label "Publiser">
-<!ENTITY publishCmd.accesskey "P">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Publiser som …">
-<!ENTITY publishAsCmd.accesskey "o">
-<!ENTITY saveAsChangeEncodingCmd.label "Lagre og endre tegnkoding">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "E">
-<!ENTITY printSetupCmd.label "Utskriftsformat …">
-<!ENTITY printSetupCmd.accesskey "k">
-<!ENTITY printCmd.label "Skriv ut …">
-<!ENTITY printCmd.accesskey "S">
-<!ENTITY printCmd.key "P">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Rediger">
-<!ENTITY editMenu.accesskey "R">
 <!ENTITY pasteNoFormatting.label "Lim inn uten formatering">
 <!ENTITY pasteNoFormatting.accesskey "o">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Lim inn som">
 <!ENTITY pasteAs.accesskey "L">
-<!ENTITY publishSettings.label "Innstillinger for publiseringssted …">
-<!ENTITY publishSettings.accesskey "p">
 <!ENTITY pasteAsQuotationCmd.label "Lim inn som sitat">
 <!ENTITY pasteAsQuotationCmd.accesskey "L">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -116,11 +45,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "u">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Ingen forslag)">
-<!ENTITY spellCheckIgnoreWord.label "Ignorer ord">
-<!ENTITY spellCheckIgnoreWord.accesskey "I">
-<!ENTITY spellCheckAddToDictionary.label "Legg til i ordbok">
-<!ENTITY spellCheckAddToDictionary.accesskey "e">
 <!ENTITY createLinkCmd.label "Lag lenke …">
 <!ENTITY createLinkCmd.accesskey "l">
 <!ENTITY editLinkCmd.label "Rediger lenke i nytt nettsideutvikler-vindu">
@@ -215,7 +139,7 @@
 <!ENTITY formatRemoveLinks.key "k">
 <!ENTITY formatRemoveNamedAnchors.label "Fjern navngitte anker">
 <!ENTITY formatRemoveNamedAnchors.accesskey "n">
-<!ENTITY formatRemoveNamedAnchors.key "a">
+<!ENTITY formatRemoveNamedAnchors2.key "r">
 
 <!ENTITY paragraphMenu.label "Avsnitt">
 <!ENTITY paragraphMenu.accesskey "A">
@@ -359,12 +283,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Menylinje">
 <!ENTITY formatToolbar.tooltip "Formateringsverktøylinje">
-<!ENTITY newToolbarCmd.label "Ny">
-<!ENTITY newToolbarCmd.tooltip "Lag en ny nettsideutvikler-side">
-<!ENTITY openToolbarCmd.label "Åpne">
-<!ENTITY openToolbarCmd.tooltip "Åpne en lokal fil">
-<!ENTITY saveToolbarCmd.tooltip "Lagre fil lokalt">
-<!ENTITY publishToolbarCmd.tooltip "Last opp fil til eksternt område">
 <!ENTITY cutToolbarCmd.tooltip "Klipp ut">
 <!ENTITY copyToolbarCmd.tooltip "Kopier">
 <!ENTITY pasteToolbarCmd.tooltip "Lim inn">

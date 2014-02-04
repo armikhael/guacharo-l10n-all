@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Skridaozañ: (danvez ebet)">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey "s">
 <!ENTITY attachFileCmd.label "Restr(où)…">
 <!ENTITY attachFileCmd.accesskey "r">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "i">
 <!ENTITY attachPageCmd.label "Pajenn Internet …">
 <!ENTITY attachPageCmd.accesskey "n">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -72,6 +79,8 @@
 <!ENTITY editRewrapCmd.accesskey "t">
 <!ENTITY deleteCmd.label "Dilemel">
 <!ENTITY deleteCmd.accesskey "D">
+<!ENTITY renameAttachmentCmd.label "Adenvel ar c'henstagadur…">
+<!ENTITY renameAttachmentCmd.accesskey "e">
 <!ENTITY selectAllCmd.label "Diuzañ pep tra">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "a"> 
@@ -92,6 +101,8 @@
 <!ENTITY viewMenu.accesskey "w">
 <!ENTITY viewToolbarsMenuNew.label "Barrennoù ostilhoù"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "B"> 
+<!ENTITY menubarCmd.label "Barrenn lañser">
+<!ENTITY menubarCmd.accesskey "B">
 <!ENTITY showCompositionToolbarCmd.label "Barrenn ostilhoù ar posteloù">
 <!ENTITY showCompositionToolbarCmd.accesskey "B">
 <!ENTITY showFormattingBarCmd.label "Barrenn ostilhoù mentrezhañ">
@@ -265,6 +276,14 @@
 <!ENTITY selectAll.accesskey "a">
 <!ENTITY attachFile.label "Kenstagañ restr(où)…">
 <!ENTITY attachFile.accesskey "r">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "i">
+<!ENTITY convertCloud.label "Amdreiñ…">
+<!ENTITY convertCloud.accesskey "A">
+<!ENTITY cancelUpload.label "Nullañ ar c'hargañ">
+<!ENTITY cancelUpload.accesskey "N">
+<!ENTITY convertRegularAttachment.label "Kenstagadur reizh">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Kenstagañ ar bajennad…">
 <!ENTITY attachPage.accesskey "s">
 

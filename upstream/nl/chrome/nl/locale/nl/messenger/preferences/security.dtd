@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Ongewenste berichten">
 <!ENTITY itemPhishing.label      "E-mailscams">
 <!ENTITY itemPasswords.label     "Wachtwoorden">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "v">
 <!ENTITY markAsReadOnSpam.label "Berichten die zijn gedetecteerd als ongewenst, markeren als gelezen">
 <!ENTITY markAsReadOnSpam.accesskey "B">
-<!ENTITY enableJunkLogging.label "Ongewensteberichtenlogboek activeren">
-<!ENTITY enableJunkLogging.accesskey "O">
+<!ENTITY enableAdaptiveJunkLogging.label "Zelflerende ongewensteberichtenlogboek activeren">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "o">
 <!ENTITY openJunkLog.label "Logboek tonen">
 <!ENTITY openJunkLog.accesskey "L">
 <!ENTITY resetTrainingData.label "Trainingsgegevens herinitialiseren">
@@ -56,3 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "U">
 <!ENTITY showCookies.label              "Cookies tonen…">
 <!ENTITY showCookies.accesskey          "t">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Websites laten weten dat ik niet gevolgd wil worden">
+<!ENTITY doNotTrack.accesskey           "v">

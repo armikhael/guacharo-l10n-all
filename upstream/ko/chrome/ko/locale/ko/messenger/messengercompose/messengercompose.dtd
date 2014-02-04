@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY msgComposeWindow.title "메일 쓰기: (제목 없음)">
 
 <!-- File menu items -->
@@ -15,6 +19,9 @@
 <!ENTITY attachMenu.accesskey "t">
 <!ENTITY attachFileCmd.label "파일 첨부…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label		"파일 공유">
+<!ENTITY attachCloudCmd.accesskey	"i">
 <!ENTITY attachPageCmd.label "웹 페이지 첨부…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!ENTITY attachVCardCmd.label "명함 추가">
@@ -67,6 +74,8 @@
 <!ENTITY pasteAsQuotationCmd.key "o">
 <!ENTITY editRewrapCmd.label "재보호">
 <!ENTITY editRewrapCmd.accesskey "w">
+<!ENTITY renameAttachmentCmd.label	"첨부 파일 이름 변경…">
+<!ENTITY renameAttachmentCmd.accesskey	"e">
 <!ENTITY deleteCmd.label "삭제">
 <!ENTITY deleteCmd.accesskey "d">
 <!ENTITY selectAllCmd.label "전체 선택">
@@ -89,6 +98,8 @@
 <!ENTITY viewMenu.accesskey "v">
 <!ENTITY viewToolbarsMenuNew.label "도구 모음">
 <!ENTITY viewToolbarsMenuNew.accesskey "T">
+<!ENTITY menubarCmd.label "메뉴 모음">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "작성 도구 모음">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "형식 도구 모음">
@@ -154,8 +165,8 @@
 <!ENTITY addressBookCmd.label "주소록">
 <!ENTITY addressBookCmd.accesskey "a">
 <!ENTITY addressBookCmd.key "B">
-<!ENTITY accountManagerCmd.label "계정…">
-<!ENTITY accountManagerCmd.accesskey "c">
+<!ENTITY accountManagerCmd.label "계정 설정…">
+<!ENTITY accountManagerCmd.accesskey "S">
 <!ENTITY accountManagerCmdUnix.accesskey "S">
 <!ENTITY preferencesCmd.label "설정…">
 <!ENTITY preferencesCmd.accesskey "O">
@@ -199,7 +210,7 @@
 <!ENTITY followupAddr.label "전달:">
 <!ENTITY subject.label "제목:">
 <!ENTITY subject.accesskey "S">
-<!ENTITY attachments.accesskey "c">
+<!ENTITY attachments.accesskey "m">
 <!ENTITY SmileButton.tooltip "표정 아이콘 삽입">
 <!ENTITY smiley1Cmd.label "미소">
 <!ENTITY smiley2Cmd.label "시무룩">
@@ -244,6 +255,14 @@
 <!ENTITY selectAll.accesskey "A">
 <!ENTITY attachFile.label "파일 첨부…">
 <!ENTITY attachFile.accesskey "F">
+<!ENTITY attachCloud.label		"파일 공유…">
+<!ENTITY attachCloud.accesskey		"i">
+<!ENTITY convertCloud.label		"첨부 방식 전환…">
+<!ENTITY convertCloud.accesskey		"C">
+<!ENTITY cancelUpload.label		"업로드 취소">
+<!ENTITY cancelUpload.accesskey		"n">
+<!ENTITY convertRegularAttachment.label	"일반 첨부">
+<!ENTITY convertRegularAttachment.accesskey	"A">
 <!ENTITY attachPage.label "웹 페이지 첨부…">
 <!ENTITY attachPage.accesskey "W">
 <!ENTITY addressesSidebarTitle.label "주소록 탐색창">

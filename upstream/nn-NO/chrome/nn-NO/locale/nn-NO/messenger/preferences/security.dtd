@@ -1,25 +1,29 @@
-<!ENTITY itemJunk.label          "Søppelpost">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
+<!ENTITY itemJunk.label          "Uynskt e-post">
 <!ENTITY itemPhishing.label      "E-postsvindel">
 <!ENTITY itemPasswords.label     "Passord">
 <!ENTITY itemAntiVirus.label     "Antivirus">
 <!ENTITY itemCookies.label       "Nettinnhald">
 
 <!-- Junk Mail Controls -->
-<!ENTITY junkMail.intro "Vel standardinnstilling for søppel-post. Konto-spesifikke innstillingar for søppelpost kan stillast inn i Konto-innstillingar.">
-<!ENTITY manualMark.label "Når eg merkar meldingar som søppel:">
+<!ENTITY junkMail.intro "Vel standard-innstilling for uynskt e-post. Konto-spesifikke innstillingar for uynskt e-post kan stillast inn i Konto-innstillingar.">
+<!ENTITY manualMark.label "Når eg merkar meldingar som uynskte:">
 <!ENTITY manualMark.accesskey "N">
-<!ENTITY manualMarkModeMove.label "Flytt dei til «Søppel»-mappa på kontoen">
+<!ENTITY manualMarkModeMove.label "Flytt dei til «Uynskt»-mappa på kontoen">
 <!ENTITY manualMarkModeMove.accesskey "F">
 <!ENTITY manualMarkModeDelete.label "Slett dei">
 <!ENTITY manualMarkModeDelete.accesskey "t">
-<!ENTITY markAsReadOnSpam.label "Merk søppel-meldingar som lesne">
+<!ENTITY markAsReadOnSpam.label "Merk uønskt-meldingar som lesne">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "Loggfør hendingar i filteret for søppelpost">
-<!ENTITY enableJunkLogging.accesskey "L">
+<!ENTITY enableAdaptiveJunkLogging.label "Slå på logging for adaptiv filter for uynsket e-post">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "l">
 <!ENTITY openJunkLog.label "Vis logg">
 <!ENTITY openJunkLog.accesskey "V">
 <!ENTITY resetTrainingData.label "Still tilbake treningsdata">
-<!ENTITY resetTrainingData.accesskey "S">
+<!ENTITY resetTrainingData.accesskey "t">
 
 <!-- Phishing Detector -->
 <!ENTITY phishingDetector1.intro  "&brandShortName; kan analysere meldingar og oppdage mogleg e-postsvindel ved å sjå etter vanlege teknikkar brukt for å lure deg.">
@@ -49,7 +53,7 @@
 <!ENTITY acceptCookies.accesskey        "G">
 <!ENTITY keepUntil.label                "Ta vare på til:">
 <!ENTITY keepUntil.accesskey            "a">
-<!ENTITY expire.label                   "dei går ut">
+<!ENTITY expire.label                   "dei går ut på dato">
 <!ENTITY close.label                    "eg lèt att &brandShortName;">
 <!ENTITY askEachTime.label              "spør meg kvar gong">
 <!ENTITY cookieExceptions.label         "Unntak …">
@@ -57,3 +61,6 @@
 <!ENTITY showCookies.label              "Vis infokapslar">
 <!ENTITY showCookies.accesskey          "V">
 
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Fortel nettstader at eg ikkje ynskjer å bli spora">
+<!ENTITY doNotTrack.accesskey           "d">

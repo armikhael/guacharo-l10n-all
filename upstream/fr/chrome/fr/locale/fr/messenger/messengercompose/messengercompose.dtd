@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!--LOCALIZATION NOTE messengercompose.dtd Main UI for message composition -->
 <!ENTITY msgComposeWindow.title "Rédaction du message">
 
@@ -16,6 +20,9 @@
 <!ENTITY attachMenu.accesskey "J">
 <!ENTITY attachFileCmd.label "Fichier(s)…">
 <!ENTITY attachFileCmd.accesskey "F">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Espace de fichiers">
+<!ENTITY attachCloudCmd.accesskey "E">
 <!ENTITY attachPageCmd.label "Page Web…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,13 +74,15 @@
 <!ENTITY pasteCmd.accesskey "o">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY deleteCmd.label "Supprimer">
+<!ENTITY deleteCmd.accesskey "e">
 <!ENTITY editRewrapCmd.label "Reformater">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey  "o">
-<!ENTITY deleteCmd.label "Supprimer">
-<!ENTITY deleteCmd.accesskey "e">
 <!ENTITY removeAttachment.label "Supprimer la pièce jointe">
 <!ENTITY removeAttachment.accesskey "j">
+<!ENTITY renameAttachmentCmd.label "Renommer la pièce jointe…">
+<!ENTITY renameAttachmentCmd.accesskey "R">
 <!ENTITY selectAllCmd.label "Tout sélectionner">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "T"> 
@@ -94,6 +103,8 @@
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenuNew.label "Barres d'outils"> 
 <!ENTITY viewToolbarsMenuNew.accesskey "t">
+<!ENTITY menubarCmd.label "Barre de menus">
+<!ENTITY menubarCmd.accesskey "m">
 <!ENTITY showCompositionToolbarCmd.label "Barre d'outils courrier">
 <!ENTITY showCompositionToolbarCmd.accesskey "o">
 <!ENTITY showFormattingBarCmd.label "Barre de mise en forme">
@@ -265,6 +276,14 @@
 <!ENTITY selectAll.accesskey "t">
 <!ENTITY attachFile.label "Joindre fichier(s)…">
 <!ENTITY attachFile.accesskey "f">
+<!ENTITY attachCloud.label "Espace de fichiers…">
+<!ENTITY attachCloud.accesskey "E">
+<!ENTITY convertCloud.label "Convertir en…">
+<!ENTITY convertCloud.accesskey "C">
+<!ENTITY cancelUpload.label "Annuler le téléchargement">
+<!ENTITY cancelUpload.accesskey "n">
+<!ENTITY convertRegularAttachment.label "Pièce jointe normale">
+<!ENTITY convertRegularAttachment.accesskey "P">
 <!ENTITY attachPage.label "Joindre une page Web…">
 <!ENTITY attachPage.accesskey "W">
 

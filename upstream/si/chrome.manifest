@@ -6,6 +6,7 @@ locale global si chrome/si/locale/si/global/
 locale messenger-newsblog si chrome/si/locale/si/messenger-newsblog/
 manifest chrome/si.manifest
 locale places si chrome/si/locale/si/places/
+locale chat si chrome/si/locale/si/chat/
 locale global-platform si chrome/si/locale/si/global-platform/
 locale mozldap si chrome/si/locale/si/mozldap/
 locale global-region si chrome/si/locale/si/global-region/
@@ -14,6 +15,7 @@ locale messenger-region si chrome/si/locale/si/messenger-region/
 locale messenger si chrome/si/locale/si/messenger/
 locale autoconfig si chrome/si/locale/si/autoconfig/
 locale branding si chrome/si/locale/si/branding/
+locale testpilot si chrome/si/locale/si/feedback/
 locale messenger-mapi si chrome/si/locale/si/messenger-mapi/
 locale messenger-smime si chrome/si/locale/si/messenger-smime/
 locale mozapps si chrome/si/locale/si/mozapps/

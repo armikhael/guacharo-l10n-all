@@ -24,7 +24,7 @@
 <!ENTITY printSetupCmd.accesskey "н">
 <!ENTITY printPreviewContactCmd.label "Перадпрагляд сувязі">
 <!ENTITY printPreviewContactCmd.accesskey "г">
-<!ENTITY printPreviewAddressBook.label "Папярэдні прагляд адраснай кнігі">
+<!ENTITY printPreviewAddressBook.label "Перадпрагляд адраснай кнігі">
 <!ENTITY printPreviewAddressBook.accesskey "К">
 <!ENTITY printContactCmd.label "Друкаваць сувязь…">
 <!ENTITY printContactCmd.accesskey "Д">
@@ -70,18 +70,24 @@
 <!ENTITY viewMenu.accesskey "г">
 <!ENTITY viewToolbarsMenu.label "Прыладапаліцы">
 <!ENTITY viewToolbarsMenu.accesskey "П">
+<!ENTITY menubarCmd.label "Паліца меню">
+<!ENTITY menubarCmd.accesskey "м">
 <!ENTITY showAbToolbarCmd.label "Паліца прыладаў адраснай кнігі">
 <!ENTITY showAbToolbarCmd.accesskey "р">
 <!ENTITY showTaskbarCmd.label "Паліца статусу">
 <!ENTITY showTaskbarCmd.accesskey "с">
 <!ENTITY customizeToolbar.label "Наладзіць…">
 <!ENTITY customizeToolbar.accesskey "Н">
-<!ENTITY showContactPane.label "Зводкавая шыба сувязі">
-<!ENTITY showContactPane.accesskey "с">
+<!ENTITY layoutMenu.label "Раскладка">
+<!ENTITY layoutMenu.accesskey "Р">
+<!ENTITY showDirectoryPane.label "Шыба дырэкторыяў">
+<!ENTITY showDirectoryPane.accesskey "д">
+<!ENTITY showContactPane2.label "Шыба сувязяў">
+<!ENTITY showContactPane2.accesskey "с">
 <!ENTITY menu_ShowNameAs.label "Паказваць імёны як">
 <!ENTITY menu_ShowNameAs.accesskey "І">
-<!ENTITY firstLastCmd.label "Імя Прозвішча">
-<!ENTITY firstLastCmd.accesskey "І">
+<!ENTITY firstLastCmd2.label "Імя Прозвішча">
+<!ENTITY firstLastCmd2.accesskey "і">
 <!ENTITY lastFirstCmd.label "Прозвішча Імя">
 <!ENTITY lastFirstCmd.accesskey "П">
 <!ENTITY displayNameCmd.label "Адлюстроўнае імя">
@@ -131,8 +137,8 @@
 <!ENTITY GeneratedName.accesskey "і">
 <!ENTITY PrimaryEmail.label "Э-пошта">
 <!ENTITY PrimaryEmail.accesskey "э">
-<!ENTITY ScreenName.label "Экраннае імя">
-<!ENTITY ScreenName.accesskey "Э">
+<!ENTITY ChatName.label "Назва гутаркі">
+<!ENTITY ChatName.accesskey "г">
 <!ENTITY Company.label "Установа">
 <!ENTITY Company.accesskey "у">
 <!ENTITY NickName.label "Мянушка">
@@ -162,6 +168,7 @@
 <!ENTITY contact.heading "Сувязь">
 <!ENTITY home.heading "Хатні">
 <!ENTITY other.heading "Іншае">
+<!ENTITY chat.heading "Гутарка">
 <!ENTITY phone.heading "Тэляфон">
 <!ENTITY work.heading "Працоўны">
 <!ENTITY description.heading "Апісанне">

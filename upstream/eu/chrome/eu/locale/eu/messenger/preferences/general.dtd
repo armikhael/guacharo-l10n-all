@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY messengerStartPage.label         "&brandShortName; hasiera-orria">
 <!ENTITY enableStartPage.label            "&brandShortName; abiaraztean, erakutsi hasiera-orria mezuaren eremuan">
 <!ENTITY enableStartPage.accesskey        "b">
@@ -27,9 +31,3 @@
 <!ENTITY customsound.accesskey            "u">
 <!ENTITY browse.label                     "Arakatu…">
 <!ENTITY browse.accesskey                 "A">
-
-<!ENTITY addonsMgr.label                  "Gehigarriak">
-<!ENTITY manageAddonsDescWin.label        "Aldatu zure gehigarrien aukerak">
-<!ENTITY manageAddonsDescUnix2.label      "Aldatu zure gehigarrien ezarpenak">
-<!ENTITY manageAddons.label               "Kudeatu gehigarriak…">
-<!ENTITY manageAddons.accesskey           "K">

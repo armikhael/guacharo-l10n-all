@@ -16,6 +16,9 @@
 <!ENTITY attachMenu.accesskey "h">
 <!ENTITY attachFileCmd.label "Datei(en) als Anhang anfügen…">
 <!ENTITY attachFileCmd.accesskey "A">
+<!ENTITY attachFileCmd.key "A">
+<!ENTITY attachCloudCmd.label "Filelink">
+<!ENTITY attachCloudCmd.accesskey "F">
 <!ENTITY attachPageCmd.label "Webseite anhängen…">
 <!ENTITY attachPageCmd.accesskey "W">
 <!--LOCALIZATION NOTE attachVCardCmd.label Don't translate the term 'vCard' -->
@@ -67,11 +70,13 @@
 <!ENTITY pasteCmd.accesskey "i">
 <!ENTITY pasteNoFormattingCmd.key "V">
 <!ENTITY pasteAsQuotationCmd.key "o">
+<!ENTITY deleteCmd.label "Löschen">
+<!ENTITY deleteCmd.accesskey "L">
 <!ENTITY editRewrapCmd.label "Neu umbrechen">
 <!ENTITY editRewrapCmd.key "R">
 <!ENTITY editRewrapCmd.accesskey "b">
-<!ENTITY deleteCmd.label "Löschen">
-<!ENTITY deleteCmd.accesskey "L">
+<!ENTITY renameAttachmentCmd.label "Anhang umbenennen…">
+<!ENTITY renameAttachmentCmd.accesskey "n">
 <!ENTITY selectAllCmd.label "Alles auswählen">
 <!ENTITY selectAllCmd.key "A">
 <!ENTITY selectAllCmd.accesskey "u">
@@ -92,6 +97,8 @@
 <!ENTITY viewMenu.accesskey "A">
 <!ENTITY viewToolbarsMenuNew.label "Symbolleisten">
 <!ENTITY viewToolbarsMenuNew.accesskey "y">
+<!ENTITY menubarCmd.label "Menüleiste">
+<!ENTITY menubarCmd.accesskey "M">
 <!ENTITY showCompositionToolbarCmd.label "Verfassen-Symbolleiste">
 <!ENTITY showCompositionToolbarCmd.accesskey "V">
 <!ENTITY showFormattingBarCmd.label "Formatierungsleiste">
@@ -265,6 +272,14 @@
 <!ENTITY selectAll.accesskey "u">
 <!ENTITY attachFile.label "Datei(en) als Anhang anfügen">
 <!ENTITY attachFile.accesskey "D">
+<!ENTITY attachCloud.label "Filelink…">
+<!ENTITY attachCloud.accesskey "F">
+<!ENTITY convertCloud.label "Anhang umwandeln in…">
+<!ENTITY convertCloud.accesskey "d">
+<!ENTITY cancelUpload.label "Hochladen abbrechen">
+<!ENTITY cancelUpload.accesskey "a">
+<!ENTITY convertRegularAttachment.label "Normalen Anhang">
+<!ENTITY convertRegularAttachment.accesskey "A">
 <!ENTITY attachPage.label "Webseite anhängen…">
 <!ENTITY attachPage.accesskey "W">
 

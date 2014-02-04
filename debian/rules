@@ -25,7 +25,7 @@ override_dh_auto_install:
 	do \
 		LOCALE=`echo $${DIRECTORY} | tr [:upper:] [:lower:]`; \
 		ID=`cat $${DIRECTORY}/install.rdf | sed --posix '/em:id=/!d;s/[ ]*em:id="//;s/".*//'`; \
-		install -D -m 644 ../build/$${DIRECTORY}.xpi $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/share/guacharo/extensions/$${ID}.xpi; \
-		mkdir -p $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions; \
-		ln -s /usr/share/guacharo/extensions/$${ID}.xpi $(CURDIR)/debian/guacharo-l10n-$${LOCALE}/usr/lib/guacharo/extensions/$${ID}.xpi; \
+		install -D -m 644 ../build/$${DIRECTORY}.xpi $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/share/icedove/extensions/$${ID}.xpi; \
+		mkdir -p $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions; \
+		ln -s /usr/share/icedove/extensions/$${ID}.xpi $(CURDIR)/debian/icedove-l10n-$${LOCALE}/usr/lib/icedove/extensions/$${ID}.xpi; \
 	done

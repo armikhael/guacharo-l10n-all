@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "通讯录">
 
 <!-- File Menu -->
@@ -79,18 +83,26 @@
 <!ENTITY viewMenu.accesskey                             "v">
 <!ENTITY viewToolbarsMenu.label                         "工具栏">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "菜单栏">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "通讯录工具栏">
 <!ENTITY showAbToolbarCmd.accesskey                     "o">
 <!ENTITY showTaskbarCmd.label                           "状态栏">
 <!ENTITY showTaskbarCmd.accesskey                       "S">
 <!ENTITY customizeToolbar.label                         "自定义…">
 <!ENTITY customizeToolbar.accesskey                     "C">
-<!ENTITY showContactPane.label                          "联系人信息面板">
-<!ENTITY showContactPane.accesskey                      "C">
+<!ENTITY layoutMenu.label                               "布局">
+<!ENTITY layoutMenu.accesskey                           "L">
+<!ENTITY showDirectoryPane.label                        "文件夹面板">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "联系人面板">
+<!ENTITY showContactPane2.accesskey                     "C">
 <!ENTITY menu_ShowNameAs.label                          "名称显示方式">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "名字，姓氏">
-<!ENTITY firstLastCmd.accesskey                         "f"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "姓名">
+<!ENTITY firstLastCmd2.accesskey                        "f"> 
 <!ENTITY lastFirstCmd.label                             "姓氏，名字">
 <!ENTITY lastFirstCmd.accesskey                         "l">
 <!ENTITY displayNameCmd.label                           "显示名称">
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "N">
 <!ENTITY PrimaryEmail.label                             "电子邮件">
 <!ENTITY PrimaryEmail.accesskey                         "E">
-<!ENTITY ScreenName.label                               "屏幕名">
-<!ENTITY ScreenName.accesskey                           "S">
+<!ENTITY ChatName.label                                 "聊天名称">
+<!ENTITY ChatName.accesskey                             "C">
 <!ENTITY Company.label                                  "公司">
 <!ENTITY Company.accesskey                              "z">
 <!ENTITY NickName.label                                 "昵称">
@@ -186,6 +198,7 @@
 <!ENTITY contact.heading                                "联系">
 <!ENTITY home.heading                                   "家庭">
 <!ENTITY other.heading                                  "其它">
+<!ENTITY chat.heading                                   "聊天">
 <!ENTITY phone.heading                                  "电话">
 <!ENTITY work.heading                                   "工作地址">
 <!-- Special Box Headings, for mailing lists -->

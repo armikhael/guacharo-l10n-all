@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!-- extracted from am-main.xul -->
 <!ENTITY accountTitle.label "계정 설정">
 <!ENTITY accountName.label "계정 이름:">
@@ -10,6 +14,7 @@
 <!ENTITY email.accesskey "E">
 <!ENTITY replyTo.label "회신 주소:">
 <!ENTITY replyTo.accesskey "s">
+<!ENTITY replyTo.placeholder "수신자가 답장을 할 다른 메일 주소">
 <!ENTITY organization.label "소속:">
 <!ENTITY organization.accesskey "O">
 <!ENTITY signatureText.label "서명:">

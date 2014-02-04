@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY window.title "Rialacha Scagtha">
 <!ENTITY filterEditorDialog.dimensions "width: 100ch;">
 <!ENTITY filterName.label "Ainm an scagaire:">
@@ -27,7 +31,8 @@
 <!ENTITY copyMessage.label "Cóipeáil an teachtaireacht go">
 <!ENTITY forwardTo.label "Cuir an teachtaireacht ar aghaidh chuig">
 <!ENTITY replyWithTemplate.label "Freagair le teimpléad">
-<!ENTITY markMessageRead.label "Marcáil mar léite">
+<!ENTITY markMessageRead.label 'Marcáil "Léite"'>
+<!ENTITY markMessageUnread.label 'Marcáil "Neamhléite"'>
 <!ENTITY markMessageStarred.label "Cuir réiltín leis">
 <!ENTITY setPriority.label "Socraigh tosaíocht mar">
 <!ENTITY addTag.label "Clibeáil an teachtaireacht">
@@ -39,3 +44,14 @@
 <!ENTITY ignoreSubthread.label "Tabhair Neamhaird ar an bhFoshnáithe">
 <!ENTITY watchThread.label "Bí ag Faire ar an Snáithe">
 <!ENTITY stopExecution.label "Stop rith an scagaire">
+
+<!ENTITY addAction.tooltip "Cuir gníomh nua leis">
+<!ENTITY removeAction.tooltip "Bain an gníomh seo">
+<!-- LOCALIZATION NOTE
+  The values below are used to control the widths of the filter action widgets.
+  Change the values only when the localized strings in the popup menus
+  are truncated in the widgets.
+ -->
+
+<!ENTITY filterActionTypeFlexValue "11">
+<!ENTITY filterActionTargetFlexValue "4">

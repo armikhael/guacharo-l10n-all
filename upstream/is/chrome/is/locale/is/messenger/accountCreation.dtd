@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title "Uppsetning póstreiknings">
 <!ENTITY name.label "Nafnið þitt:">
 <!ENTITY name.accesskey "N">
@@ -46,6 +50,8 @@
 <!ENTITY half-manual-test.accesskey "t">
 <!ENTITY manual-edit.label "Handvirkar stillingar">
 <!ENTITY manual-edit.accesskey "H">
+<!ENTITY switch-to-provisioner.label "Sækja um nýjan reikning">
+<!ENTITY switch-to-provisioner.accesskey "S">
 <!ENTITY warning.label "Viðvörun!">
 <!ENTITY incomingSettings.label "Stillingar fyrir innsendan póst:">
 <!ENTITY outgoingSettings.label "Stillingar fyrir útsendan póst:">
@@ -55,11 +61,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label "Ég skil þessar áhættur.">
 <!ENTITY confirmWarning.accesskey "g">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label "Búa til reikning">
-<!ENTITY createAccount.accesskey "B">
+<!ENTITY doneAccount.label "Ljúka">
+<!ENTITY doneAccount.accesskey "L">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

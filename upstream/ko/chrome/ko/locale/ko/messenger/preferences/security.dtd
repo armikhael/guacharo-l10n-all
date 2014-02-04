@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "스팸">
 <!ENTITY itemPhishing.label      "사기 메일">
 <!ENTITY itemPasswords.label     "암호">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey "D">
 <!ENTITY markAsReadOnSpam.label "스팸으로 표시된 메시지는 읽은 것으로 표시">
 <!ENTITY markAsReadOnSpam.accesskey "M">
-<!ENTITY enableJunkLogging.label "로그인 시 스팸 처리 실행">
-<!ENTITY enableJunkLogging.accesskey "E">
+<!ENTITY enableAdaptiveJunkLogging.label "스팸 메일 적응 필터 기록 사용함">
+<!ENTITY enableAdaptiveJunkLogging.accesskey "E">
 <!ENTITY openJunkLog.label "로그 보기">
 <!ENTITY openJunkLog.accesskey "S">
 <!ENTITY resetTrainingData.label "스팸 학습 데이터 재설정">
@@ -56,3 +60,8 @@
 <!ENTITY cookieExceptions.accesskey     "E">
 <!ENTITY showCookies.label              "쿠키 보기…">
 <!ENTITY showCookies.accesskey          "S">
+
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label			"웹 사이트에게 방문자 추적 중지 요청">
+<!ENTITY doNotTrack.accesskey			"d">

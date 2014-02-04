@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY serverAdvanced.label "Kontuaren hobespen aurreratuak">
 <!-- LOCALIZATION NOTE (serverDirectory.label): Do not translate "IMAP" -->
 <!ENTITY serverDirectory.label "IMAP zerbitzariaren direktorioa:">
@@ -8,7 +12,7 @@
 <!ENTITY dualUseFolders.accesskey "k">
 <!ENTITY useIdle.label "Erabili IDLE komandoa zerbitzariak onartzen badu">
 <!ENTITY useIdle.accesskey "I">
-<!ENTITY maximumConnectionsNumber.label "Katxean gordeko diren zerbitzari-konexio kopuru maximoa">
+<!ENTITY maximumConnectionsNumber.label "Cache-an gordeko diren zerbitzari-konexio kopuru maximoa">
 <!ENTITY maximumConnectionsNumber.accesskey "m">
 <!-- LOCALIZATION NOTE (namespaceDesc.label): Do not translate "IMAP" -->
 <!ENTITY namespaceDesc.label "Hobespen hauek zure IMAP zerbitzariko izen-eremuak zehazten dituzte">

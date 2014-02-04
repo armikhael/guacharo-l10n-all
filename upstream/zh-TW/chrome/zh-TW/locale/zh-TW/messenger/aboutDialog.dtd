@@ -3,7 +3,7 @@
 <!ENTITY community.start2           "&brandShortName; 是由 ">
 <!-- LOCALIZATION NOTE (community.mozillaLink): This is a link title that links to http://www.mozilla.org/. -->
 <!ENTITY community.mozillaLink      "&vendorShortName;">
-<!ENTITY community.middle2          "所開發的產品，Mozilla 是個 ">
+<!ENTITY community.middle2          " 所開發的產品。Mozilla 是個 ">
 <!-- LOCALIZATION NOTE (community.creditsLink): This is a link title that links to about:credits. -->
 <!ENTITY community.creditsLink      "全球性社群">
 <!ENTITY community.end2             "，我們努力讓網際網路變得更好，且相信網路應該開放、任誰都可隨意使用。">
@@ -56,6 +56,8 @@
 <!ENTITY update.downloading.start   "正在下載更新 — ">
 <!ENTITY update.downloading.end     "">
 
+<!ENTITY update.applying            "正在套用更新…">
+
 <!-- LOCALIZATION NOTE (channel.description.start,channel.description.end): channel.description.start and
      channel.description.end create one sentence, with the current channel label inserted in between.
      example: You are currently on the _Stable_ update channel. -->
@@ -63,3 +65,4 @@
 <!ENTITY channel.description.end    " 更新頻道。">
 
 <!ENTITY cmdCloseMac.commandKey "w">
+

@@ -1,11 +1,7 @@
-<!--
-# Translator(s):
-#
-# http://tomercohen.com/ <tomer.mozilla@tomercohen.com>
-# amire80 <amir.aharoni@mail.huji.ac.il>
-# Yaron <sh.yaron@gmail.com>
-#
--->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY  updateWizard.title              "&brandShortName; עדכון">
 
 <!ENTITY  offline.title                   "&brandShortName; נמצא במצב לא־מקוון">
@@ -24,7 +20,7 @@
 <!ENTITY  found.wizard.title               "נמצאו תוספות תואמות">
 <!ENTITY  found.top.label                 "בחר את התוספות שברצונך להתקין:">
 <!ENTITY  found.disabledXPinstall.label   "עדכונים אלו לא ניתנים להתקנה מאחר שהתקנת תכנה כרגע מנוטרלת. ניתן לשנות זאת בהמשך.">
-<!ENTITY  found.enableXPInstall.label     "אפשר התקנות לאתרים">
+<!ENTITY  found.enableXPInstall.label     "אפשר לאתרים להתקין תוכנה">
 <!ENTITY  found.enableXPInstall.accesskey "ת">
 
 <!ENTITY  installing.wizard.title         "מתקין תוספות תואמות">
@@ -51,8 +47,7 @@
 <!ENTITY  installerrors.intro.label       "&brandShortName; חווה בעיות בעדכון חלק מהתוספות שלך.">
 
 <!-- general strings used by several of the finish pages -->
-<!ENTITY  clickFinish.label               "לחץ סיים להמשך ההפעלה של &brandShortName;">
-<!ENTITY  clickFinish.labelMac            "לחץ סיום כדי להתחיל להמשיך בהפעלת &brandShortName;.">
+<!ENTITY  clickFinish.label               "לחץ על סיום כדי להמשיך בהפעלת &brandShortName;">
+<!ENTITY  clickFinish.labelMac            "לחץ על סיום כדי להמשיך בהפעלת &brandShortName;.">
 <!ENTITY  enableChecking.label            "אפשר ל־&brandShortName; לבדוק עדכונים.">
-
 

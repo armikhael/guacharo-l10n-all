@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY autoconfigWizard.title          "Настройка поштового облікового запису">
 <!ENTITY name.label                      "Ваше ім’я:">
 <!ENTITY name.accesskey                  "і">
@@ -49,6 +53,8 @@
 <!ENTITY half-manual-test.accesskey      "т">
 <!ENTITY manual-edit.label               "Вручну">
 <!ENTITY manual-edit.accesskey           "В">
+<!ENTITY switch-to-provisioner.label     "Завести новий обліковий запис">
+<!ENTITY switch-to-provisioner.accesskey "З">
 
 
 <!ENTITY warning.label                   "Увага!">
@@ -60,11 +66,11 @@
      checkbox beside this text before continuing. -->
 <!ENTITY confirmWarning.label            "Я розумію ризик.">
 <!ENTITY confirmWarning.accesskey        "р">
-<!-- LOCALIZATION NOTE (createAccount.label): If there is a security warning
+<!-- LOCALIZATION NOTE (doneAccount.label): If there is a security warning
      on the incoming or outgoing servers, then the page that pops up will
      have this text in a button to continue by creating the account. -->
-<!ENTITY createAccount.label             "Створити запис">
-<!ENTITY createAccount.accesskey         "С">
+<!ENTITY doneAccount.label               "Готово">
+<!ENTITY doneAccount.accesskey           "Г">
 <!-- LOCALIZATION NOTE (changeSettings.label): If there is a security warning on
      the incoming or outgoing servers, then the page that pops up will have
      this text in a button to take you back to the previous page to change

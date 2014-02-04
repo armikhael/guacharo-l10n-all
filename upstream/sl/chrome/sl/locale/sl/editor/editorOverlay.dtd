@@ -43,47 +43,14 @@
 <!-- Attn: Localization - some of the menus in this dialog directly affect mail also. -->
 
 <!-- File menu items -->
-<!ENTITY fileMenu.label "Datoteka">
-<!ENTITY fileMenu.accesskey "D">
-<!ENTITY openFileCmd.label "Odpri datoteko …">
-<!ENTITY openFileCmd.accesskey "O">
-<!ENTITY openFileCmd.key "O">
-<!ENTITY openRemoteCmd.label "Odpri spletno mesto …">
-<!ENTITY openRemoteCmd.accesskey "s">
-<!ENTITY openRemoteCmd.key "s">
-<!ENTITY fileRecentMenu.label "Nedavne strani">
-<!ENTITY fileRecentMenu.accesskey "N">
-<!ENTITY fileRevert.label "Povrni">
-<!ENTITY fileRevert.accesskey "P">
-<!ENTITY saveCmd.label "Shrani">
-<!ENTITY saveCmd.accesskey "S">
 <!ENTITY saveCmd.key "S">
-<!ENTITY saveAsCmd.label "Shrani kot …">
-<!ENTITY saveAsCmd.accesskey "k">
-
-<!ENTITY publishCmd.label "Objavi">
-<!ENTITY publishCmd.accesskey "b">
-<!ENTITY publishCmd.key "S">
-<!ENTITY publishAsCmd.label "Objavi kot …">
-<!ENTITY publishAsCmd.accesskey "j">
-<!ENTITY saveAsChangeEncodingCmd.label "Shrani in spremeni nabor znakov">
-<!ENTITY saveAsChangeEncodingCmd.accesskey "h">
-<!ENTITY printSetupCmd.label "Nastavitve strani …">
-<!ENTITY printSetupCmd.accesskey "r">
-<!ENTITY printCmd.label "Natisni …">
-<!ENTITY printCmd.accesskey "N">
-<!ENTITY printCmd.key "N">
 
 <!-- Edit menu items -->
-<!ENTITY editMenu.label "Urejaj">
-<!ENTITY editMenu.accesskey "U">
 <!ENTITY pasteNoFormatting.label "Prilepi brez oblikovanja">
 <!ENTITY pasteNoFormatting.accesskey "P">
 <!ENTITY pasteNoFormatting.key "V">
 <!ENTITY pasteAs.label "Prilepi kot">
 <!ENTITY pasteAs.accesskey "k">
-<!ENTITY publishSettings.label "Objavi nastavitve strani …">
-<!ENTITY publishSettings.accesskey "O">
 <!ENTITY pasteAsQuotationCmd.label "Prilepi kot navedek">
 <!ENTITY pasteAsQuotationCmd.accesskey "r">
 <!ENTITY pasteAsQuotationCmd.key "o">
@@ -116,11 +83,6 @@
 <!ENTITY insertBreakAllCmd.accesskey "r">
 
 <!-- Used just in context popup. -->
-<!ENTITY spellCheckNoSuggestions.label "(Ni najti predlogov)">
-<!ENTITY spellCheckIgnoreWord.label "Prezri besedo">
-<!ENTITY spellCheckIgnoreWord.accesskey "P">
-<!ENTITY spellCheckAddToDictionary.label "Dodaj v slovar">
-<!ENTITY spellCheckAddToDictionary.accesskey "D">
 <!ENTITY createLinkCmd.label "Vstavi povezavo …">
 <!ENTITY createLinkCmd.accesskey "V">
 <!ENTITY editLinkCmd.label "Uredi povezavo v novem Composerju">
@@ -173,16 +135,16 @@
 <!ENTITY fontStyleMenu.label "Slog pisave">
 <!ENTITY fontStyleMenu.accesskey "S">
 <!ENTITY styleBoldCmd.label "Krepko">
-<!ENTITY styleBoldCmd.accesskey "K">
-<!ENTITY styleBoldCmd.key "K">
+<!ENTITY styleBoldCmd.accesskey "B">
+<!ENTITY styleBoldCmd.key "B">
 <!ENTITY styleItalicCmd.label "Ležeče">
-<!ENTITY styleItalicCmd.accesskey "L">
-<!ENTITY styleItalicCmd.key "L">
+<!ENTITY styleItalicCmd.accesskey "I">
+<!ENTITY styleItalicCmd.key "I">
 <!ENTITY styleUnderlineCmd.label "Podčrtano">
-<!ENTITY styleUnderlineCmd.accesskey "P">
-<!ENTITY styleUnderlineCmd.key "P">
+<!ENTITY styleUnderlineCmd.accesskey "U">
+<!ENTITY styleUnderlineCmd.key "U">
 <!ENTITY styleStrikeThruCmd.label "Prečrtano">
-<!ENTITY styleStrikeThruCmd.accesskey "e">
+<!ENTITY styleStrikeThruCmd.accesskey "H">
 <!ENTITY styleSuperscriptCmd.label "Nadpisano">
 <!ENTITY styleSuperscriptCmd.accesskey "N">
 <!ENTITY styleSubscriptCmd.label "Podpisano">
@@ -215,7 +177,7 @@
 <!ENTITY formatRemoveLinks.key "K">
 <!ENTITY formatRemoveNamedAnchors.label "Odstrani sidra z imenom">
 <!ENTITY formatRemoveNamedAnchors.accesskey "D">
-<!ENTITY formatRemoveNamedAnchors.key "A">
+<!ENTITY formatRemoveNamedAnchors2.key "A">
 
 <!ENTITY paragraphMenu.label "Odstavek">
 <!ENTITY paragraphMenu.accesskey "t">
@@ -359,12 +321,6 @@
 <!-- Toolbar-only items -->
 <!ENTITY menuBar.tooltip "Vrstica z menijem">
 <!ENTITY formatToolbar.tooltip "Orodna vrstica za oblikovanje">
-<!ENTITY newToolbarCmd.label "Novo">
-<!ENTITY newToolbarCmd.tooltip "Ustvari novo stran v Composerju">
-<!ENTITY openToolbarCmd.label "Odpri">
-<!ENTITY openToolbarCmd.tooltip "Odpri krajevno datoteko">
-<!ENTITY saveToolbarCmd.tooltip "Shrani datoteko na krajevno mesto">
-<!ENTITY publishToolbarCmd.tooltip "Prenesi datoteko na oddaljeno mesto">
 <!ENTITY cutToolbarCmd.tooltip "Izreži">
 <!ENTITY copyToolbarCmd.tooltip "Kopiraj">
 <!ENTITY pasteToolbarCmd.tooltip "Prilepi">

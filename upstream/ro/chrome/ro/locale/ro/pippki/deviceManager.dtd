@@ -1,3 +1,9 @@
+<!--
+# Reviewer(s):
+#
+# Alexandru Szasz <alexxed@gmail.com>
+#
+-->
 <!-- ***** BEGIN LICENSE BLOCK *****
    - Version: MPL 1.1/GPL 2.0/LGPL 2.1
    -
@@ -69,3 +75,7 @@
 <!ENTITY loaddevice.title                       "Încarcă dispozitiv PKCS#11">
 
 
+<!-- LOCALIZATION NOTE (devmgr.style): This is CSS style for Device Manager
+     window size. Don't translate "width" nor "height". Adjust the numbers
+     to make window contents fit. -->
+<!ENTITY devmgr.style                           "width: 52em; height: 32em;">

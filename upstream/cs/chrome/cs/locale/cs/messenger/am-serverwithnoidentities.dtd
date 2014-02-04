@@ -1,11 +1,6 @@
-<!ENTITY accountTitle.label "Nastavení účtu">
-<!ENTITY accountSettingsDesc.label "Toto je speciální účet, se kterým nejsou spojené žádné identity">
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY accountName.label "Název účtu:">
 <!ENTITY accountName.accesskey "N">
-<!ENTITY messageStorage.label "Složka pro zprávy">
-<!ENTITY emptyTrashOnExit.label "Při ukončení vysypat koš">
-<!ENTITY emptyTrashOnExit.accesskey "k">
-<!ENTITY localPath.label "Místní adresář:">
-<!ENTITY localFolderPicker.label "Vyberte místní adresář">
-<!ENTITY browseFolder.label "Procházet…">
-<!ENTITY browseFolder.accesskey "P">

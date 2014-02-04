@@ -78,8 +78,6 @@
 <!ENTITY imagemapBox.label "Map Gambar">
 <!ENTITY removeImageMapButton.label "Hapus">
 <!ENTITY removeImageMapButton.accessKey "H">
-<!ENTITY editImageMapButton.label "Ubah…">
-<!ENTITY editImageMapButton.tooltip "Buat hotspot yang dapat diklik untuk gambar ini">
 
 <!-- These are the options for image alignment -->
 <!ENTITY alignment.label "Ratakan Teks ke Gambar">
@@ -101,6 +99,9 @@
 <!-- These controls are in the Link Box -->
 <!ENTITY showImageLinkBorder.label "Tampilkan pita tepian di sekeliling gambar dengan tautan">
 <!ENTITY showImageLinkBorder.accessKey "B">
+<!ENTITY LinkAdvancedEditButton.label "Edit Lanjutan Tautan…">
+<!ENTITY LinkAdvancedEditButton.accessKey "L">
+<!ENTITY LinkAdvancedEditButton.tooltip "Tambah atau modifikasi atribut HTML, gaya, dan JavaScript">
 
 <!-- These tabs are currently used in the image input dialog -->
 <!ENTITY imageInputTab.label "Form">

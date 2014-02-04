@@ -1,4 +1,7 @@
-<!--null-->
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY Contact.tab "Contatto">
 <!ENTITY Contact.accesskey "C">
 <!ENTITY Name.box "Nome">
@@ -15,31 +18,30 @@
 <!ENTITY DisplayName.label "Nome visualizzato:">
 <!ENTITY DisplayName.accesskey "z">
 <!ENTITY preferDisplayName.label "Preferire sempre il nome visualizzato all'intestazione del messaggio">
-<!ENTITY preferDisplayName.accesskey "P">
+<!ENTITY preferDisplayName.accesskey "d">
 <!ENTITY NickName.label "Soprannome:">
 <!ENTITY NickName.accesskey "S">
-<!ENTITY PrimaryEmail.label "E-mail:">
-<!ENTITY PrimaryEmail.accesskey "-">
-<!ENTITY SecondEmail.label "E-mail aggiuntiva:">
+<!ENTITY PrimaryEmail.label "Email:">
+<!ENTITY PrimaryEmail.accesskey "E">
+<!ENTITY SecondEmail.label "Email aggiuntiva:">
 <!ENTITY SecondEmail.accesskey "a">
 <!ENTITY PreferMailFormat.label "Formato preferito per i messaggi di posta:">
-<!ENTITY PreferMailFormat.accesskey "o">
+<!ENTITY PreferMailFormat.accesskey "p">
 <!ENTITY PlainText.label "Testo semplice">
 <!ENTITY HTML.label "HTML">
 <!ENTITY Unknown.label "Sconosciuto">
-<!ENTITY ScreenName.label "Nome Instant Messenger:">
-<!ENTITY ScreenName.accesskey "M">
+<!ENTITY chatName.label "Nome chat:">
 <!ENTITY allowRemoteContent1.label "Consenti contenuto remoto.">
 <!ENTITY allowRemoteContent1.accesskey "t">
 <!ENTITY allowRemoteContent1.tooltip "Nei messaggi in HTML è possibile includere elementi ospitati da siti remoti. L'apertura di un tale messaggio aprirà una connessione a tale sito. Questo potrebbe consentire al mittente di verificare che il messaggio è stato letto. Spuntare questa casella consentirà l'apertura di elementi esterni contenuti nei messaggi HTML provenienti da questo contatto.">
 <!ENTITY WorkPhone.label "Lavoro:">
 <!ENTITY WorkPhone.accesskey "v">
-<!ENTITY HomePhone.label "Casa:">
-<!ENTITY HomePhone.accesskey "C">
+<!ENTITY HomePhone.label "Abitazione:">
+<!ENTITY HomePhone.accesskey "b">
 <!ENTITY FaxNumber.label "Fax:">
 <!ENTITY FaxNumber.accesskey "x">
 <!ENTITY PagerNumber.label "Cerca persone:">
-<!ENTITY PagerNumber.accesskey "e">
+<!ENTITY PagerNumber.accesskey "o">
 <!ENTITY CellularNumber.label "Cellulare:">
 <!ENTITY CellularNumber.accesskey "u">
 <!ENTITY Home.tab "Privato">
@@ -99,6 +101,24 @@
 <!ENTITY Custom4.accesskey "4">
 <!ENTITY Notes.label "Note:">
 <!ENTITY Notes.accesskey "N">
+<!ENTITY Chat.tab "Chat">
+<!ENTITY Chat.accesskey "a">
+<!ENTITY Gtalk.label "Google Talk:">
+<!ENTITY Gtalk.accesskey "G">
+<!ENTITY AIM.label "AIM:">
+<!ENTITY AIM.accesskey "a">
+<!ENTITY Yahoo.label "Yahoo!:">
+<!ENTITY Yahoo.accesskey "Y">
+<!ENTITY Skype.label "Skype:">
+<!ENTITY Skype.accesskey "S">
+<!ENTITY QQ.label "QQ:">
+<!ENTITY QQ.accesskey "Q">
+<!ENTITY MSN.label "MSN:">
+<!ENTITY MSN.accesskey "M">
+<!ENTITY ICQ.label "ICQ:">
+<!ENTITY ICQ.accesskey "I">
+<!ENTITY XMPP.label "ID Jabber:">
+<!ENTITY XMPP.accesskey "J">
 <!ENTITY Photo.tab "Fotografia">
 <!ENTITY Photo.accesskey "F">
 <!ENTITY PhotoDesc.label "Scegliere fra le seguenti opzioni:">

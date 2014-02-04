@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY addressbookWindow.title                        "Helbide-liburua">
 <!-- File Menu -->
 
@@ -79,18 +83,26 @@
 <!ENTITY viewMenu.accesskey                             "I">
 <!ENTITY viewToolbarsMenu.label                         "Tresna-barrak">
 <!ENTITY viewToolbarsMenu.accesskey                     "T"> 
+<!ENTITY menubarCmd.label                               "Menu-barra">
+<!ENTITY menubarCmd.accesskey                           "M">
 <!ENTITY showAbToolbarCmd.label                         "Helbide-liburuaren tresna-barra">
 <!ENTITY showAbToolbarCmd.accesskey                     "u">
 <!ENTITY showTaskbarCmd.label                           "Egoera-barra">
 <!ENTITY showTaskbarCmd.accesskey                       "E">
 <!ENTITY customizeToolbar.label                         "Pertsonalizatu…">
 <!ENTITY customizeToolbar.accesskey                     "P">
-<!ENTITY showContactPane.label                          "Kontaktu-laburpenen panela">
-<!ENTITY showContactPane.accesskey                      "K">
+<!ENTITY layoutMenu.label                               "Diseinua">
+<!ENTITY layoutMenu.accesskey                           "D">
+<!ENTITY showDirectoryPane.label                        "Direktorioaren panela">
+<!ENTITY showDirectoryPane.accesskey                    "D">
+<!ENTITY showContactPane2.label                         "Kontaktuen panela">
+<!ENTITY showContactPane2.accesskey                     "K">
 <!ENTITY menu_ShowNameAs.label                          "Erakutsi izena honela">
 <!ENTITY menu_ShowNameAs.accesskey                      "n"> 
-<!ENTITY firstLastCmd.label                             "Izena, abizena">
-<!ENTITY firstLastCmd.accesskey                         "I"> 
+<!-- LOCALIZATION NOTE (firstLastCmd2.label): We're not including a comma here
+because displayed names don't have the comma in between. -->
+<!ENTITY firstLastCmd2.label                            "Izen-abizenak">
+<!ENTITY firstLastCmd2.accesskey                        "I"> 
 <!ENTITY lastFirstCmd.label                             "Abizena, izena">
 <!ENTITY lastFirstCmd.accesskey                         "A">
 <!ENTITY displayNameCmd.label                           "Bistaratzeko izena">
@@ -152,8 +164,8 @@
 <!ENTITY GeneratedName.accesskey                        "I">
 <!ENTITY PrimaryEmail.label                             "Helbide elektronikoa">
 <!ENTITY PrimaryEmail.accesskey                         "e">
-<!ENTITY ScreenName.label                               "Pantailako izena">
-<!ENTITY ScreenName.accesskey                           "P">
+<!ENTITY ChatName.label                                 "Txateko izena">
+<!ENTITY ChatName.accesskey                             "T">
 <!ENTITY Company.label                                  "Erakundea:">
 <!ENTITY Company.accesskey                              "k">
 <!ENTITY NickName.label                                 "Goitizena">
@@ -186,6 +198,7 @@
 <!ENTITY contact.heading                                "Kontaktua">
 <!ENTITY home.heading                                   "Etxea">
 <!ENTITY other.heading                                  "Besteak">
+<!ENTITY chat.heading                                   "Txata">
 <!ENTITY phone.heading                                  "Telefonoa">
 <!ENTITY work.heading                                   "Lana">
 <!-- Special Box Headings, for mailing lists -->

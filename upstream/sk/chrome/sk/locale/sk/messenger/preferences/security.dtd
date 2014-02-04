@@ -1,3 +1,7 @@
+<!-- This Source Code Form is subject to the terms of the Mozilla Public
+   - License, v. 2.0. If a copy of the MPL was not distributed with this
+   - file, You can obtain one at http://mozilla.org/MPL/2.0/. -->
+
 <!ENTITY itemJunk.label          "Nevyžiadaná pošta">
 <!ENTITY itemPhishing.label      "Podvodné správy">
 <!ENTITY itemPasswords.label     "Heslá">
@@ -14,8 +18,8 @@
 <!ENTITY manualMarkModeDelete.accesskey        "d">
 <!ENTITY markAsReadOnSpam.label                "Označiť správy identifikované ako nevyžiadané za prečítané">
 <!ENTITY markAsReadOnSpam.accesskey            "O">
-<!ENTITY enableJunkLogging.label               "Povoliť protokol z rozpoznávania nevyžiadanej pošty">
-<!ENTITY enableJunkLogging.accesskey           "P">
+<!ENTITY enableAdaptiveJunkLogging.label       "Povoliť protokol z adaptívneho rozpoznávania nevyžiadanej pošty">
+<!ENTITY enableAdaptiveJunkLogging.accesskey   "P">
 <!ENTITY openJunkLog.label                     "Zobraziť protokol">
 <!ENTITY openJunkLog.accesskey                 "Z">
 <!ENTITY resetTrainingData.label               "Vymazať zozbierané údaje">
@@ -56,3 +60,7 @@
 <!ENTITY cookieExceptions.accesskey     "V">
 <!ENTITY showCookies.label              "Zobraziť cookies…">
 <!ENTITY showCookies.accesskey          "Z">
+
+<!-- Do Not Track -->
+<!ENTITY doNotTrack.label               "Požiadať webové stránky, aby nesledovali moju aktivitu">
+<!ENTITY doNotTrack.accesskey           "w">
